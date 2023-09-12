@@ -9,7 +9,8 @@ Benvenuti al repository della traduzione non ufficiale in italiano di One Pace! 
 
 ## Contributi
 
-I sottotitoli sono stati tradotti automaticamente con Google, perciò la qualità delle traduzioni non è il massimo. Consideriamo molto chi decide di aiutarci con le traduzioni, perciò sentitevi liberi di scaricare i file e aiutarci a tradurre.
+I sottotitoli sono stati tradotti automaticamente con Google, perciò la qualità delle traduzioni non è il massimo. Consideriamo molto chi decide di aiutarci con le traduzioni, perciò sentitevi liberi di scaricare i file e aiutarci a tradurre. Nel repo trovate anche i sottitoli originali proposti da One Pace con cui confrontare la traduzione.
+Per poter modificare i sottotitoli, vi consiglio di usare o un programma come SubTitle Editor 4.0.0 oppure un semplice blocco note. Fate una richiesta di pull per uploadare il vostro file aggiornato.
 
 ## Problemi e Segnalazioni
 

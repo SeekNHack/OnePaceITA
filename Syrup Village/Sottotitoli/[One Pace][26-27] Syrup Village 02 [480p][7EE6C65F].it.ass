@@ -124,13 +124,13 @@ Dialogue: 0,0:00:01.73,0:00:03.99,Credits,,90,0,60,,{\an7\fad(600,200)\fs30}Modi
 Dialogue: 0,0:00:01.73,0:00:03.77,Main,,0,0,0,,{\i1}Ricchezza, fama, potere...{\i}
 Dialogue: 0,0:00:03.77,0:00:05.67,Main,,0,0,0,,{\i1}Gold Roger,{\i} {\i1}il re dei pirati,{\i}
 Dialogue: 0,0:00:03.99,0:00:06.25,Credits,,90,0,60,,{\an7\fad(600,200)\fs30\u0}Lancia di cronometraggio{\r\u0}
-Dialogue: 0,0:00:05.67,0:00:07.97,Main,,0,0,0,,{\i1}ho ottenuto tutto ciò che{\i}\N{\i1}questo mondo ha da offrire.{\i}
+Dialogue: 0,0:00:05.67,0:00:07.97,Main,,0,0,0,,{\i1}ha ottenuto tutto ciò che{\i}\N{\i1}questo mondo ha da offrire.{\i}
 Dialogue: 0,0:00:06.25,0:00:09.76,Credits,,90,0,60,,{\an7\fad(600,600)\fs30}Garanzia di qualità{\r} Galaxy\N9000 Grug Mr. Rufy Pepperjack
 Dialogue: 0,0:00:07.97,0:00:11.84,Main,,0,0,0,,{\i1}Le parole che pronunciò poco prima{\i}\N{\i1}della sua morte spinsero la gente al mare.{\i}
 Dialogue: 0,0:00:09.76,0:00:12.76,Credits,,90,0,60,,{\an7\fad(600,600)\fs30}Colonna sonora{\r} Halee
-Dialogue: 0,0:00:11.84,0:00:15.68,Main,,0,0,0,,{\i1}Il mio tesoro?  Se\Nlo vuoi,{\i} {\i1}puoi averlo!{\i}
+Dialogue: 0,0:00:11.84,0:00:15.68,Main,,0,0,0,,{\i1}Il mio tesoro?  Se\Nlo volete,{\i} {\i1}potete averlo!{\i}
 Dialogue: 0,0:00:12.76,0:00:15.76,Credits,,90,0,60,,{\an7\fad(600,600)\fs30}Grafica{\r} Datenshi
-Dialogue: 0,0:00:15.68,0:00:19.16,Main,,0,0,0,,{\i1}Trovalo!  Ho lasciato lì tutto ciò\Nche{\i} {\i1}questo mondo ha da offrire!{\i}
+Dialogue: 0,0:00:15.68,0:00:19.16,Main,,0,0,0,,{\i1}Trovatelo!  Ho lasciato lì tutto ciò\Nche{\i} {\i1}questo mondo ha da offrire!{\i}
 Dialogue: 0,0:00:15.76,0:00:18.76,Credits,,90,0,60,,{\an7\fad(600,600)\fs30}Karaoke{\r} KaitouYahiko
 Dialogue: 0,0:00:21.85,0:00:26.59,Main,,0,0,0,,{\i1}E così gli uomini si dirigono verso la Rotta\NMaggiore{\i} {\i1}alla ricerca dei propri sogni!{\i}
 Dialogue: 0,0:00:26.59,0:00:29.92,Main,,0,0,0,,{\i1}Il mondo è davvero entrato\Nin{\i} {\i1}una grande era dei pirati!{\i}
@@ -1400,29 +1400,29 @@ Comment: 0,0:01:48.90,0:01:49.75,Karaoke,,0,0,0,karaoke,{\k17}{\k30}Noi {\k38}si
 Dialogue: 2,0:01:49.02,0:01:49.57,Karaoke,,0,0,0,fx,{\an5\blur0\pos(589,38)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,300,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Noi
 Dialogue: 2,0:01:49.32,0:01:49.95,Karaoke,,0,0,0,fx,{\an5\blur0\pos(686,38)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Sono!
 Dialogue: 0,0:01:49.92,0:01:56.15,Title,,0,0,250,,{\fad(1000,1000)}Capitano Kuro
-Dialogue: 0,0:01:52.48,0:01:56.22,Main,,0,0,0,,Non chiamarlo assassinio, Jango.\NHa un brutto suono.
+Dialogue: 0,0:01:52.48,0:01:56.22,Main,,0,0,0,,Non chiamarlo assassinio, Jango.\NSuona male.
 Dialogue: 0,0:01:56.22,0:01:59.68,Main,,0,0,0,,Oh giusto.  Incidente.\NÈ un incidente.
-Dialogue: 0,0:02:01.85,0:02:04.42,Main,,0,0,0,,Ehi, di cosa stanno\Nparlando quei ragazzi?
-Dialogue: 0,0:02:04.42,0:02:08.52,Main,,0,0,0,,D-Non guardarmi!\NQuesto è ciò che v{\i1}orrei {\i}sapere!
+Dialogue: 0,0:02:01.85,0:02:04.42,Main,,0,0,0,,Ehi, di cosa stanno\Nparlando quei due?
+Dialogue: 0,0:02:04.42,0:02:08.52,Main,,0,0,0,,N-Non guardarmi!\NE' ciò che vorrei sapere io!
 Dialogue: 0,0:02:08.52,0:02:11.50,Main,,0,0,0,,Non possiamo semplicemente ucciderla.
 Dialogue: 0,0:02:11.50,0:02:15.37,Main,,0,0,0,,La signorina Kaya deve morire in uno sfortunato incidente.
 Dialogue: 0,0:02:15.37,0:02:16.99,Main,,0,0,0,,Non rovinare tutto!
 Dialogue: 0,0:02:17.95,0:02:19.28,Main,,0,0,0,,Quindi, praticamente, al\Ntuo segnale, io e gli uomini
 Dialogue: 0,0:02:19.28,0:02:23.87,Main,,0,0,0,,assaltiamo il villaggio\Ne uccidiamo la ragazza.
 Dialogue: 0,0:02:23.87,0:02:27.61,Main,,0,0,0,,E poi avrai la sua eredità...
-Dialogue: 0,0:02:27.61,0:02:30.52,Main,,0,0,0,,Sciocco!  Non capisci niente!
-Dialogue: 0,0:02:30.52,0:02:34.13,Main,,0,0,0,,Come potrei io, un outsider,\Nereditare la proprietà di Kaya?!
-Dialogue: 0,0:02:34.13,0:02:36.02,Main,,0,0,0,,Lavorerai duro per?
-Dialogue: 0,0:02:36.02,0:02:38.59,Main,,0,0,0,,Lavorare duro non equivarrà ad uno squat.
+Dialogue: 0,0:02:27.61,0:02:30.52,Main,,0,0,0,,Idiota!  Non capisci niente!
+Dialogue: 0,0:02:30.52,0:02:34.13,Main,,0,0,0,,Come potrei io, un estraneo,\Nereditare la proprietà di Kaya?!
+Dialogue: 0,0:02:34.13,0:02:36.02,Main,,0,0,0,,Lavorerai duro per ottenerla?
+Dialogue: 0,0:02:36.02,0:02:38.59,Main,,0,0,0,,Lavorare duro non è abbastanza.
 Dialogue: 0,0:02:38.59,0:02:41.56,Main,,0,0,0,,Ascolta, questa è la\Nparte più importante!
 Dialogue: 0,0:02:41.56,0:02:45.68,Main,,0,0,0,,{\i1}Prima{\i} di ucciderla, utilizzerai l'ipnosi per costringere Kaya a scrivere il suo testamento...
 Dialogue: 0,0:02:45.68,0:02:50.14,Main,,0,0,0,,...per dire: "Lascio tutta la mia fortuna\Nal mio maggiordomo, Klahadore!"
 Dialogue: 0,0:02:52.36,0:02:57.44,Main,,0,0,0,,Solo allora erediterò\Nla sua enorme fortuna...
 Dialogue: 0,0:02:57.44,0:03:00.91,Main,,0,0,0,,...in modo del tutto normale.
 Dialogue: 0,0:03:00.91,0:03:06.72,Main,,0,0,0,,Ho passato tre lunghi anni a guadagnarmi\Nla fiducia di tutti quelli che mi
-Dialogue: 0,0:03:06.72,0:03:10.79,Main,,0,0,0,,circondavano, quindi non sarebbe una\Nsorpresa che lei mi lasciasse la sua eredità.
+Dialogue: 0,0:03:06.72,0:03:10.79,Main,,0,0,0,,circondavano, quindi non sarebbe una\Nsorpresa se lei mi lasciasse la sua eredità.
 Dialogue: 0,0:03:10.79,0:03:14.75,Main,,0,0,0,,Tre anni come\Nmaggiordomo per quello, eh...
-Dialogue: 0,0:03:14.75,0:03:17.23,Main,,0,0,0,,Ma sicuramente ci hai spaventato allora...
+Dialogue: 0,0:03:14.75,0:03:17.23,Main,,0,0,0,,Ma certamente ci hai spaventato allora...
 Dialogue: 0,0:03:17.23,0:03:18.46,Main,,0,0,0,,...Capitano Kuro.
 Dialogue: 0,0:03:18.46,0:03:23.18,Main,,0,0,0,,Tre anni fa, all'improvviso hai detto\Nche avresti rinunciato alla vita da pirata.
 Dialogue: 0,0:03:23.18,0:03:27.14,Main,,0,0,0,,In un batter d'occhio, scegli\Nun subordinato che sia il tuo
@@ -1432,64 +1432,64 @@ Dialogue: 0,0:03:44.67,0:03:47.37,Main,,0,0,0,,Sei davvero Kuro,\Nl'uomo dai mil
 Dialogue: 0,0:03:47.37,0:03:49.63,Main,,0,0,0,,Non chiamarmi così.
 Dialogue: 0,0:03:49.63,0:03:51.79,Main,,0,0,0,,Ho abbandonato\Nquel nome tre anni fa.
 Dialogue: 0,0:03:51.79,0:03:54.61,Main,,0,0,0,,Ora voglio ottenere\Ningenti somme di
-Dialogue: 0,0:03:54.61,0:03:56.83,Main,,0,0,0,,denaro, senza che il\Ngoverno mi spalleggi.
+Dialogue: 0,0:03:54.61,0:03:56.83,Main,,0,0,0,,denaro, senza che il\Ngoverno mi stia addosso.
 Dialogue: 0,0:03:56.83,0:03:58.83,Main,,0,0,0,,In altre parole, sono un pacifista.
 Dialogue: 0,0:04:01.04,0:04:03.68,Main,,0,0,0,,Che pacifista sei!
 Dialogue: 0,0:04:03.68,0:04:08.14,Main,,0,0,0,,uccidendo un'intera famiglia ricca per questa tua "pace".
 Dialogue: 0,0:04:08.14,0:04:11.78,Main,,0,0,0,,Aspetta, adesso.\NLa morte del padre era reale.
 Dialogue: 0,0:04:11.78,0:04:13.56,Main,,0,0,0,,Non lo avevo previsto.
-Dialogue: 0,0:04:13.56,0:04:14.87,Main,,0,0,0,,Beh, qualunque cosa.
+Dialogue: 0,0:04:13.56,0:04:14.87,Main,,0,0,0,,Beh, in ogni caso
 Dialogue: 0,0:04:14.87,0:04:16.32,Main,,0,0,0,,Non importa.
 Dialogue: 0,0:04:16.32,0:04:18.96,Main,,0,0,0,,Sbrigati e dai il segnale.
 Dialogue: 0,0:04:18.96,0:04:24.07,Main,,0,0,0,,Stiamo aspettando nelle acque ormai da quasi un'intera settimana.
-Dialogue: 0,0:04:24.07,0:04:28.20,Main,,0,0,0,,Gli uomini cominciano a diventare impazienti.
-Dialogue: 0,0:04:33.27,0:04:35.70,Main,,0,0,0,,{\i1}Questo è brutto!{\i}
+Dialogue: 0,0:04:24.07,0:04:28.20,Main,,0,0,0,,Gli uomini cominciano ad essere impazienti.
+Dialogue: 0,0:04:33.27,0:04:35.70,Main,,0,0,0,,{\i1}Si mette male!{\i}
 Dialogue: 0,0:04:35.70,0:04:39.07,Main,,0,0,0,,{\i1}Abbiamo sentito qualcosa di veramente brutto!{\i}
-Dialogue: 0,0:04:39.96,0:04:43.24,Main,,0,0,0,,Ehi, cosa sta succedendo?\NSembra un po' brutto.
-Dialogue: 0,0:04:43.24,0:04:46.87,Main,,0,0,0,,Non stavi ascoltando per tutto questo\Ntempo?!  Questo è {\i1}sul serio{\i} grave!
-Dialogue: 0,0:04:46.87,0:04:47.97,Main,,0,0,0,,Sono il vero affare!
+Dialogue: 0,0:04:39.96,0:04:43.24,Main,,0,0,0,,Ehi, cosa sta succedendo?\NQuesto suona abbastanza male.
+Dialogue: 0,0:04:43.24,0:04:46.87,Main,,0,0,0,,Non stavi ascoltando per tutto questo\Ntempo?!  La situazione è {\i1}gravissima{\i}!
+Dialogue: 0,0:04:46.87,0:04:47.97,Main,,0,0,0,,Quelli fanno sul serio!
 Dialogue: 0,0:04:47.97,0:04:55.14,Main,,0,0,0,,Si dice che il Capitano Kuro sia il\Npirata più intelligente e brutale di tutti!
 Dialogue: 0,0:04:55.93,0:05:00.23,Main,,0,0,0,,Si diceva che la marina lo avesse\Ncatturato e giustiziato tre anni fa...
 Dialogue: 0,0:05:00.23,0:05:02.53,Main,,0,0,0,,...ma il Capitano Kuro è vivo!
 Dialogue: 0,0:05:02.53,0:05:05.20,Main,,0,0,0,,Nei panni di Klahadore, il maggiordomo!
-Dialogue: 0,0:05:05.20,0:05:10.83,Main,,0,0,0,,Ha cercato la fortuna di\NKaya negli ultimi tre anni!
+Dialogue: 0,0:05:05.20,0:05:10.83,Main,,0,0,0,,Ha cercato di ottenere la fortuna di\NKaya negli ultimi tre anni!
 Dialogue: 0,0:05:14.28,0:05:16.67,Main,,0,0,0,,Attaccheranno il villaggio!
 Dialogue: 0,0:05:16.67,0:05:19.25,Main,,0,0,0,,Anche Kaya è in pericolo!
-Dialogue: 0,0:05:23.01,0:05:24.38,Main,,0,0,0,,Cattivo!
-Dialogue: 0,0:05:24.38,0:05:26.72,Main,,0,0,0,,Questo è davvero grave!
+Dialogue: 0,0:05:23.01,0:05:24.38,Main,,0,0,0,,Maledizione!
+Dialogue: 0,0:05:24.38,0:05:26.72,Main,,0,0,0,,E' terribile!
 Dialogue: 0,0:05:33.15,0:05:35.35,Main,,0,0,0,,Ehi, non alzarti!  Ti vedranno!
-Dialogue: 0,0:05:35.35,0:05:38.67,Main,,0,0,0,,Ehi ragazzi!\NNon attaccare quella ragazza!
+Dialogue: 0,0:05:35.35,0:05:38.67,Main,,0,0,0,,Ehi ragazzi!\NNon attaccate quella ragazza!
 Dialogue: 0,0:05:40.19,0:05:41.69,Main,,0,0,0,,Chi sei?!
-Dialogue: 0,0:05:41.69,0:05:44.24,Main,,0,0,0,,Idiota!  Ti hanno notato!
+Dialogue: 0,0:05:41.69,0:05:44.24,Main,,0,0,0,,Idiota!  Ti hanno visto!
 Dialogue: 0,0:05:44.24,0:05:46.65,Main,,0,0,0,,Sbrigati e nasconditi\Nprima che ti uccidano!
 Dialogue: 0,0:05:46.65,0:05:47.88,Main,,0,0,0,,OH...
 Dialogue: 0,0:05:47.88,0:05:51.03,Main,,0,0,0,,Se non è Usopp-{\i1}kun.{\i}
-Dialogue: 0,0:05:51.03,0:05:54.00,Main,,0,0,0,,Hanno notato anche me!
-Dialogue: 0,0:05:54.63,0:05:55.92,Main,,0,0,0,,Hai fatto...
-Dialogue: 0,0:05:55.92,0:05:58.00,Main,,0,0,0,,...hai sentito qualcosa?
+Dialogue: 0,0:05:51.03,0:05:54.00,Main,,0,0,0,,Hanno visto anche me!
+Dialogue: 0,0:05:54.63,0:05:55.92,Main,,0,0,0,,Per caso hai...
+Dialogue: 0,0:05:55.92,0:05:58.00,Main,,0,0,0,,...sentito qualcosa?
 Dialogue: 0,0:05:58.00,0:06:00.67,Main,,0,0,0,,N-No!  Cosa intendi?!
 Dialogue: 0,0:06:00.67,0:06:03.42,Main,,0,0,0,,Siamo appena arrivati, quindi ovviamente non abbiamo sentito nulla!
 Dialogue: 0,0:06:03.42,0:06:04.59,Main,,0,0,0,,Abbiamo sentito tutto!
 Dialogue: 0,0:06:04.59,0:06:05.63,Main,,0,0,0,,Ei, tu!
 Dialogue: 0,0:06:11.73,0:06:15.10,Main,,0,0,0,,Oh, va bene.
 Dialogue: 0,0:06:15.10,0:06:17.56,Main,,0,0,0,,Ehi ragazzi!
-Dialogue: 0,0:06:17.56,0:06:19.73,Main,,0,0,0,,Guarda attentamente questo anello!
-Dialogue: 0,0:06:19.73,0:06:21.62,Main,,0,0,0,,Che cos'è?
-Dialogue: 0,0:06:21.62,0:06:24.73,Main,,0,0,0,,Q-Questo è brutto!\NÈ un'arma da lancio!  Schivalo!
-Dialogue: 0,0:06:24.73,0:06:29.02,Main,,0,0,0,,Al conteggio di "uno,\Ndue, Jango", ti verrà sonno.
-Dialogue: 0,0:06:29.02,0:06:30.49,Main,,0,0,0,,Pronto?
+Dialogue: 0,0:06:17.56,0:06:19.73,Main,,0,0,0,,Guardate attentamente questo anello!
+Dialogue: 0,0:06:19.73,0:06:21.62,Main,,0,0,0,,Cos'è quello?
+Dialogue: 0,0:06:21.62,0:06:24.73,Main,,0,0,0,,Q-Questo è un vero disastro!\NÈ un'arma da lancio!  Schivala!
+Dialogue: 0,0:06:24.73,0:06:29.02,Main,,0,0,0,,Al conteggio di "uno,\Ndue, Jango", vi verrà sonno.
+Dialogue: 0,0:06:29.02,0:06:30.49,Main,,0,0,0,,Pronti?
 Dialogue: 0,0:06:30.49,0:06:33.45,Main,,0,0,0,,{\fscx300}-{\r}Uno, due...\N{\fscx300}-{\r}Nasconditi!  Ci ucciderà!
 Dialogue: 0,0:06:33.45,0:06:34.41,Main,,0,0,0,,...Jango!
 Dialogue: 0,0:06:39.64,0:06:41.13,Main,,0,0,0,,Ehi, svegliati, Jango!
-Dialogue: 0,0:06:41.13,0:06:43.38,Main,,0,0,0,,Non hai ancora risolto\Nquesta abitudine?!
-Dialogue: 0,0:06:45.05,0:06:48.13,Main,,0,0,0,,H-Ehi, cosa stai facendo?!\NCadrai!
-Dialogue: 0,0:06:51.97,0:06:55.08,Main,,0,0,0,,Hmm, a testa in giù...
+Dialogue: 0,0:06:41.13,0:06:43.38,Main,,0,0,0,,Non hai ancora risolto\Nquest' abitudine?!
+Dialogue: 0,0:06:45.05,0:06:48.13,Main,,0,0,0,,E-Ehi, cosa stai facendo?!\NCadrai!
+Dialogue: 0,0:06:51.97,0:06:55.08,Main,,0,0,0,,Hmm, di testa...
 Dialogue: 0,0:06:55.08,0:06:57.62,Main,,0,0,0,,Non {\i1}intendevo{\i}\Nucciderlo, ma non sarebbe
 Dialogue: 0,0:06:57.62,0:07:00.48,Main,,0,0,0,,potuto sopravvivere\Nda quell'altezza...
 Dialogue: 0,0:07:00.48,0:07:02.44,Main,,0,0,0,,Accidenti!
 Dialogue: 0,0:07:02.44,0:07:04.32,Main,,0,0,0,,Lo ha ucciso!
 Dialogue: 0,0:07:04.32,0:07:06.78,Main,,0,0,0,,Quel bastardo!  Accidenti!
-Dialogue: 0,0:07:06.78,0:07:10.30,Main,,0,0,0,,E l'altro?\NMi prenderò cura di lui?
+Dialogue: 0,0:07:06.78,0:07:10.30,Main,,0,0,0,,E l'altro?\NDevo occuparmi di lui?
 Dialogue: 0,0:07:10.30,0:07:11.74,Main,,0,0,0,,Non c'è bisogno.
 Dialogue: 0,0:07:11.74,0:07:14.95,Main,,0,0,0,,Non importa quello che\Nfa, non avrà importanza.
 Dialogue: 0,0:07:17.08,0:07:21.83,Main,,0,0,0,,Domani mattina, Jango.\NAttacca il villaggio all'alba.
@@ -1499,9 +1499,9 @@ Dialogue: 0,0:07:29.74,0:07:31.05,Main,,0,0,0,,Domani!
 Dialogue: 0,0:07:31.05,0:07:33.45,Main,,0,0,0,,Mi hai sentito, Usopp-{\i1}kun.{\i}
 Dialogue: 0,0:07:33.45,0:07:38.52,Main,,0,0,0,,Non puoi fare niente\Nper fermare il mio piano.
 Dialogue: 0,0:07:38.52,0:07:40.23,Main,,0,0,0,,Accidenti!
-Dialogue: 0,0:07:43.85,0:07:45.31,Main,,0,0,0,,Sei sicuro di lui?
+Dialogue: 0,0:07:43.85,0:07:45.31,Main,,0,0,0,,Sei sicuro riguardo lui?
 Dialogue: 0,0:07:45.31,0:07:48.94,Main,,0,0,0,,Ovviamente.  I miei piani sono impeccabili.
-Dialogue: 0,0:07:50.40,0:07:53.49,Main,,0,0,0,,{\i1}Questo è brutto, questo è brutto, questo è brutto!{\i}
+Dialogue: 0,0:07:50.40,0:07:53.49,Main,,0,0,0,,{\i1}E' un disastro, un disastro, un disastro!{\i}
 Dialogue: 0,0:07:53.49,0:07:56.87,Main,,0,0,0,,{\i1}Tutti in questo villaggio, con cui\Nsono cresciuto, verranno uccisi!{\i0}
 Dialogue: 0,0:07:56.87,0:07:58.66,Main,,0,0,0,,{\i1}Kaya verrà uccisa!{\i}
 Dialogue: 0,0:07:58.66,0:08:02.92,Main,,0,0,0,,{\i1}Anche se li amo tutti!{\i}
@@ -1524,18 +1524,18 @@ Dialogue: 0,0:09:00.24,0:09:02.27,Main,,0,0,0,,Chi lo sa.
 Dialogue: 0,0:09:02.27,0:09:04.77,Main,,0,0,0,,No, quello sguardo era diverso!
 Dialogue: 0,0:09:04.77,0:09:06.56,Main,,0,0,0,,Sì, deve essere\Nsuccesso qualcosa!
 Dialogue: 0,0:09:06.56,0:09:09.02,Main,,0,0,0,,Perché pensi che\Nsembrasse così disperato?!
-Dialogue: 0,0:09:09.86,0:09:12.40,Main,,0,0,0,,Ehi, come arriviamo a questa tua riva?
+Dialogue: 0,0:09:09.86,0:09:12.40,Main,,0,0,0,,Ehi, come arriviamo alla spiaggia?
 Dialogue: 0,0:09:12.40,0:09:15.17,Main,,0,0,0,,Non puzza di guai?!
 Dialogue: 0,0:09:15.17,0:09:17.29,Main,,0,0,0,,Sì, deve essere successo\Nqualcosa sulla riva!
 Dialogue: 0,0:09:17.29,0:09:19.37,Main,,0,0,0,,Penso che questo\Nrichieda i Pirati di Usopp!
-Dialogue: 0,0:09:19.37,0:09:22.24,Main,,0,0,0,,Va bene, già!\NCome ci arriviamo?!
+Dialogue: 0,0:09:19.37,0:09:22.24,Main,,0,0,0,,Va bene, basta!\NCome ci arriviamo?!
 Dialogue: 0,0:09:26.76,0:09:30.32,Main,,0,0,0,,Notizie terribili, tutti!
 Dialogue: 0,0:09:30.32,0:09:34.69,Main,,0,0,0,,I pirati attaccheranno!
 Dialogue: 0,0:09:37.30,0:09:41.51,Main,,0,0,0,,Domani mattina i pirati\Nattaccheranno questo villaggio!
 Dialogue: 0,0:09:41.51,0:09:44.02,Main,,0,0,0,,Tutti, scappate!
 Dialogue: 0,0:09:49.86,0:09:52.46,Main,,0,0,0,,Va bene, Usop!\NQuando è troppo è troppo!
 Dialogue: 0,0:09:52.46,0:09:56.22,Main,,0,0,0,,Pagherai una volta per tutte!
-Dialogue: 0,0:09:56.22,0:09:58.90,Main,,0,0,0,,N-No, non è così!
+Dialogue: 0,0:09:56.22,0:09:58.90,Main,,0,0,0,,N-No, non è come credete!
 Dialogue: 0,0:09:58.90,0:10:00.28,Main,,0,0,0,,E' la verità questa volta!
 Dialogue: 0,0:10:00.28,0:10:03.67,Main,,0,0,0,,Stai zitto!\NTutto quello che fai è dire enormi bugie!
 Dialogue: 0,0:10:03.67,0:10:07.83,Main,,0,0,0,,Se fossi onesto come\NKlahadore-{\i1}san,{\i} {\i1}allora{\i} ti crederemmo!
@@ -1545,7 +1545,7 @@ Dialogue: 0,0:10:15.29,0:10:16.70,Thoughts,,0,0,0,,Accidenti!
 Dialogue: 0,0:10:16.70,0:10:21.89,Thoughts,,0,0,0,,Quindi mi ha ignorato perché\Ncomunque nessuno mi avrebbe creduto?!
 Dialogue: 0,0:10:28.11,0:10:30.48,Main,,0,0,0,,Questi sono di tuo gradimento?
 Dialogue: 0,0:10:31.36,0:10:35.08,Main,,0,0,0,,Sono quelli che hai ordinato su misura dal negozio di occhiali,
-Dialogue: 0,0:10:35.08,0:10:36.88,Main,,0,0,0,,nella prossima città.
+Dialogue: 0,0:10:35.08,0:10:36.88,Main,,0,0,0,,nella città più vicina.
 Dialogue: 0,0:10:36.88,0:10:38.90,Main,,0,0,0,,Sì, sono perfetti!
 Dialogue: 0,0:10:40.09,0:10:43.45,Main,,0,0,0,,Mi dispiace di averti chiesto di arrivare fino a lì.
 Dialogue: 0,0:10:50.24,0:10:51.63,Main,,0,0,0,,È un regalo, vero?
@@ -1558,37 +1558,37 @@ Dialogue: 0,0:11:05.93,0:11:08.85,Main,,0,0,0,,Per favore, ascoltatemi tutti!
 Dialogue: 0,0:11:08.85,0:11:11.94,Main,,0,0,0,,Domani mattina i pirati{\i1} attaccheranno davvero{\i0}!
 Dialogue: 0,0:11:11.94,0:11:14.82,Main,,0,0,0,,Se credessimo a ogni\Nstoria che hai raccontato, a
 Dialogue: 0,0:11:14.82,0:11:17.43,Main,,0,0,0,,quest'ora saremmo fuggiti\Ndal villaggio centinaia di volte!
-Dialogue: 0,0:11:17.43,0:11:19.95,Main,,0,0,0,,Per favore credimi!\NDobbiamo uscire di qui!
-Dialogue: 0,0:11:19.95,0:11:23.12,Main,,0,0,0,,Davvero{\i1}{\i0} uccideranno tutti!
+Dialogue: 0,0:11:17.43,0:11:19.95,Main,,0,0,0,,Per favore credetemi!\NDobbiamo andarcene da qui!
+Dialogue: 0,0:11:19.95,0:11:23.12,Main,,0,0,0,,Uccideranno veramente tutti!
 Dialogue: 0,0:11:23.12,0:11:25.87,Main,,0,0,0,,Giuro che questa volta è la verità!
 Dialogue: 0,0:11:25.87,0:11:28.65,Main,,0,0,0,,E {\i1}noi{\i} ti prenderemo questa volta!
 Dialogue: 0,0:11:32.27,0:11:34.24,Main,,0,0,0,,Dannazione!
-Dialogue: 0,0:11:34.24,0:11:36.42,Main,,0,0,0,,Prendilo!  Non lasciarlo scappare!
+Dialogue: 0,0:11:34.24,0:11:36.42,Main,,0,0,0,,Prendetelo!  Non lasciatelo scappare!
 Dialogue: 0,0:11:44.43,0:11:47.20,Main,,0,0,0,,Grazie per essere venuti, uomini.
 Dialogue: 0,0:11:47.20,0:11:49.39,Main,,0,0,0,,Sono passati davvero tre lunghi anni.
 Dialogue: 0,0:11:49.39,0:11:52.61,Main,,0,0,0,,Una volta che questo piano avrà successo,
-Dialogue: 0,0:11:52.61,0:11:57.57,Main,,0,0,0,,Intendo darvi un sacco di informazioni.
-Dialogue: 0,0:11:57.57,0:11:59.35,Main,,0,0,0,,Domani all'alba, distruggi
-Dialogue: 0,0:11:59.35,0:12:01.90,Main,,0,0,0,,il villaggio a tuo piacimento!
+Dialogue: 0,0:11:52.61,0:11:57.57,Main,,0,0,0,,Intendo ricompensarvi tutti adeguatamente.
+Dialogue: 0,0:11:57.57,0:11:59.35,Main,,0,0,0,,Domani all'alba, distruggete
+Dialogue: 0,0:11:59.35,0:12:01.90,Main,,0,0,0,,il villaggio a vostro piacimento!
 Dialogue: 0,0:12:09.08,0:12:11.87,Main,,0,0,0,,Eh?!  Uccideranno Kaya-{\i1}san{\i}?!
 Dialogue: 0,0:12:11.87,0:12:15.08,Main,,0,0,0,,Attaccheranno davvero il villaggio?!
-Dialogue: 0,0:12:15.08,0:12:19.05,Main,,0,0,0,,Sì, è quello che hanno detto.\NNessuna domanda a riguardo.
+Dialogue: 0,0:12:15.08,0:12:19.05,Main,,0,0,0,,Sì, è quello che hanno detto.\NNessun dubbio a riguardo.
 Dialogue: 0,0:12:22.93,0:12:26.05,Main,,0,0,0,,Allora perché stavi\Ndormendo qui?
 Dialogue: 0,0:12:26.87,0:12:28.39,Main,,0,0,0,,Questo è il punto!
-Dialogue: 0,0:12:28.39,0:12:30.98,Main,,0,0,0,,{\i1}pensavo{\i} di essere sulla scogliera...
+Dialogue: 0,0:12:28.39,0:12:30.98,Main,,0,0,0,,{\i1}Pensavo{\i} di essere sulla scogliera...
 Dialogue: 0,0:12:30.98,0:12:34.25,Secondary,,0,0,0,,...{\an8}Allora come sono arrivato fin qui?
-Dialogue: 0,0:12:30.98,0:12:34.25,Main,,0,0,0,,{\fscx300}-{\r}Lo sapevo, Klahadore è un cattivo ragazzo!
+Dialogue: 0,0:12:30.98,0:12:34.25,Main,,0,0,0,,{\fscx300}-{\r}Lo sapevo, Klahadore è un uomo cattivo!
 Dialogue: 0,0:12:34.25,0:12:35.96,Main,,0,0,0,,Non c'è da stupirsi che sembri così inquietante!
 Dialogue: 0,0:12:35.96,0:12:39.73,Main,,0,0,0,,Ecco perché il nostro capitano è corso\Nal villaggio con quello sguardo intenso!
 Dialogue: 0,0:12:39.73,0:12:41.15,Main,,0,0,0,,E' fantastico, allora!
 Dialogue: 0,0:12:41.15,0:12:44.09,Main,,0,0,0,,Adesso lo sapranno e\Npotranno scappare prima!
-Dialogue: 0,0:12:44.09,0:12:45.53,Main,,0,0,0,,Parliamo di stupidi cattivi!
+Dialogue: 0,0:12:44.09,0:12:45.53,Main,,0,0,0,,Questi cattivi sono proprio stupidi!
 Dialogue: 0,0:12:45.53,0:12:48.41,Main,,0,0,0,,Sì, è vero!\NAnche noi dobbiamo scappare!
 Dialogue: 0,0:12:48.41,0:12:51.20,Main,,0,0,0,,Sì, è meglio che prendiamo tutti i nostri beni più preziosi,
-Dialogue: 0,0:12:51.20,0:12:52.71,Main,,0,0,0,,{\fscx300}-{\r}e affrettati!  {\fscx300}-{\r}e affrettati!
+Dialogue: 0,0:12:51.20,0:12:52.71,Main,,0,0,0,,{\fscx300}-{\r}e ci sbrighiamo!  {\fscx300}-{\r}e ci sbrighiamo!
 Dialogue: 0,0:12:54.96,0:12:55.54,Main,,0,0,0,,Oh no!
-Dialogue: 0,0:12:55.54,0:12:56.54,Main,,0,0,0,,Che cos'è?
-Dialogue: 0,0:12:56.54,0:13:00.84,Main,,0,0,0,,Dobbiamo fare scorta di cibo prima che il ragazzo della macelleria scappi!
+Dialogue: 0,0:12:55.54,0:12:56.54,Main,,0,0,0,,Che c'è?
+Dialogue: 0,0:12:56.54,0:13:00.84,Main,,0,0,0,,Dobbiamo fare scorta di cibo prima che il macellaio scappi!
 Dialogue: 0,0:13:01.54,0:13:03.84,Main,,0,0,0,,Non è questo il problema in questione qui.
 Dialogue: 0,0:13:20.44,0:13:22.42,Main,,0,0,0,,Usopp-{\i1}san{\i}!
 Dialogue: 0,0:13:27.95,0:13:29.75,Main,,0,0,0,,Grazie a Dio!
@@ -1596,16 +1596,16 @@ Dialogue: 0,0:13:29.75,0:13:32.08,Main,,0,0,0,,Pensavo che non saresti mai torna
 Dialogue: 0,0:13:32.58,0:13:36.21,Main,,0,0,0,,Devi scappare, Kaya!\NTi uccideranno!
 Dialogue: 0,0:13:36.21,0:13:37.67,Main,,0,0,0,,Ehm...
 Dialogue: 0,0:13:37.67,0:13:39.38,Main,,0,0,0,,...Di cosa stai parlando?
-Dialogue: 0,0:13:39.38,0:13:43.46,Main,,0,0,0,,Sei stato ingannato!\NIl tuo maggiordomo è davvero un pirata!
-Dialogue: 0,0:13:50.06,0:13:52.31,Main,,0,0,0,,Aspettare...
+Dialogue: 0,0:13:39.38,0:13:43.46,Main,,0,0,0,,Sei stata ingannata!\NIl tuo maggiordomo è davvero un pirata!
+Dialogue: 0,0:13:50.06,0:13:52.31,Main,,0,0,0,,Aspetta...
 Dialogue: 0,0:13:52.31,0:13:54.60,Main,,0,0,0,,Che razza di scherzo è questo?
 Dialogue: 0,0:13:55.87,0:13:59.44,Main,,0,0,0,,Non è uno scherzo!\NL'ho sentito con le mie orecchie!
-Dialogue: 0,0:14:00.96,0:14:05.03,Main,,0,0,0,,Klahadore è in realtà un\Npirata che si è intrufolato
-Dialogue: 0,0:14:05.03,0:14:06.33,Main,,0,0,0,,nella tua villa per poter\Nottenere la tua fortuna!
+Dialogue: 0,0:14:00.96,0:14:05.03,Main,,0,0,0,,Klahadore è in realtà un pirata che si è intrufolato
+Dialogue: 0,0:14:05.03,0:14:06.33,Main,,0,0,0,,nella tua villa per\Nottenere la tua fortuna!
 Dialogue: 0,0:14:06.33,0:14:09.26,Main,,0,0,0,,Ha finto di essere un\Nmaggiordomo per tre
 Dialogue: 0,0:14:09.26,0:14:11.03,Main,,0,0,0,,anni di fila, solo\Nper poterti derubare!
 Dialogue: 0,0:14:13.08,0:14:16.33,Main,,0,0,0,,Di cosa stai parlando, Usopp-{\i1}san{\i}?
-Dialogue: 0,0:14:16.33,0:14:21.29,Main,,0,0,0,,Ha detto che la sua squadra farà irruzione e ti ucciderà domani all'alba!
+Dialogue: 0,0:14:16.33,0:14:21.29,Main,,0,0,0,,Ha detto che la sua ciurma farà irruzione e ti ucciderà domani all'alba!
 Dialogue: 0,0:14:23.54,0:14:26.84,Main,,0,0,0,,Lo ammetto, ha\Ndetto troppo prima.
 Dialogue: 0,0:14:26.84,0:14:29.81,Main,,0,0,0,,Ma mentire così...
 Dialogue: 0,0:14:29.81,0:14:32.68,Main,,0,0,0,,Non è da te, Usopp-{\i1}san{\i}!
@@ -1618,19 +1618,19 @@ Dialogue: 0,0:14:55.85,0:14:57.96,Main,,0,0,0,,Lasciala andare!
 Dialogue: 0,0:14:58.91,0:15:01.54,Main,,0,0,0,,Fidati di me!
 Dialogue: 0,0:15:01.54,0:15:03.24,Main,,0,0,0,,Devi andartene da questo villaggio...
 Dialogue: 0,0:15:03.24,0:15:05.92,Main,,0,0,0,,...prima che torni il maggiordomo!
-Dialogue: 0,0:15:17.98,0:15:19.27,Main,,0,0,0,,Fermare!
-Dialogue: 0,0:15:22.53,0:15:24.65,Main,,0,0,0,,Dai!
+Dialogue: 0,0:15:17.98,0:15:19.27,Main,,0,0,0,,Fermati!
+Dialogue: 0,0:15:22.53,0:15:24.65,Main,,0,0,0,,Andiamo!
 Dialogue: 0,0:15:28.38,0:15:30.99,Main,,0,0,0,,Tutto avrà senso domani!
 Dialogue: 0,0:15:30.99,0:15:32.88,Main,,0,0,0,,Ma devi scappare per ora!
 Dialogue: 0,0:15:32.88,0:15:36.12,Main,,0,0,0,,Per favore ascoltami!
 Dialogue: 0,0:15:44.12,0:15:45.84,Main,,0,0,0,,Sei patetico.
 Dialogue: 0,0:15:56.56,0:15:59.22,Main,,0,0,0,,Allontanati da lei!
 Dialogue: 0,0:16:02.58,0:16:03.73,Main,,0,0,0,,NO!
-Dialogue: 0,0:16:17.32,0:16:18.84,Main,,0,0,0,,Per favore, prendilo!
+Dialogue: 0,0:16:17.32,0:16:18.84,Main,,0,0,0,,Per favore, prendetelo!
 Dialogue: 0,0:16:18.84,0:16:21.21,Main,,0,0,0,,Ha malmenato la padrona di casa!
-Dialogue: 0,0:16:24.92,0:16:28.88,Secondary,,0,0,0,,{\an8}Eccolo!  Prendilo!
+Dialogue: 0,0:16:24.92,0:16:28.88,Secondary,,0,0,0,,{\an8}Eccolo!  Prendetelo!
 Dialogue: 0,0:16:33.76,0:16:36.30,Main,,0,0,0,,Usopp-{\i1}san...{\i}
-Dialogue: 0,0:16:36.30,0:16:40.02,Main,,0,0,0,,Per favore,\Nricomponiti, signorina!
+Dialogue: 0,0:16:36.30,0:16:40.02,Main,,0,0,0,,Per favore,\Nsi ricomponga, signorina!
 Dialogue: 0,0:16:42.39,0:16:48.11,Flashbacks,,0,0,0,,Domani mattina, Jango.\NAttacca il villaggio all'alba!
 Dialogue: 0,0:16:51.03,0:16:52.99,Main,,0,0,0,,{\fscx300}-{\r}Capitano!  {\fscx300}-{\r}Capitano!
 Dialogue: 0,0:16:54.66,0:16:57.37,Main,,0,0,0,,OH!  Hey ragazzi!
@@ -1641,10 +1641,10 @@ Dialogue: 0,0:17:04.06,0:17:06.12,Main,,0,0,0,,Sì, mi sono appena svegliato!
 Dialogue: 0,0:17:06.12,0:17:08.20,Main,,0,0,0,,Questo ragazzo ha\Ndormito tutto il tempo!
 Dialogue: 0,0:17:08.20,0:17:11.10,Main,,0,0,0,,Comunque, Capitano!\NAbbiamo sentito tutto!
 Dialogue: 0,0:17:11.10,0:17:14.63,Main,,0,0,0,,Sbrighiamoci e\Nraccontiamo a tutti dei pirati!
-Dialogue: 0,0:17:14.63,0:17:16.55,Main,,0,0,0,,Dillo a tutti?
+Dialogue: 0,0:17:14.63,0:17:16.55,Main,,0,0,0,,Dirlo a tutti?
 Dialogue: 0,0:17:19.53,0:17:21.06,Flashbacks,,0,0,0,,Sei patetico.
 Dialogue: 0,0:17:23.18,0:17:26.57,Flashbacks,,0,0,0,,Stai zitto!\NTutto quello che fai è dire enormi bugie!
-Dialogue: 0,0:17:34.93,0:17:37.52,Main,,0,0,0,,Sto mentendo come al solito, ovviamente!
+Dialogue: 0,0:17:34.93,0:17:37.52,Main,,0,0,0,,Stavo mentendo come al solito, ovviamente!
 Dialogue: 0,0:17:37.52,0:17:39.66,Main,,0,0,0,,Quel dannato maggiordomo\Nmi ha fatto incazzare, così
 Dialogue: 0,0:17:39.66,0:17:42.66,Main,,0,0,0,,ho inventato una bugia\Ndicendo che era un pirata!
 Dialogue: 0,0:17:44.35,0:17:45.95,Main,,0,0,0,,Oh, capisco!
@@ -1652,12 +1652,12 @@ Dialogue: 0,0:17:45.95,0:17:49.15,Main,,0,0,0,,Quindi anche il tizio col\Ncappel
 Dialogue: 0,0:17:53.23,0:17:55.03,Main,,0,0,0,,Ehi, cosa c'è che non va?
 Dialogue: 0,0:17:55.03,0:17:58.21,Main,,0,0,0,,Non posso credere che lo faresti, capitano.
 Dialogue: 0,0:17:58.21,0:17:59.12,Main,,0,0,0,,Neanche io!
-Dialogue: 0,0:17:59.12,0:18:00.08,Main,,0,0,0,,Lo stesso qui!
+Dialogue: 0,0:17:59.12,0:18:00.08,Main,,0,0,0,,Lo stesso io!
 Dialogue: 0,0:18:00.08,0:18:02.14,Main,,0,0,0,,Anche se quel maggiordomo {\i1}è{\i} un idiota,
 Dialogue: 0,0:18:02.14,0:18:06.51,Main,,0,0,0,,Non avrei mai pensato che avresti\Nmentito solo per {\i1}ferire {\i0}qualcuno!
-Dialogue: 0,0:18:06.51,0:18:09.90,Main,,0,0,0,,Anche noi ti rispettavamo davvero!
+Dialogue: 0,0:18:06.51,0:18:09.90,Main,,0,0,0,,Noi ti rispettavamo davvero!
 Dialogue: 0,0:18:09.90,0:18:12.52,Main,,0,0,0,,Andiamo a casa!\NSì, è ora di cena!
-Dialogue: 0,0:18:12.52,0:18:14.07,Main,,0,0,0,,Mi chiedo cosa stiamo mangiando...
+Dialogue: 0,0:18:12.52,0:18:14.07,Main,,0,0,0,,Chissà cosa si mangia...
 Dialogue: 0,0:18:21.62,0:18:24.94,Main,,0,0,0,,Non mi avrebbero mai creduto fin dall'inizio.
 Dialogue: 0,0:18:24.94,0:18:26.54,Main,,0,0,0,,Ero troppo ottimista.
 Dialogue: 0,0:18:27.76,0:18:30.46,Main,,0,0,0,,Anche così, la verità è la verità.
@@ -1667,8 +1667,8 @@ Dialogue: 0,0:18:35.30,0:18:39.34,Main,,0,0,0,,Pensano che domani sarà semplice
 Dialogue: 0,0:18:41.30,0:18:45.08,Main,,0,0,0,,Ecco perché domani\Nfermerò i pirati sulla spiaggia
 Dialogue: 0,0:18:45.08,0:18:46.89,Main,,0,0,0,,e mi assicurerò che\Nquesta rimanga una bugia!
 Dialogue: 0,0:18:46.89,0:18:50.90,Main,,0,0,0,,Questa è l'unica cosa logica da\Nfare per un bugiardo come me!
-Dialogue: 0,0:18:52.47,0:18:55.17,Main,,0,0,0,,Anche se mi\Nsparassero al braccio, o
-Dialogue: 0,0:18:55.17,0:18:58.19,Main,,0,0,0,,anche se mi portassero\Nvia con le scope...
+Dialogue: 0,0:18:52.47,0:18:55.17,Main,,0,0,0,,Anche se mi\Nsparano al braccio, o
+Dialogue: 0,0:18:55.17,0:18:58.19,Main,,0,0,0,,anche se mi cacciano con le scope...
 Dialogue: 0,0:18:58.19,0:19:00.41,Main,,0,0,0,,...questo è il mio villaggio!
 Dialogue: 0,0:19:00.41,0:19:02.78,Main,,0,0,0,,Adoro questo villaggio!
 Dialogue: 0,0:19:04.44,0:19:06.75,Main,,0,0,0,,Voglio proteggere tutti!
@@ -1677,19 +1677,19 @@ Dialogue: 0,0:19:09.63,0:19:12.35,Main,,0,0,0,,tuo equipaggio e vai\Nin battagli
 Dialogue: 0,0:19:12.35,0:19:15.75,Main,,0,0,0,,Giusto perché tu lo sappia, ho diritto a tutti i tesori dei pirati!
 Dialogue: 0,0:19:15.75,0:19:17.67,Main,,0,0,0,,Bene!  Ti aiuteremo!
 Dialogue: 0,0:19:17.67,0:19:19.08,Main,,0,0,0,,Voi ragazzi...
-Dialogue: 0,0:19:19.08,0:19:21.37,Main,,0,0,0,,...combatterai con me?!
+Dialogue: 0,0:19:19.08,0:19:21.37,Main,,0,0,0,,...combatterete con me?!
 Dialogue: 0,0:19:21.37,0:19:22.64,Main,,0,0,0,,Perché?
-Dialogue: 0,0:19:22.64,0:19:25.53,Main,,0,0,0,,C'è un sacco di cattivi, vero?
-Dialogue: 0,0:19:25.53,0:19:28.14,Main,,0,0,0,,"Spaventato" è scritto\Nsu tutta la tua faccia.
-Dialogue: 0,0:19:28.14,0:19:30.29,Main,,0,0,0,,I-Io, ho paura?!
-Dialogue: 0,0:19:30.29,0:19:33.29,Main,,0,0,0,,Sono perfettamente d'accordo\Ncon un sacco di cattivi o altro!
+Dialogue: 0,0:19:22.64,0:19:25.53,Main,,0,0,0,,Ci sono un sacco di cattivi, giusto?
+Dialogue: 0,0:19:25.53,0:19:28.14,Main,,0,0,0,,Hai la paura stampata in faccia.
+Dialogue: 0,0:19:28.14,0:19:30.29,Main,,0,0,0,,I-Io, impaurito?!
+Dialogue: 0,0:19:30.29,0:19:33.29,Main,,0,0,0,,Posso tranquillamente gestire un sacco di cattivi!
 Dialogue: 0,0:19:33.29,0:19:38.73,Main,,0,0,0,,Perché io sono il Capitano Usopp,\Ncoraggioso guerriero del mare!
-Dialogue: 0,0:19:40.32,0:19:43.71,Main,,0,0,0,,Dannazione!  Dannazione!\NCosa stai guardando?!
-Dialogue: 0,0:19:43.71,0:19:46.01,Main,,0,0,0,,Questi sono i pirati di Klahadore\Ncon cui abbiamo a che fare!
-Dialogue: 0,0:19:46.01,0:19:48.84,Main,,0,0,0,,Ovviamente ho paura!\NCosa c'è di sbagliato in quello?!
-Dialogue: 0,0:19:48.84,0:19:53.25,Main,,0,0,0,,Non voglio la tua pietà!\NSmettila di ridere e vattene!  Partire!
+Dialogue: 0,0:19:40.32,0:19:43.71,Main,,0,0,0,,Dannazione!  Dannazione!\NCosa state guardando?!
+Dialogue: 0,0:19:43.71,0:19:46.01,Main,,0,0,0,,Abbiamo a che fare con i pirati di Klahadore!
+Dialogue: 0,0:19:46.01,0:19:48.84,Main,,0,0,0,,Ovviamente ho paura!\NCosa c'è di sbagliato in questo?!
+Dialogue: 0,0:19:48.84,0:19:53.25,Main,,0,0,0,,Non voglio la vostra pietà!\NSmettetela di ridere e andatevene!  Sparite!
 Dialogue: 0,0:19:53.25,0:19:55.41,Main,,0,0,0,,Non stiamo ridendo!
 Dialogue: 0,0:19:55.41,0:19:58.17,Main,,0,0,0,,Siamo impressionati.  Ecco\Nperché vogliamo aiutarti!
-Dialogue: 0,0:19:59.22,0:20:02.18,Main,,0,0,0,,Come se dovessimo rischiare la vita per pietà!
+Dialogue: 0,0:19:59.22,0:20:02.18,Main,,0,0,0,,Come se rischiassimo la vita per pietà!
 Dialogue: 0,0:20:07.53,0:20:09.13,Main,,0,0,0,,OH...
 Dialogue: 0,0:20:09.13,0:20:11.72,Main,,0,0,0,,Voi ragazzi...

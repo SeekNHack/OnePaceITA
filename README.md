@@ -12,6 +12,9 @@ Benvenuti al repository della traduzione non ufficiale in italiano di One Pace! 
 I sottotitoli sono stati tradotti automaticamente con Google, perciò la qualità delle traduzioni non è il massimo. Consideriamo molto chi decide di aiutarci con le traduzioni, perciò sentitevi liberi di scaricare i file e aiutarci a tradurre. Nel repo trovate anche i sottitoli originali proposti da One Pace con cui confrontare la traduzione.
 Per poter modificare i sottotitoli, vi consiglio di usare o un programma come SubTitle Editor 4.0.0 oppure un semplice blocco note. Fate una richiesta di pull per uploadare il vostro file aggiornato.
 
+## Come contribuire
+Occorre che facciate un fork del git, trovare il tasto in questa pagina. Una volta forkato, potrete modificare i file ed inserirne di nuovi. Successivamente potete fare una Pull Request e richiedere l'inserimento dei sottotitoli nel git principale.
+
 ## Problemi e Segnalazioni
 
 Se trovate problemi o errori nella traduzione, per favore segnalateli tramite il sistema di "Issues" qui su GitHub. Assicuratevi di fornire dettagli su quale episodio e quale parte della traduzione sia coinvolta.

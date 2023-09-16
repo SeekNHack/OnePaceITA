@@ -56,12 +56,12 @@ Dialogue: 0,0:00:11.44,0:00:13.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)
 Dialogue: 1,0:00:11.44,0:00:13.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Timing
 Dialogue: 0,0:00:11.44,0:00:13.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}PhosCity
 Dialogue: 1,0:00:11.44,0:00:13.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}PhosCity
-Dialogue: 0,0:00:11.54,0:00:14.98,Roger-Monologue,,0,0,0,,Il mio tesoro?  È vostro,\Nse riuscite a trovarlo.
+Dialogue: 0,0:00:11.54,0:00:14.98,Roger-Monologue,,0,0,0,,Il mio tesoro? È vostro,\Nse riuscite a trovarlo.
 Dialogue: 0,0:00:13.44,0:00:15.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Subtitle Editing
 Dialogue: 1,0:00:13.44,0:00:15.44,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Subtitle Editing
 Dialogue: 0,0:00:13.44,0:00:15.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Feeso\N Zenef
 Dialogue: 1,0:00:13.44,0:00:15.44,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}Feeso\N Zenef
-Dialogue: 0,0:00:14.98,0:00:19.20,Roger-Monologue,,0,0,0,,È tutto esattamente dove l'ho lasciato!
+Dialogue: 0,0:00:14.98,0:00:19.20,Roger-Monologue,,0,0,0,,Ho lasciato tutto in un certo posto.
 Dialogue: 0,0:00:15.44,0:00:17.45,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1410,1455,\1a&HFF&)}Translation
 Dialogue: 1,0:00:15.44,0:00:17.45,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Translation
 Dialogue: 0,0:00:15.44,0:00:17.45,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1410,1455,\1a&HFF&)}DemonRin\N FUNimation
@@ -1115,82 +1115,82 @@ Dialogue: 1,0:01:48.52,0:01:49.04,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(665,
 Dialogue: 1,0:01:48.57,0:01:49.34,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(768,59)\fad(300,0)}are!
 Dialogue: 2,0:01:49.04,0:01:49.59,Karaoke,,0,0,0,fx,{\an5\blur0\pos(665,59)\bord3\t(0,100,\1c&HFAD19C&\3c&HFFFFFF&\fscx130\fscy130)\t(100,300,\fscx100\fscy100\3c&HFFFFFF&)\fad(0,200)}We
 Dialogue: 2,0:01:49.34,0:01:49.97,Karaoke,,0,0,0,fx,{\an5\blur0\pos(768,59)\bord3\t(0,100,\1c&HFAD19C&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&HFFFFFF&)\fad(0,200)}are!
-Dialogue: 0,0:01:50.01,0:01:53.50,Title-207-,,0,0,0,,{\pos(729,702)\blur0.8\bord2\fscx95\fscy95\fsp-2\c&H000000&\1a&HFF&\3a&HFF&\t(0,650,1.3,\3a&H00&)\t(605,650,1.3,\1a&H00&)}Il primo
-Dialogue: 1,0:01:50.01,0:01:53.50,Title-207-,,0,0,0,,{\pos(729,702)\blur0.8\bord0\fscx95\fscy95\fsp-2\c&HE6E5E5&\alpha&HFF&\t(0,650,1.3,\alpha&H00&)}Il primo
-Dialogue: 10,0:01:51.59,0:01:53.50,Main-207-,,0,0,0,,{Ecco il tuo tesoro!} Ecco!  Ho ripreso il tuo tesoro!
-Dialogue: 10,0:01:54.07,0:01:57.38,Main-207-,,0,0,0,,{Qual è il tuo?  Non potevo dirlo, quindi ne ho portati tre.} È\Nuno di questi?  Nel dubbio, li ho portati tutti e tre.
-Dialogue: 10,0:01:57.38,0:01:59.66,Main-207-,,0,0,0,,Tutti e tre sono miei.
+Dialogue: 0,0:01:50.01,0:01:53.50,Title-207-,,0,0,0,,{\pos(729,702)\blur0.8\bord2\fscx95\fscy95\fsp-2\c&H000000&\1a&HFF&\3a&HFF&\t(0,650,1.3,\3a&H00&)\t(605,650,1.3,\1a&H00&)}Il primo compagno
+Dialogue: 1,0:01:50.01,0:01:53.50,Title-207-,,0,0,0,,{\pos(729,702)\blur0.8\bord0\fscx95\fscy95\fsp-2\c&HE6E5E5&\alpha&HFF&\t(0,650,1.3,\alpha&H00&)}Il primo compagno
+Dialogue: 10,0:01:51.59,0:01:53.50,Main-207-,,0,0,0,,{Ecco il tuo tesoro!} Ecco! Ho ripreso il tuo tesoro!
+Dialogue: 10,0:01:54.07,0:01:57.38,Main-207-,,0,0,0,,{Qual è il tuo?  Non potevo dirlo, quindi ne ho portati tre.} È una di queste? Nel dubbio, le ho portate tutte e tre.
+Dialogue: 10,0:01:57.38,0:01:59.66,Main-207-,,0,0,0,,Tutte e tre sono mie.
 Dialogue: 10,0:01:59.66,0:02:02.22,Main-207-,,0,0,0,,Io uso lo stile a tre spade.
 Dialogue: 10,0:02:02.22,0:02:03.63,Main-207-,,0,0,0,,{Li prenderai, vero?}Allora le prenderai?
 Dialogue: 10,0:02:03.63,0:02:05.55,Main-207-,,0,0,0,,Se combattiamo insieme adesso,
-Dialogue: 10,0:02:05.55,0:02:08.00,Main-207-,,0,0,0,,{sarai un cattivo che sfida il governo!} il\Ngoverno ti vedrà come un cattivo ragazzo.
+Dialogue: 10,0:02:05.55,0:02:08.00,Main-207-,,0,0,0,,{sarai un cattivo che sfida il governo!} il governo ti vedrà come un cattivo ragazzo.
 Dialogue: 10,0:02:08.00,0:02:11.40,Main-207-,,0,0,0,,{Preferiresti questo, o essere ucciso dalla Marina in\Nquesto modo?} Oppure resta li e lascia che la Marina ti uccida.
-Dialogue: 10,0:02:11.92,0:02:14.23,Main-207-,,0,0,0,,{Cosa sei, il figlio del diavolo?!} Sei\Nuna specie di demone?
-Dialogue: 10,0:02:14.23,0:02:17.11,Main-207-,,0,0,0,,{Beh, qualunque cosa.} Ma ehi, {sarò il tuo\Npirata,} la mia unica altra opzione è la morte,
-Dialogue: 10,0:02:17.11,0:02:20.19,Main-207-,,0,0,0,,{se invece morirò qui!} allora ti sei trovato {se invece morirò qui!} un pirata!
-Dialogue: 10,0:02:20.19,0:02:23.58,Main-207-,,0,0,0,,Evviva!  Quindi ti\Nunirai alla mia squadra?!
-Dialogue: 10,0:02:23.58,0:02:26.56,Main-207-,,0,0,0,,Va bene!  Woo-hoo!\NÈ fantastico!{Va bene!}
-Dialogue: 10,0:02:26.56,0:02:29.42,Main-207-,,0,0,0,,Va bene!  Adesso sciogli\Nqueste stupide corde!
+Dialogue: 10,0:02:11.92,0:02:14.23,Main-207-,,0,0,0,,{Cosa sei, il figlio del diavolo?!} Sei una specie di demone?
+Dialogue: 10,0:02:14.23,0:02:17.11,Main-207-,,0,0,0,,{Beh, qualunque cosa.} Ma ehi,{sarò il tuo\Npirata,} la mia unica altra opzione è la morte,
+Dialogue: 10,0:02:17.11,0:02:20.19,Main-207-,,0,0,0,,{se invece morirò qui!} quindi ti sei trovato {se invece morirò qui!}un pirata!
+Dialogue: 10,0:02:20.19,0:02:23.58,Main-207-,,0,0,0,,Evviva! Quindi ti\Nunirai alla mia ciurma?!
+Dialogue: 10,0:02:23.58,0:02:26.56,Main-207-,,0,0,0,,Va bene! Woo-hoo!\NÈ fantastico!{Va bene!}
+Dialogue: 10,0:02:26.56,0:02:29.42,Main-207-,,0,0,0,,Va bene! Adesso sciogli\Nqueste stupide corde!
 Dialogue: 10,0:02:29.90,0:02:31.48,Main-207-,,0,0,0,,Che cosa {\i1}è{\i0} lui?
 Dialogue: 10,0:02:31.48,0:02:33.17,Main-207-,,0,0,0,,Ha respinto i proiettili!
 Dialogue: 10,0:02:33.93,0:02:36.41,Main-207-,,0,0,0,,Non è un essere umano\Ncomune, quel cappello di paglia.
 Dialogue: 10,0:02:36.41,0:02:40.04,Main-207-,,0,0,0,,Deve aver mangiato uno di\Nquei presunti frutti del diavolo!
-Dialogue: 10,0:02:40.04,0:02:42.99,Main-207-,,0,0,0,,{\t(2770,4770,\c&H1E2121&\3c&H1E2121&\4c&H1E2121&)}– Un frutto del diavolo?!  – I {tesori\Nnascosti}tesoro segreto del mare?!
+Dialogue: 10,0:02:40.04,0:02:42.99,Main-207-,,0,0,0,,{\t(2770,4770,\c&H1E2121&\3c&H1E2121&\4c&H1E2121&)}– Un frutto del diavolo?!  \N– I {tesori\Nnascosti}tesori segreti del mare?!
 Dialogue: 10,0:02:45.12,0:02:47.04,Main-207-,,0,0,0,,I frutti del diavolo...
-Dialogue: 10,0:02:47.04,0:02:52.43,Main-207-,,0,0,0,,Si dice che chiunque ne mangi uno acquisisca\Nabilità apparentemente {non mondane} ultraterrene.
+Dialogue: 10,0:02:47.04,0:02:52.43,Main-207-,,0,0,0,,Si dice che chiunque ne mangi uno acquisisca\Nabilità apparentemente {non mondane}ultraterrene.
 Dialogue: 10,0:02:53.60,0:02:55.70,Main-207-,,0,0,0,,Il potere di sputare fuoco...
 Dialogue: 10,0:02:55.70,0:02:58.01,Main-207-,,0,0,0,,Il potere di provocare gli tsunami...
-Dialogue: 10,0:02:58.01,0:03:00.10,Main-207-,,0,0,0,,C'è ogni tipi di diceria,
-Dialogue: 10,0:03:00.10,0:03:04.06,Main-207-,,0,0,0,,{ma ce ne sono molti tipi e di loro non si sa quasi nulla.}e\Nnonostante i molti tipi, non si sa quasi nulla.
+Dialogue: 10,0:02:58.01,0:03:00.10,Main-207-,,0,0,0,,C'è ogni tipo di diceria,
+Dialogue: 10,0:03:00.10,0:03:04.06,Main-207-,,0,0,0,,{ma ce ne sono molti tipi e di loro non si sa quasi nulla.}e nonostante i molti tipi, non si sa quasi nulla.
 Dialogue: 10,0:03:04.06,0:03:07.70,Main-207-,,0,0,0,,{Si dice che i loro segreti risiedano nella Rotta Maggiore...}Alcuni dicono che i loro segreti risiedano nella Rotta Maggiore...
-Dialogue: 10,0:03:09.00,0:03:13.67,Main-207-,,0,0,0,,{ma non c'è dubbio che Cappello di Paglia abbia appena mostrato un potere\Ndiabolico!}ma non c'è spazio per dubbi;  Cappello di Paglia ha il potere del diavolo!
-Dialogue: 10,0:03:13.67,0:03:15.23,Main-207-,,0,0,0,,Sbrigati!  Veloce!
-Dialogue: 10,0:03:15.23,0:03:19.13,Main-207-,,0,0,0,,Dannazione!  Questi nodi sono stretti!
-Dialogue: 10,0:03:17.60,0:03:19.13,Secondary-207-,,0,0,0,,EHI!  Smettila di perdere tempo!
-Dialogue: 10,0:03:19.13,0:03:21.22,Main-207-,,0,0,0,,Non importa chi {loro siano} sono,
+Dialogue: 10,0:03:09.00,0:03:13.67,Main-207-,,0,0,0,,{ma non c'è dubbio che Cappello di Paglia abbia appena mostrato un potere\Ndiabolico!}ma non c'è spazio per dubbi; Cappello di Paglia ha il potere del diavolo!
+Dialogue: 10,0:03:13.67,0:03:15.23,Main-207-,,0,0,0,,Sbrigati! Veloce!
+Dialogue: 10,0:03:15.23,0:03:19.13,Main-207-,,0,0,0,,Dannazione! Questi nodi sono stretti!
+Dialogue: 10,0:03:17.60,0:03:19.13,Secondary-207-,,0,0,0,,Ehi! Smettila di perdere tempo!
+Dialogue: 10,0:03:19.13,0:03:21.22,Main-207-,,0,0,0,,Non importa chi {loro siano}sei,
 Dialogue: 10,0:03:21.22,0:03:23.88,Main-207-,,0,0,0,,{chiunque si oppone a me viene giustiziato!}se mi sfidi, allora muori!
-Dialogue: 10,0:03:23.88,0:03:26.10,Main-207-,,0,0,0,,Se le pistole non funzionano,\Nallora {chop}tagliali a morte!
-Dialogue: 10,0:03:30.48,0:03:33.15,Main-207-,,0,0,0,,Eh, è strano!\Ni nodi sono più stretti!
-Dialogue: 10,0:03:33.15,0:03:34.69,Main-207-,,0,0,0,,{Dammi una dannata spada!} Dannazione!  Spade!  Ora!
+Dialogue: 10,0:03:23.88,0:03:26.10,Main-207-,,0,0,0,,Se le pistole non funzionano,\Nallora {chop}tagliatelo a morte!
+Dialogue: 10,0:03:30.48,0:03:33.15,Main-207-,,0,0,0,,Eh, è strano!\NI nodi sono più stretti!
+Dialogue: 10,0:03:33.15,0:03:34.69,Main-207-,,0,0,0,,{Dammi una dannata spada!} Dannazione! Spade! Ora!
 Dialogue: 10,0:03:38.03,0:03:38.99,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!
 Dialogue: 10,0:03:47.83,0:03:49.92,Main-207-,,0,0,0,,Roronoa Zoro!
-Dialogue: 10,0:03:51.33,0:03:52.54,Main-207-,,0,0,0,,Così bello!
-Dialogue: 10,0:03:53.92,0:03:55.92,Main-207-,,0,0,0,,{Muoviti e sei morto}Se ti muovi, muori.
+Dialogue: 10,0:03:51.33,0:03:52.54,Main-207-,,0,0,0,,Che figo!
+Dialogue: 10,0:03:53.92,0:03:55.92,Main-207-,,0,0,0,,{Muoviti e sei morto}Se vi muovete, morite.
 Dialogue: 10,0:03:56.90,0:03:58.71,Main-207-,,0,0,0,,È troppo spaventoso!
-Dialogue: 10,0:04:02.69,0:04:05.80,Main-207-,,0,0,0,,Sarò un pirata.  Te lo prometto.
+Dialogue: 10,0:04:02.69,0:04:05.80,Main-207-,,0,0,0,,Sarò un pirata. Te lo prometto.
 Dialogue: 10,0:04:05.80,0:04:09.61,Main-207-,,0,0,0,,{Sono ufficialmente un criminale, ora che ho combattuto la Marina.}\NOra che ho combattuto la Marina, sono ufficialmente un fuorilegge.
 Dialogue: 10,0:04:09.61,0:04:12.32,Main-207-,,0,0,0,,{Ma te lo dico subito.} Ma chiariamo una cosa.
 Dialogue: 10,0:04:12.32,0:04:14.88,Main-207-,,0,0,0,,{Soddisferò solo la mia ambizione!}\NLo farò solo per realizzare il mio sogno.
 Dialogue: 10,0:04:14.88,0:04:15.65,Main-207-,,0,0,0,,{Ambizione}Sogno?
 Dialogue: 10,0:04:15.65,0:04:19.39,Main-207-,,0,0,0,,Essere il più grande\Nspadaccino del mondo!
-Dialogue: 10,0:04:19.39,0:04:22.53,Main-207-,,0,0,0,,{Se dovessi rinunciare a tutto ciò,} Quindi, se\Nmai mi costringessi ad abbandonare il mio sogno,
+Dialogue: 10,0:04:19.39,0:04:22.53,Main-207-,,0,0,0,,{Se dovessi rinunciare a tutto ciò,} Quindi, se mai mi costringessi ad abbandonare il mio sogno,
 Dialogue: 10,0:04:22.53,0:04:26.66,Main-207-,,0,0,0,,{farai meglio ad assumerti la responsabilità e a chiedermi scusa!}\Ndovrai compiere l'{\i1}harakiri{\i0} per guadagnarti il ​​mio perdono!
 Dialogue: 10,0:04:26.66,0:04:30.40,Main-207-,,0,0,0,,Il più grande spadaccino del mondo?\N{Sembra fantastico} Mi piace!
 Dialogue: 10,0:04:30.40,0:04:34.12,Main-207-,,0,0,0,,{Il re dei pirati non avrebbe bisogno di niente di meno nella sua ciurma!} Questa\Nè esattamente la persona di cui il re dei pirati ha bisogno nella sua ciurma!
 Dialogue: 10,0:04:35.02,0:04:36.21,Main-207-,,0,0,0,,Di sicuro ragioni in grande.
-Dialogue: 10,0:04:36.21,0:04:39.18,Main-207-,,0,0,0,,A questo punto, sia che si tratti di criminale o\Ndi altro, sia che si tratti di fama o di infamia,
-Dialogue: 10,0:04:39.18,0:04:41.76,Main-207-,,0,0,0,,{Diffonderò il mio nome in tutto il\Nmondo!} il mondo conoscerà il mio nome!
-Dialogue: 10,0:04:41.76,0:04:46.30,Main-207-,,0,0,0,,Perchè siete impalati?!\NMassacrateli!
+Dialogue: 10,0:04:36.21,0:04:39.18,Main-207-,,0,0,0,,A questo punto, che si tratti di criminale o no, di fama o infamia,
+Dialogue: 10,0:04:39.18,0:04:41.76,Main-207-,,0,0,0,,{Diffonderò il mio nome in tutto il\Nmondo!} Il mondo conoscerà il mio nome!
+Dialogue: 10,0:04:41.76,0:04:46.30,Main-207-,,0,0,0,,Perchè siete lì impalati?!\NMassacrateli!
 Dialogue: 10,0:04:47.72,0:04:49.56,Main-207-,,0,0,0,,Abbassati, Zoro!
-Dialogue: 10,0:04:50.31,0:04:54.35,Main-207-,,0,0,0,,{\fad(150,150)}Gum-Gum Whip!
-Dialogue: 10,0:04:56.88,0:04:59.68,Main-207-,,0,0,0,,C-ce l'hai fatta!  Incredibile!
+Dialogue: 10,0:04:50.31,0:04:54.35,Main-207-,,0,0,0,,{\fad(150,150)}Gom-Gom Whip!
+Dialogue: 10,0:04:56.88,0:04:59.68,Main-207-,,0,0,0,,C-ce l'hai fatta! Incredibile!
 Dialogue: 10,0:04:59.68,0:05:01.32,Main-207-,,0,0,0,,Cosa diavolo sei?
-Dialogue: 10,0:05:01.84,0:05:04.28,Main-207-,,0,0,0,,Ho mangiato il frutto Gum-Gum.
-Dialogue: 10,0:05:04.28,0:05:06.01,Main-207-,,0,0,0,,Frutta di gomma da masticare?
+Dialogue: 10,0:05:01.84,0:05:04.28,Main-207-,,0,0,0,,Ho mangiato il frutto Gom-Gom.
+Dialogue: 10,0:05:04.28,0:05:06.01,Main-207-,,0,0,0,,Frutto Gom-Gom?
 Dialogue: 10,0:05:06.01,0:05:07.93,Main-207-,,0,0,0,,{Una persona di gomma!}È come se fosse di gomma!
 Dialogue: 10,0:05:07.93,0:05:10.39,Main-207-,,0,0,0,,Quindi {\i1}ha{\i0} i poteri del frutto del diavolo!
-Dialogue: 10,0:05:10.39,0:05:12.76,Main-207-,,0,0,0,,Capitano!  Non abbiamo\Nalcuna possibilità contro di loro!
+Dialogue: 10,0:05:10.39,0:05:12.76,Main-207-,,0,0,0,,Capitano! Non abbiamo\Nalcuna possibilità contro di loro!
 Dialogue: 10,0:05:12.76,0:05:14.24,Main-207-,,0,0,0,,Questi ragazzi sono pazzi!
 Dialogue: 10,0:05:14.24,0:05:16.42,Main-207-,,0,0,0,,Non riusciamo nemmeno\Na gestire Zoro da solo!
 Dialogue: 10,0:05:19.00,0:05:20.83,Main-207-,,0,0,0,,Questo è {un diretto}un ordine!
 Dialogue: 10,0:05:20.83,0:05:22.86,Main-207-,,0,0,0,,Ogni debole che si lamenta
 Dialogue: 10,0:05:22.86,0:05:24.78,Main-207-,,0,0,0,,deve spararsi alla testa!
-Dialogue: 10,0:05:24.78,0:05:28.22,Main-207-,,0,0,0,,{Non ho bisogno di soldati deboli!}Non\Ntollererò la codardia tra i miei uomini!
-Dialogue: 10,0:05:30.43,0:05:33.22,Main-207-,,0,0,0,,{Queste truppe sono pazze!} C'è\Nqualcosa che non va in queste truppe!
+Dialogue: 10,0:05:24.78,0:05:28.22,Main-207-,,0,0,0,,{Non ho bisogno di soldati deboli!}Non tollererò la codardia tra i miei uomini!
+Dialogue: 10,0:05:30.43,0:05:33.22,Main-207-,,0,0,0,,{Queste truppe sono pazze!} C'è qualcosa che non va in queste truppe!
 Dialogue: 10,0:05:33.22,0:05:35.02,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!
 Dialogue: 10,0:05:37.15,0:05:39.65,Main-207-,,0,0,0,,Distruggi questa Marina!
-Dialogue: 10,0:05:48.53,0:05:53.31,Main-207-,,0,0,0,,{I barboni senza rango e di basso status non hanno alcun diritto di\Nsfidarmi!} Quelli senza né rango né status dovrebbero conoscere il loro posto!
-Dialogue: 10,0:05:53.31,0:05:57.20,Main-207-,,0,0,0,,Sono il Capitano "Mano d'ascia" Morgan della Marina!
+Dialogue: 10,0:05:48.53,0:05:53.31,Main-207-,,0,0,0,,{I barboni senza rango e di basso status non hanno alcun diritto di\Nsfidarmi!} Quelli senza rango né status dovrebbero conoscere il loro posto!
+Dialogue: 10,0:05:53.31,0:05:57.20,Main-207-,,0,0,0,,Sono il Capitano Morgan "Mano d'ascia" della Marina!
 Dialogue: 10,0:05:57.20,0:05:59.71,Main-207-,,0,0,0,,Sono Rufy!\NPiacere di conoscerti!
 Dialogue: 10,0:06:00.09,0:06:02.21,Main-207-,,0,0,0,,Muori!
 Dialogue: 10,0:06:11.18,0:06:12.97,Main-207-,,0,0,0,,I-Il capitano!
@@ -1202,126 +1202,126 @@ Dialogue: 10,0:06:27.75,0:06:29.20,Main-207-,,0,0,0,,Sta per essere sconfitto!
 Dialogue: 10,0:06:30.78,0:06:32.81,Main-207-,,0,0,0,,E tu ti definisci un marine?!
 Dialogue: 10,0:06:32.81,0:06:36.33,Main-207-,,0,0,0,,{Hai distrutto il sogno di Koby!}Stai rovinando il sogno di Koby!
 Dialogue: 10,0:06:36.33,0:06:39.67,Main-207-,,0,0,0,,Fermati, Cappello di Paglia!\N{Dai un'occhiata!} Guarda qui!
-Dialogue: 10,0:06:41.45,0:06:44.08,Main-207-,,0,0,0,,Ho detto fermati!  Sei stupido?!
-Dialogue: 10,0:06:44.08,0:06:47.05,Main-207-,,0,0,0,,{Fai attenzione!  Ho un ostaggio\Nqui!}Sei cieco?!  Ho preso un ostaggio!
-Dialogue: 10,0:06:47.05,0:06:48.88,Main-207-,,0,0,0,,{Helmeppo-sama!}Maestro Helmeppo!
+Dialogue: 10,0:06:41.45,0:06:44.08,Main-207-,,0,0,0,,Ho detto fermati! Sei stupido?!
+Dialogue: 10,0:06:44.08,0:06:47.05,Main-207-,,0,0,0,,{Fai attenzione!  Ho un ostaggio\Nqui!}Sei cieco?! Ho preso un ostaggio!
+Dialogue: 10,0:06:47.05,0:06:48.88,Main-207-,,0,0,0,,{Helmeppo-sama!}Signorino Helmeppo!
 Dialogue: 10,0:06:49.60,0:06:52.58,Main-207-,,0,0,0,,Se tieni alla vita di questo\Nragazzo, non muoverti!
-Dialogue: 10,0:06:52.58,0:06:55.85,Main-207-,,0,0,0,,Una mossae e io spareremo!
+Dialogue: 10,0:06:52.58,0:06:55.85,Main-207-,,0,0,0,,Una mossa e sparo!
 Dialogue: 10,0:07:00.71,0:07:04.70,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!\NNon voglio intralciarti!
-Dialogue: 10,0:07:04.70,0:07:08.15,Main-207-,,0,0,0,,– {Anche se significa morire}Anche se mi uccide!\N- Si lo so!
+Dialogue: 10,0:07:04.70,0:07:08.15,Main-207-,,0,0,0,,– {Anche se significa morire}Anche se mi uccide!\N– Si lo so!
 Dialogue: 10,0:07:08.15,0:07:10.29,Main-207-,,0,0,0,,{Arrenditi, figlio idiota} È inutile, figlio idiota!
 Dialogue: 10,0:07:10.29,0:07:12.48,Main-207-,,0,0,0,,{Koby è davvero pronto a morire!} Sembra che Koby sia pronto a morire.
 Dialogue: 10,0:07:13.57,0:07:15.22,Main-207-,,0,0,0,,Non muoverti!
 Dialogue: 10,0:07:15.22,0:07:17.54,Main-207-,,0,0,0,,Ti avevo detto di non muoverti!\NIo... sparerò!
 Dialogue: 10,0:07:18.91,0:07:20.26,Main-207-,,0,0,0,,Dietro di te!
-Dialogue: 10,0:07:20.26,0:07:21.52,Main-207-,,0,0,0,,{\fad(150,150)}Gum-Gum...
-Dialogue: 10,0:07:21.52,0:07:25.96,Main-207-,,0,0,0,,{Sono il capitano della Marina "Mano d'ascia" Morgan!}\NSono il Capitano "Mano d'ascia" Morgan della Marina!
-Dialogue: 10,0:07:27.10,0:07:30.42,Main-207-,,0,0,0,,{Papà}Papà!  Uccidilo, presto!
+Dialogue: 10,0:07:20.26,0:07:21.52,Main-207-,,0,0,0,,{\fad(150,150)}Gom-Gom...
+Dialogue: 10,0:07:21.52,0:07:25.96,Main-207-,,0,0,0,,{Sono il capitano della Marina "Mano d'ascia" Morgan!}\NSono il Capitano Morgan "Mano d'ascia" della Marina!
+Dialogue: 10,0:07:27.10,0:07:30.42,Main-207-,,0,0,0,,{Papà}Papà! Uccidilo, presto!
 Dialogue: 10,0:07:28.50,0:07:30.42,Secondary-207-,,0,0,0,,Pistol!
 Dialogue: 10,0:07:34.85,0:07:36.31,Main-207-,,0,0,0,,Bene!
 Dialogue: 10,0:07:45.40,0:07:46.23,Main-207-,,0,0,0,,Zoro.
 Dialogue: 10,0:07:46.81,0:07:50.24,Main-207-,,0,0,0,,{Il mio piacere} È stato un piacere, Capitano.
 Dialogue: 10,0:07:57.40,0:07:58.86,Main-207-,,0,0,0,,{Il Capitano Morgan è stato battuto!}Il Capitano Morgan ha perso!
 Dialogue: 10,0:07:58.86,0:08:01.20,Main-207-,,0,0,0,,- Incredibile!\N– Questi ragazzi sono pazzi!
-Dialogue: 10,0:08:02.83,0:08:06.79,Main-207-,,0,0,0,,{Se qualcun altro vuole ancora prenderci, si faccia avanti!} Se\Nqualcuno di voi vuole ancora tentare la fortuna, si faccia avanti!
-Dialogue: 10,0:08:09.64,0:08:12.93,Main-207-,,0,0,0,,– Evviva!  - Siamo liberi!
+Dialogue: 10,0:08:02.83,0:08:06.79,Main-207-,,0,0,0,,{Se qualcun altro vuole ancora prenderci, si faccia avanti!} Se qualcuno di voi vuole ancora tentare la fortuna, si faccia avanti!
+Dialogue: 10,0:08:09.64,0:08:12.93,Main-207-,,0,0,0,,– Evviva!\N- Siamo liberi!
 Dialogue: 10,0:08:12.93,0:08:15.72,Main-207-,,0,0,0,,– Yahoo!\N– Il regno di Morgan è finito!
-Dialogue: 10,0:08:15.72,0:08:17.89,Main-207-,,0,0,0,,{Evviva la Marina!}Per la Marina!  Evviva!
-Dialogue: 10,0:08:17.89,0:08:22.03,Main-207-,,0,0,0,,{Eh?  Tutti sono contenti che il loro capitano sia stato picchiato...}Che\Nsuccede?  Perché sono così contenti che abbiamo battuto il loro capitano?
-Dialogue: 10,0:08:22.03,0:08:25.35,Main-207-,,0,0,0,,{Tutti avevano semplicemente paura di Morgan!}Tutti\Navevano semplicemente {\i1}paura{\i0} di Morgan!
+Dialogue: 10,0:08:15.72,0:08:17.89,Main-207-,,0,0,0,,{Evviva la Marina!}Per la Marina! Evviva!
+Dialogue: 10,0:08:17.89,0:08:22.03,Main-207-,,0,0,0,,{Eh?  Tutti sono contenti che il loro capitano sia stato picchiato...}Che succede? Perché sono così contenti che abbiamo battuto il loro capitano?
+Dialogue: 10,0:08:22.03,0:08:25.35,Main-207-,,0,0,0,,{Tutti avevano semplicemente paura di Morgan!}Tutti avevano semplicemente {\i1}paura{\i0} di Morgan!
 Dialogue: 10,0:08:29.65,0:08:32.78,Main-207-,,0,0,0,,Cosa c'è che non va, Zoro-{\i1}san{\i0}?!\NSei ferito?!
 Dialogue: 10,0:08:32.78,0:08:35.61,Main-207-,,0,0,0,,Ho fame...
 Dialogue: 10,0:08:40.96,0:08:42.58,Main-207-,,0,0,0,,Sono pieno!
 Dialogue: 10,0:08:42.58,0:08:47.54,Main-207-,,0,0,0,,Ero decisamente al limite, non avevo mangiato per tre settimane!
-Dialogue: 10,0:08:51.20,0:08:53.76,Main-207-,,0,0,0,,Eh?  Hai già finito?
+Dialogue: 10,0:08:51.20,0:08:53.76,Main-207-,,0,0,0,,Eh? Hai già finito?
 Dialogue: 10,0:08:54.50,0:08:57.47,Main-207-,,0,0,0,,{Come diavolo puoi avere}Come diavolo\Nfai ad avere un appetito più grande del mio?!
-Dialogue: 10,0:08:57.47,0:09:00.04,Main-207-,,0,0,0,,È buono!  Vero, Koby?
+Dialogue: 10,0:08:57.47,0:09:00.04,Main-207-,,0,0,0,,È buono! Vero, Koby?
 Dialogue: 10,0:09:00.04,0:09:02.98,Main-207-,,0,0,0,,Grazie per aver offerto anche per me.
-Dialogue: 10,0:09:02.98,0:09:06.44,Main-207-,,0,0,0,,Non è un problema!  {Dopo tutto la città è\Nstata salvata!}Dopo tutto hai salvato la nostra città!
+Dialogue: 10,0:09:02.98,0:09:06.44,Main-207-,,0,0,0,,Non è un problema! {Dopo tutto la città è\Nstata salvata!}Dopo tutto hai salvato la nostra città!
 Dialogue: 10,0:09:06.44,0:09:09.26,Main-207-,,0,0,0,,{Sei davvero fantastico!}Sei davvero fantastico, signore!
-Dialogue: 10,0:09:09.26,0:09:12.48,Main-207-,,0,0,0,,{Sì, lo sono!  E sarò ancora più fantastico!}Sì,\Nsono fantastico!  E sarò ancora più grande!
-Dialogue: 10,0:09:12.48,0:09:15.24,Main-207-,,0,0,0,,{Cecause }Dopo\Ntutto, sarò il Re dei pirati!
+Dialogue: 10,0:09:09.26,0:09:12.48,Main-207-,,0,0,0,,{Sì, lo sono!  E sarò ancora più fantastico!}Sì, sono fantastico! E sarò ancora più grande!
+Dialogue: 10,0:09:12.48,0:09:15.24,Main-207-,,0,0,0,,{Cecause }Dopo tutto, sarò il Re dei pirati!
 Dialogue: 10,0:09:15.24,0:09:17.28,Main-207-,,0,0,0,,{E ho anche una troupe!}E ora ho un equipaggio!
 Dialogue: 10,0:09:17.28,0:09:20.87,Main-207-,,0,0,0,,Allora, quanti altri hai\Narruolato oltre a me?
-Dialogue: 10,0:09:22.90,0:09:26.49,Main-207-,,0,0,0,,Hai detto che stavi\Nradunando una squadra.
+Dialogue: 10,0:09:22.90,0:09:26.49,Main-207-,,0,0,0,,Hai detto che stavi\Nradunando una ciurma.
 Dialogue: 10,0:09:26.49,0:09:30.78,Main-207-,,0,0,0,,{Per essere il re dei pirati, devi avere un buon numero di persone riunite.}\NScommetto che hai un equipaggio considerevole se vuoi diventare il Re dei pirati.
-Dialogue: 10,0:09:30.78,0:09:31.84,Main-207-,,0,0,0,,OH?  {Solo tu.}Sei il primo.
-Dialogue: 10,0:09:31.84,0:09:34.22,Main-207-,,0,0,0,,Eh?!  Poi...
-Dialogue: 10,0:09:34.22,0:09:36.22,Main-207-,,0,0,0,,Sì!  Solo noi due!
-Dialogue: 10,0:09:36.22,0:09:39.25,Main-207-,,0,0,0,,{Chiameremo solo noi due una ciurma di pirati?!} Possono essere considerate\Ndue persone una ciurma di pirati?!
-Dialogue: 10,0:09:39.25,0:09:41.63,Main-207-,,0,0,0,,{Cosa c'è di sbagliato in quello?  Siamo\Nforti!}Non vedo perché no!  Siamo dei duri!
-Dialogue: 10,0:09:41.63,0:09:44.18,Main-207-,,0,0,0,,{Che ne dici di una nave?  Dov'è la tua nave\Npirata?}E una nave?  Dov'è la tua nave pirata?
+Dialogue: 10,0:09:30.78,0:09:31.84,Main-207-,,0,0,0,,Oh? {Solo tu.}Sei il primo.
+Dialogue: 10,0:09:31.84,0:09:34.22,Main-207-,,0,0,0,,Eh?! Poi...
+Dialogue: 10,0:09:34.22,0:09:36.22,Main-207-,,0,0,0,,Sì! Solo noi due!
+Dialogue: 10,0:09:36.22,0:09:39.25,Main-207-,,0,0,0,,{Chiameremo solo noi due una ciurma di pirati?!} \NDue persone possono essere considerate una ciurma di pirati?!
+Dialogue: 10,0:09:39.25,0:09:41.63,Main-207-,,0,0,0,,{Cosa c'è di sbagliato in quello?  Siamo\Nforti!}Non vedo perché no! Siamo dei duri!
+Dialogue: 10,0:09:41.63,0:09:44.18,Main-207-,,0,0,0,,{Che ne dici di una nave?  Dov'è la tua nave\Npirata?}E una nave? Dov'è la tua nave pirata?
 Dialogue: 10,0:09:44.18,0:09:45.39,Main-207-,,0,0,0,,Là.
 Dialogue: 10,0:09:52.32,0:09:57.07,Main-207-,,0,0,0,,Penso che Rufy-{\i1}san{\i0} sia nato senza {alcun senso\Ndi pianificazione}un briciolo di lungimiranza.
 Dialogue: 10,0:09:57.07,0:10:00.74,Main-207-,,0,0,0,,Ho davvero reso questo\Nragazzo il mio capitano?!
 Dialogue: 10,0:10:00.74,0:10:03.78,Main-207-,,0,0,0,,{Bene}Ehi, avremo più membri\Ndell'equipaggio {tra non molto}presto!
-Dialogue: 10,0:10:03.78,0:10:08.23,Main-207-,,0,0,0,,Ehi, ehi!  Dove andrete adesso?
+Dialogue: 10,0:10:03.78,0:10:08.23,Main-207-,,0,0,0,,Ehi, ehi! Dove andrete adesso?
 Dialogue: 10,0:10:08.23,0:10:11.59,Main-207-,,0,0,0,,Non è ovvio?!\NLa Rotta Maggiore!
 Dialogue: 10,0:10:13.08,0:10:15.29,Main-207-,,0,0,0,,{Hai ancora solo due membri!} Siete solo in due!
 Dialogue: 10,0:10:15.29,0:10:17.45,Main-207-,,0,0,0,,Non c'è modo che tu possa andarci!
-Dialogue: 10,0:10:17.45,0:10:18.74,Main-207-,,0,0,0,,Non c'è modo!  Non c'è modo!  Non c'è modo!
+Dialogue: 10,0:10:17.45,0:10:18.74,Main-207-,,0,0,0,,Non c'è modo! Non c'è modo! Non c'è modo!
 Dialogue: 10,0:10:18.74,0:10:21.76,Main-207-,,0,0,0,,La Rotta Maggiore è un\Nposto così {terribile}brutto?
 Dialogue: 10,0:10:21.76,0:10:23.73,Main-207-,,0,0,0,,{Naturalmente!} Puoi scommetterci!
 Dialogue: 10,0:10:23.73,0:10:28.15,Main-207-,,0,0,0,,Sai che questo mondo\Nha due oceani, vero?
-Dialogue: 10,0:10:28.15,0:10:32.71,Main-207-,,0,0,0,,{E il continente gigante che li taglia proprio in due è la Linea Rossa.} E come mai c'è una massa continentale gigante chiamata Linea Rossa che li separa?
+Dialogue: 10,0:10:28.15,0:10:32.71,Main-207-,,0,0,0,,E il continente gigante che li taglia proprio in due è la Linea Rossa.
 Dialogue: 10,0:10:32.71,0:10:36.01,Main-207-,,0,0,0,,Una città si trova proprio nel mezzo della Linea Rossa,
 Dialogue: 10,0:10:36.01,0:10:40.54,Main-207-,,0,0,0,,e la Rotta Maggiore {la attraversa ad angolo\Nretto...} interseca questa città ad angolo retto,
-Dialogue: 10,0:10:40.54,0:10:43.72,Main-207-,,0,0,0,,{e si estende in tutto il mondo.}si\Nestende in tutto il mondo.
+Dialogue: 10,0:10:40.54,0:10:43.72,Main-207-,,0,0,0,,{e si estende in tutto il mondo.}si estende in tutto il mondo.
 Dialogue: 10,0:10:43.72,0:10:47.00,Main-207-,,0,0,0,,{Si diceva che il re dei pirati Gold\NRoger}Dicono che il Re dei pirati Gold Roger
 Dialogue: 10,0:10:47.00,0:10:51.13,Main-207-,,0,0,0,,{una volta} ottenne tutto ciò che questo\Nmondo ha da offrire, e prima di morire,
-Dialogue: 10,0:10:51.13,0:10:56.92,Main-207-,,0,0,0,,{ha detto di aver lasciato lì il grande tesoro di One Piece,} ha\Ndetto che è lì nella Rotta Maggiore —il grande tesoro di One Piece—
+Dialogue: 10,0:10:51.13,0:10:56.92,Main-207-,,0,0,0,,{ha detto di aver lasciato lì il grande tesoro di One Piece,} ha detto che è lì nella Rotta Maggiore —il grande tesoro, One Piece—
 Dialogue: 10,0:10:56.92,0:11:00.65,Main-207-,,0,0,0,,{quindi da allora i pirati di tutto il mondo sono salpati per la Rotta\NMaggiore!} e ora i pirati di tutto il mondo salpano per quei mari!
-Dialogue: 10,0:11:00.65,0:11:07.23,Main-207-,,0,0,0,,{\q2}{Ora è un intenso campo di battaglia, chiamato anche cimitero dei pirati!} È diventato\Nun intenso campo di battaglia, ampiamente conosciuto come il cimitero dei pirati!
-Dialogue: 10,0:11:10.71,0:11:13.28,Main-207-,,0,0,0,,Ho già sentito parlare dai clienti
-Dialogue: 10,0:11:13.28,0:11:17.36,Main-207-,,0,0,0,,che chiunque entri nella Rotta\NMaggiore non {ne esce} ritorna vivo.
-Dialogue: 10,0:11:17.36,0:11:21.61,Main-207-,,0,0,0,,{Ma One Piece è lì da qualche parte,}\NMa... One Piece è lì da qualche parte,
+Dialogue: 10,0:11:00.65,0:11:07.23,Main-207-,,0,0,0,,{\q2}{Ora è un intenso campo di battaglia, chiamato anche cimitero dei pirati!} È diventato un intenso campo di battaglia,\Nconosciuto come il cimitero dei pirati!
+Dialogue: 10,0:11:10.71,0:11:13.28,Main-207-,,0,0,0,,Ne ho già sentito parlare dai clienti
+Dialogue: 10,0:11:13.28,0:11:17.36,Main-207-,,0,0,0,,che chiunque entri nella Rotta\NMaggiore non {ne esce}ritorna vivo.
+Dialogue: 10,0:11:17.36,0:11:21.61,Main-207-,,0,0,0,,{Ma One Piece è lì da qualche parte,}\NMa... Il One Piece è lì da qualche parte,
 Dialogue: 10,0:11:21.61,0:11:22.57,Main-207-,,0,0,0,,quindi stiamo andando{là}!
-Dialogue: 10,0:11:22.57,0:11:24.53,Main-207-,,0,0,0,,{Immagino che non ci sia niente da fare!}Okay!  Non c'è niente da fare!
-Dialogue: 10,0:11:24.53,0:11:26.61,Main-207-,,0,0,0,,{Non anche tu, Zoro-san?!}Zoro-{\i1}san{\i0}!  Anche tu?!
-Dialogue: 10,0:11:26.61,0:11:28.60,Main-207-,,0,0,0,,{Che importa?  Non andrai, vero?} Resterai\Nqui, quindi perché tutto questo trambusto?
-Dialogue: 10,0:11:28.60,0:11:31.90,Main-207-,,0,0,0,,{N-no, ma sono preoccupato per te!}\NG-Questo è perché sono preoccupato per te!
+Dialogue: 10,0:11:22.57,0:11:24.53,Main-207-,,0,0,0,,{Immagino che non ci sia niente da fare!}Okay! Non c'è niente da fare!
+Dialogue: 10,0:11:24.53,0:11:26.61,Main-207-,,0,0,0,,{Non anche tu, Zoro-san?!}Zoro-{\i1}san{\i0}!\NAnche tu?!
+Dialogue: 10,0:11:26.61,0:11:28.60,Main-207-,,0,0,0,,{Che importa?  Non andrai, vero?} Resterai qui, quindi perché tutto questo trambusto?
+Dialogue: 10,0:11:28.60,0:11:31.90,Main-207-,,0,0,0,,{N-no, ma sono preoccupato per te!}\NQ-Questo è perché sono preoccupato per te!
 Dialogue: 10,0:11:31.90,0:11:33.50,Main-207-,,0,0,0,,È così sbagliato?!
-Dialogue: 10,0:11:33.50,0:11:36.90,Main-207-,,0,0,0,,{Luffy-san e io non ci conosciamo da molto,} Mi\Nrendo conto che Rufy-{\i1}san{\i0} non ci conosciamo da molto,
+Dialogue: 10,0:11:33.50,0:11:36.90,Main-207-,,0,0,0,,{Luffy-san e io non ci conosciamo da molto,} Mi rendo conto che io e Rufy-{\i1}san{\i0} non ci conosciamo da molto,
 Dialogue: 10,0:11:36.90,0:11:38.40,Main-207-,,0,0,0,,{ma siamo amici!}ma siamo diventati amici!
 Dialogue: 10,0:11:38.40,0:11:39.51,Main-207-,,0,0,0,,{Giusto?} Ho ragione?
-Dialogue: 10,0:11:39.51,0:11:43.51,Main-207-,,0,0,0,,Sì!  Ci separeremo, ma\Nresteremo sempre amici!
-Dialogue: 10,0:11:46.89,0:11:51.10,Main-207-,,0,0,0,,Fin da quando ero bambino, {Non ho mai avuto\Namici...}Non sono mai riuscito a farmi degli amici,
-Dialogue: 10,0:11:51.10,0:11:54.90,Main-207-,,0,0,0,,{Tanto meno qualcuno che combatterebbe per me...}tanto\Nmeno trovare qualcuno disposto a combattere per me...
-Dialogue: 10,0:11:54.90,0:11:58.98,Main-207-,,0,0,0,,{Ma più di ogni altra cosa, non ho mai provato a lottare per nulla.}Voglio\Ndire, in realtà, {\i1}non{\i0} ho mai veramente combattuto per nulla.
+Dialogue: 10,0:11:39.51,0:11:43.51,Main-207-,,0,0,0,,Sì! Ci separeremo, ma\Nresteremo sempre amici!
+Dialogue: 10,0:11:46.89,0:11:51.10,Main-207-,,0,0,0,,Fin da quando ero bambino, {Non ho mai avuto\Namici...}non sono mai riuscito a farmi degli amici,
+Dialogue: 10,0:11:51.10,0:11:54.90,Main-207-,,0,0,0,,{Tanto meno qualcuno che combatterebbe per me...}tanto meno a trovare qualcuno disposto a combattere per me...
+Dialogue: 10,0:11:54.90,0:11:58.98,Main-207-,,0,0,0,,{Ma più di ogni altra cosa, non ho mai provato a lottare per nulla.}Voglio dire, in realtà, {\i1}non{\i0} ho mai veramente combattuto per nulla.
 Dialogue: 10,0:12:00.96,0:12:06.27,Main-207-,,0,0,0,,Ma voi due mi avete insegnato\Na vivere per quello in cui credo!
-Dialogue: 10,0:12:06.27,0:12:09.59,Main-207-,,0,0,0,,{Ho deciso di realizzare il mio sogno d'infanzia!}Ho\Ndeciso di trasformare il mio sogno d'infanzia in realtà!
+Dialogue: 10,0:12:06.27,0:12:09.59,Main-207-,,0,0,0,,{Ho deciso di realizzare il mio sogno d'infanzia!}Ho deciso di trasformare il mio sogno d'infanzia in realtà!
 Dialogue: 10,0:12:09.59,0:12:11.37,Main-207-,,0,0,0,,Voglio unirmi alla Marina!
 Dialogue: 10,0:12:11.37,0:12:14.67,Main-207-,,0,0,0,,Non dovresti essere più\Npreoccupato per te stesso, allora?
-Dialogue: 10,0:12:16.56,0:12:18.26,Main-207-,,0,0,0,,{Anche se fossi solo un ragazzo delle\Npulizie,} Certo, eri solo un ragazzo di cabina,
-Dialogue: 10,0:12:18.26,0:12:21.59,Main-207-,,0,0,0,,{hai passato due anni sulla nave pirata di Alvida.}ma\Nhai trascorso due anni sulla nave pirata di Alvida.
+Dialogue: 10,0:12:16.56,0:12:18.26,Main-207-,,0,0,0,,{Anche se fossi solo un ragazzo delle\Npulizie,} Certo, eri solo un mozzo,
+Dialogue: 10,0:12:18.26,0:12:21.59,Main-207-,,0,0,0,,{hai passato due anni sulla nave pirata di Alvida.}ma hai trascorso due anni sulla nave pirata di Alvida.
 Dialogue: 10,0:12:23.97,0:12:26.50,Main-207-,,0,0,0,,Non sottovalutare le capacità di raccolta di informazioni della\NMarina.
 Dialogue: 10,0:12:26.50,0:12:29.35,Main-207-,,0,0,0,,{Se lo scoprono, non potrai mai iscriverti.} Se vengono a\Nconoscenza del tuo passato, non ti lasceranno arruolare.
-Dialogue: 10,0:12:29.90,0:12:32.48,Main-207-,,0,0,0,,N-Ora che me lo dici...
-Dialogue: 10,0:12:32.48,0:12:34.02,Main-207-,,0,0,0,,Scusami!
+Dialogue: 10,0:12:29.90,0:12:32.48,Main-207-,,0,0,0,,O-Ora che me lo dici...
+Dialogue: 10,0:12:32.48,0:12:34.02,Main-207-,,0,0,0,,Con permesso!
 Dialogue: 10,0:12:39.83,0:12:42.49,Main-207-,,0,0,0,,È vero che siete pirati?!
-Dialogue: 10,0:12:42.49,0:12:47.74,Main-207-,,0,0,0,,{Sì.  Abbiamo guadagnato un membro e siamo diventati un gruppo di pirati proprio\Nora!}Sì!  Ho il mio primo membro, quindi ora siamo ufficialmente una ciurma di pirati!
+Dialogue: 10,0:12:42.49,0:12:47.74,Main-207-,,0,0,0,,{Sì.  Abbiamo guadagnato un membro e siamo diventati un gruppo di pirati proprio\Nora!}Sì! Ho il mio primo membro, quindi ora siamo ufficialmente una ciurma di pirati!
 Dialogue: 10,0:12:47.74,0:12:53.53,Main-207-,,0,0,0,,Apprezziamo che tu abbia salvato la\Nnostra base e questa città da quel tiranno!
 Dialogue: 10,0:12:53.53,0:12:56.42,Main-207-,,0,0,0,,{Tuttavia, ora che sappiamo che siete dei pirati,}Tuttavia,\Ndopo aver confermato che siete effettivamente dei pirati,
 Dialogue: 10,0:12:56.42,0:13:00.00,Main-207-,,0,0,0,,in nome della Marina, {non possiamo restare\Na guardare!}non possiamo restare a guardare!
-Dialogue: 10,0:13:00.00,0:13:03.21,Main-207-,,0,0,0,,Lascerai subito questa città!
-Dialogue: 10,0:13:03.21,0:13:06.72,Main-207-,,0,0,0,,{Per obbligo, ci asteniamo dal contattare la sede centrale.} Per\Ndimostrare la nostra gratitudine, non ti segnaleremo alla sede centrale.
-Dialogue: 10,0:13:06.72,0:13:09.76,Main-207-,,0,0,0,,Ehi, ragazzo della Marina!  {Come puoi\Nparlare così?!}Che diavolo stai dicendo?!
+Dialogue: 10,0:13:00.00,0:13:03.21,Main-207-,,0,0,0,,Lasciate subito questa città!
+Dialogue: 10,0:13:03.21,0:13:06.72,Main-207-,,0,0,0,,{Per obbligo, ci asteniamo dal contattare la sede centrale.} Per dimostrare la nostra gratitudine, non vi segnaleremo alla sede centrale.
+Dialogue: 10,0:13:06.72,0:13:09.76,Main-207-,,0,0,0,,Ehi, Marine! {Come puoi\Nparlare così?!}Che diavolo stai dicendo?!
 Dialogue: 10,0:13:09.76,0:13:13.56,Main-207-,,0,0,0,,{Anche voi ragazzi eravate sottomessi e terrorizzati da Morgan!}\NAnche {\i1}voi tutti{\i0} eravate terrorizzati dalla tirannia di Morgan!
 Dialogue: 10,0:13:13.56,0:13:16.69,Main-207-,,0,0,0,,Dobbiamo a queste persone la nostra vita!
-Dialogue: 10,0:13:16.69,0:13:18.27,Main-207-,,0,0,0,,Sì!  Sì!
-Dialogue: 10,0:13:21.81,0:13:23.97,Main-207-,,0,0,0,,{Bene, immagino che dovremmo andare!} Bene allora, devo andare!
+Dialogue: 10,0:13:16.69,0:13:18.27,Main-207-,,0,0,0,,Sì! Sì!
+Dialogue: 10,0:13:21.81,0:13:23.97,Main-207-,,0,0,0,,{Bene, immagino che dovremmo andare!} Bene allora, dobbiamo andare!
 Dialogue: 10,0:13:23.97,0:13:25.28,Main-207-,,0,0,0,,Grazie per il cibo, signora!
 Dialogue: 10,0:13:25.28,0:13:28.20,Main-207-,,0,0,0,,Ragazzi, ve ne state già andando?
 Dialogue: 10,0:13:28.20,0:13:29.49,Main-207-,,0,0,0,,Sì.
 Dialogue: 10,0:13:36.93,0:13:38.85,Main-207-,,0,0,0,,Non fai parte del loro equipaggio?
-Dialogue: 10,0:13:38.85,0:13:40.84,Main-207-,,0,0,0,,Eh?  IO...
+Dialogue: 10,0:13:38.85,0:13:40.84,Main-207-,,0,0,0,,Eh? Io...
 Dialogue: 10,0:13:40.84,0:13:42.80,Main-207-,,0,0,0,,Io sono...
 Dialogue: 10,0:13:46.48,0:13:47.34,Main-207-,,0,0,0,,Aspetta!
-Dialogue: 10,0:13:47.34,0:13:50.10,Main-207-,,0,0,0,,Allora?  Questo ragazzo?!
+Dialogue: 10,0:13:47.34,0:13:50.10,Main-207-,,0,0,0,,Allora? Questo ragazzo?!
 Dialogue: 10,0:13:50.10,0:13:53.35,Main-207-,,0,0,0,,{So cosa ha fatto fino ad ora.} So tutto del suo passato.
-Dialogue: 10,0:13:54.35,0:13:56.10,Thoughts-207-,,0,0,0,,Rufy-{\i1}san{\i0}!  Non lo faresti!
+Dialogue: 10,0:13:54.35,0:13:56.10,Thoughts-207-,,0,0,0,,Rufy-{\i1}san{\i0}! Non farlo!
 Dialogue: 10,0:13:56.82,0:13:59.68,Main-207-,,0,0,0,,C'era questa signora pirata\N{davvero}davvero, {\i1}davvero{\i0} grassa,
-Dialogue: 10,0:13:59.68,0:14:01.27,Main-207-,,0,0,0,,Penso che il suo nome fosse {Ahiruda} Ahilda.
+Dialogue: 10,0:13:59.68,0:14:01.27,Main-207-,,0,0,0,,Penso che il suo nome fosse {Ahiruda}Ahilda.
 Dialogue: 10,0:14:01.27,0:14:03.50,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!
 Dialogue: 10,0:14:03.50,0:14:05.95,Thoughts-207-,,0,0,0,,Se scoprono che ero\Nsu una nave pirata,
 Dialogue: 10,0:14:05.95,0:14:08.57,Thoughts-207-,,0,0,0,,Non potrò mai arruolarmi in Marina!
@@ -1330,31 +1330,31 @@ Dialogue: 10,0:14:14.29,0:14:17.58,Main-207-,,0,0,0,,E per due anni interi,\Nque
 Dialogue: 10,0:14:17.58,0:14:22.09,Thoughts-207-,,0,0,0,,Per favore, non farlo!\NPer favore, non farlo, Rufy-s{\i1}an!{\i0}
 Dialogue: 10,0:14:22.98,0:14:24.05,Main-207-,,0,0,0,,Stai zitto!
 Dialogue: 10,0:14:31.34,0:14:32.97,Main-207-,,0,0,0,,Ce l'hai fatta, bastardo!
-Dialogue: 10,0:14:32.97,0:14:36.27,Main-207-,,0,0,0,,Maledetto {tu}bastardo!  {Accidenti a\Nte}Prendi questo!  {Accidenti a te}E quello!
+Dialogue: 10,0:14:32.97,0:14:36.27,Main-207-,,0,0,0,,Maledetto {tu}bastardo!  {Accidenti a\Nte}Prendi questo! {Accidenti a te}E questo!
 Dialogue: 10,0:14:38.44,0:14:40.56,Main-207-,,0,0,0,,Smettila!
 Dialogue: 10,0:14:40.56,0:14:43.65,Main-207-,,0,0,0,,{Non ti permetteremo di causare altri problemi in questa città!}\NCi sono già stati abbastanza problemi in questa città così com'è!
-Dialogue: 10,0:14:44.61,0:14:47.90,Main-207-,,0,0,0,,EHI!  Sei andato troppo oltre.\NQuesto è sufficiente.
-Dialogue: 10,0:14:54.22,0:14:56.88,Main-207-,,0,0,0,,È {molto} chiaro che voi ragazzi\Nnon siete compagni di squadra!
+Dialogue: 10,0:14:44.61,0:14:47.90,Main-207-,,0,0,0,,Ehi! Sei andato troppo oltre.\NQuesto è sufficiente.
+Dialogue: 10,0:14:54.22,0:14:56.88,Main-207-,,0,0,0,,È {molto}chiaro che voi ragazzi\Nnon siete compagni!
 Dialogue: 10,0:14:56.88,0:14:59.33,Main-207-,,0,0,0,,Ora lascia questa città {immediatamente} immediatamente!
-Dialogue: 10,0:15:05.42,0:15:07.88,Thoughts-207-,,0,0,0,,A proposito...
+Dialogue: 10,0:15:05.42,0:15:07.88,Thoughts-207-,,0,0,0,,Apposta...
 Dialogue: 10,0:15:09.02,0:15:11.14,Thoughts-207-,,0,0,0,,Lo ha fatto apposta{..}.
 Dialogue: 10,0:15:15.01,0:15:17.06,Thoughts-207-,,0,0,0,,Per me...
 Dialogue: 10,0:15:17.06,0:15:20.87,Thoughts-207-,,0,0,0,,Mi ha fatto innervosire di\Nproposito per farmi picchiare{..}.
-Dialogue: 10,0:15:22.51,0:15:27.48,Thoughts-207-,,0,0,0,,Anche alla fine ho\Ndeciso di affidarmi a lui!
+Dialogue: 10,0:15:22.51,0:15:27.48,Thoughts-207-,,0,0,0,,Anche alla fine mi sono dovuto affidare a lui!
 Dialogue: 10,0:15:30.74,0:15:33.70,Thoughts-207-,,0,0,0,,Non è cambiato assolutamente nulla!
 Dialogue: 10,0:15:35.70,0:15:38.16,Thoughts-207-,,0,0,0,,Sono un idiota?!
 Dialogue: 10,0:15:38.75,0:15:40.12,Main-207-,,0,0,0,,Per favore!
-Dialogue: 10,0:15:40.98,0:15:43.98,Main-207-,,0,0,0,,Per favore...\Nfammi unire alla Marina!
+Dialogue: 10,0:15:40.98,0:15:43.98,Main-207-,,0,0,0,,Per favore...\Nmi faccia unire alla Marina!
 Dialogue: 10,0:15:43.98,0:15:46.92,Main-207-,,0,0,0,,Sarò felice di {fare le faccende domestiche}\Nfare il mozzo o qualsiasi altra cosa!
 Dialogue: 10,0:15:46.92,0:15:49.34,Main-207-,,0,0,0,,Se significa che posso essere della marina!
 Dialogue: 10,0:15:52.34,0:15:55.30,Main-207-,,0,0,0,,Comandante!\NSono contrario all'idea!
-Dialogue: 10,0:15:56.22,0:15:58.80,Main-207-,,0,0,0,,Ancora {non} non riesco a fidarmi completamente di questo ragazzo!
-Dialogue: 10,0:15:58.80,0:16:01.94,Main-207-,,0,0,0,,{Ci sono stati casi di marines che sono stati spie pirata!}Ci\Nsono segnalazioni di pirati che piazzano spie tra i marines.
-Dialogue: 10,0:16:01.94,0:16:05.60,Main-207-,,0,0,0,,{Dovremo prima condurre un controllo dei precedenti–}Dovremo\Nprima condurre un controllo dei precedenti per–
-Dialogue: 10,0:16:05.60,0:16:08.94,Main-207-,,0,0,0,,{Sono un uomo che diventerà un ufficiale della Marina!}L'uomo\Nche vedi davanti a te {\i1}diventerà{\i0} un ufficiale della Marina!
+Dialogue: 10,0:15:56.22,0:15:58.80,Main-207-,,0,0,0,,Non riesco ancora a fidarmi completamente di questo ragazzo!
+Dialogue: 10,0:15:58.80,0:16:01.94,Main-207-,,0,0,0,,{Ci sono stati casi di marines che sono stati spie pirata!}Ci sono segnalazioni di pirati che piazzano spie tra i marines.
+Dialogue: 10,0:16:01.94,0:16:05.60,Main-207-,,0,0,0,,{Dovremo prima condurre un controllo dei precedenti–}Dovremo prima condurre un controllo dei precedenti per–
+Dialogue: 10,0:16:05.60,0:16:08.94,Main-207-,,0,0,0,,{Sono un uomo che diventerà un ufficiale della Marina!}L'uomo che vedi davanti a te {\i1}diventerà{\i0} un ufficiale della Marina!
 Dialogue: 10,0:16:16.01,0:16:19.01,Main-207-,,0,0,0,,{Innumerevoli nostri compagni sono stati uccisi dai pirati.}\NInnumerevoli nostri compagni sono caduti nelle mani dei pirati.
 Dialogue: 10,0:16:19.01,0:16:20.79,Main-207-,,0,0,0,,{Non prendere alla leggera la Marina.} Non prendere alla leggera la Marina.
-Dialogue: 10,0:16:22.26,0:16:24.88,Main-207-,,0,0,0,,– Allora...\N– Autorizzazione a partecipare: concessa!
+Dialogue: 10,0:16:22.26,0:16:24.88,Main-207-,,0,0,0,,– Allora...\N– Ti è concesso arruolarti!
 Dialogue: 10,0:16:27.03,0:16:28.80,Main-207-,,0,0,0,,Si signore!
 Dialogue: 10,0:16:29.73,0:16:31.94,Main-207-,,0,0,0,,{È stato un atto piuttosto noioso.} La tua recitazione è stata orribile.
 Dialogue: 10,0:16:31.94,0:16:34.33,Main-207-,,0,0,0,,Non rimarrei scioccato\Nse lo capissero.
@@ -1367,13 +1367,13 @@ Dialogue: 10,0:16:45.96,0:16:47.40,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!
 Dialogue: 10,0:16:49.23,0:16:53.78,Main-207-,,0,0,0,,Grazie! Non dimenticherò mai\Ntutto quello che hai fatto per me!
 Dialogue: 10,0:16:53.78,0:16:58.26,Main-207-,,0,0,0,,Non ho mai sentito parlare di un pirata ringraziato da un marine...
 Dialogue: 10,0:17:01.25,0:17:03.71,Main-207-,,0,0,0,,{Incontriamoci di nuovo qualche volta, Koby!}Ci incontreremo di nuovo, Koby!
-Dialogue: 10,0:17:03.71,0:17:07.17,Main-207-,,0,0,0,,– Rufy-{\i1}san{\i0}... – Ciao!
+Dialogue: 10,0:17:03.71,0:17:07.17,Main-207-,,0,0,0,,– Rufy-{\i1}san{\i0}... \N– Ciao!
 Dialogue: 10,0:17:07.17,0:17:09.88,Main-207-,,0,0,0,,A tutti, saluto!
 Dialogue: 10,0:17:12.84,0:17:15.80,Main-207-,,0,0,0,,Ci vediamo!
 Dialogue: 10,0:17:16.64,0:17:18.76,Main-207-,,0,0,0,,Quello che hai lì, è un grande amico.
 Dialogue: 10,0:17:24.32,0:17:25.39,Main-207-,,0,0,0,,Si signore!
 Dialogue: 10,0:17:26.63,0:17:31.23,Main-207-,,0,0,0,,{Il nostro saluto di adesso viola la legge navale!}Le norme della Marina vietano il saluto ai pirati!
-Dialogue: 10,0:17:31.23,0:17:35.11,Main-207-,,0,0,0,,{Pertanto rimarremo tutti senza cibo per tre giorni!\NCapito?!}Per punizione, niente cibo per tre giorni!  Intesi?!
+Dialogue: 10,0:17:31.23,0:17:35.11,Main-207-,,0,0,0,,{Pertanto rimarremo tutti senza cibo per tre giorni!\NCapito?!}Per punizione, niente cibo per tre giorni! Intesi?!
 Dialogue: 10,0:17:35.11,0:17:36.00,Main-207-,,0,0,0,,Si signore!
-Dialogue: 10,0:17:39.24,0:17:41.74,Main-207-,,0,0,0,,Va bene!  Andiamo!
-Dialogue: 10,0:17:41.74,0:17:47.38,Main-207-,,0,0,0,,{\fad(0,1000)}Salpa per la Rotta Maggiore!
+Dialogue: 10,0:17:39.24,0:17:41.74,Main-207-,,0,0,0,,Va bene! Andiamo!
+Dialogue: 10,0:17:41.74,0:17:47.38,Main-207-,,0,0,0,,{\fad(0,1000)}Salpiamo per la Rotta Maggiore!

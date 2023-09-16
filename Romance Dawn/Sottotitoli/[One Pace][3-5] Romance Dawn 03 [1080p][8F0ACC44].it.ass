@@ -31,7 +31,7 @@ Style: Roger-Monologue,Impress BT Pace,82,&H00FFFFFF,&H00002EFF,&H00000000,&H780
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
 Dialogue: 15,0:00:04.36,0:00:06.04,Main-207-,,0,0,0,,Che bel tempo!
-Dialogue: 15,0:00:06.04,0:00:09.94,Main-207-,,0,0,0,,Se {continuiamo così}manteniamo la rotta,\Ndovremmo vedere presto la base navale {l'isola}!
+Dialogue: 15,0:00:06.04,0:00:09.94,Main-207-,,0,0,0,,Se {continuiamo così}manteniamo la rotta,\Ndovremmo vedere presto la base navale{l'isola}!
 Dialogue: 15,0:00:09.94,0:00:12.60,Main-207-,,0,0,0,,Sei davvero incredibile, Koby!
 Dialogue: 15,0:00:12.60,0:00:14.25,Main-207-,,0,0,0,,Raggiungeremo davvero la nostra destinazione?
 Dialogue: 15,0:00:14.25,0:00:15.39,Main-207-,,0,0,0,,Ovviamente!
@@ -70,12 +70,12 @@ Dialogue: 0,0:01:09.05,0:01:11.05,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)
 Dialogue: 1,0:01:09.05,0:01:11.05,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Timing
 Dialogue: 0,0:01:09.05,0:01:11.05,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}PhosCity
 Dialogue: 1,0:01:09.05,0:01:11.05,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}PhosCity
-Dialogue: 0,0:01:09.14,0:01:12.58,Roger-Monologue,,0,0,0,,Il mio tesoro?  È vostro,\Nse riuscite a trovarlo.
+Dialogue: 0,0:01:09.14,0:01:12.58,Roger-Monologue,,0,0,0,,Il mio tesoro? È vostro,\Nse riuscite a trovarlo.
 Dialogue: 0,0:01:11.05,0:01:13.05,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Subtitle Editing
 Dialogue: 1,0:01:11.05,0:01:13.05,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Subtitle Editing
 Dialogue: 0,0:01:11.05,0:01:13.05,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Feeso\N Zenef
 Dialogue: 1,0:01:11.05,0:01:13.05,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord0\fscx120\fscy125\4a&HFF&}Feeso\N Zenef
-Dialogue: 0,0:01:12.58,0:01:16.80,Roger-Monologue,,0,0,0,,È tutto esattamente dove l'ho lasciato!
+Dialogue: 0,0:01:12.58,0:01:16.80,Roger-Monologue,,0,0,0,,Ho lasciato tutto in un certo posto!
 Dialogue: 0,0:01:13.05,0:01:15.05,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord3\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}Translation
 Dialogue: 1,0:01:13.05,0:01:15.05,Credits-207-,,0,0,0,,{\pos(90,90)\fad(600,600)\blur0.6\bord0\4a&HFF&}Translation
 Dialogue: 0,0:01:13.05,0:01:15.05,Credits-207-,,0,0,0,,{\pos(130,136)\fad(600,600)\blur0.6\bord3\fscx120\fscy125\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1400,1445,\1a&HFF&)}DemonRin\N FUNimation
@@ -1129,14 +1129,14 @@ Dialogue: 1,0:02:46.12,0:02:46.64,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(665,
 Dialogue: 1,0:02:46.17,0:02:46.94,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(768,59)\fad(300,0)}are!
 Dialogue: 2,0:02:46.64,0:02:47.19,Karaoke,,0,0,0,fx,{\an5\blur0\pos(665,59)\bord3\t(0,100,\1c&HFAD19C&\3c&HFFFFFF&\fscx130\fscy130)\t(100,300,\fscx100\fscy100\3c&HFFFFFF&)\fad(0,200)}We
 Dialogue: 2,0:02:46.94,0:02:47.57,Karaoke,,0,0,0,fx,{\an5\blur0\pos(768,59)\bord3\t(0,100,\1c&HFAD19C&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&HFFFFFF&)\fad(0,200)}are!
-Dialogue: 15,0:02:53.00,0:02:56.75,Main-207-,,0,0,0,,Ce l'abbiamo fatta!  La città navale!
-Dialogue: 0,0:02:54.49,0:02:58.19,Title-207-,,0,0,0,,{\pos(720,792)\fad(600,0)\blur0.7\bord2.25\fscx91\fscy91\fsp-2\c&H0D0C0B&\3c&H0D0C0B&\1a&HFF&\t(555,600,\1a&H00&)}Il Re dei Pirati e il\NMaestro Spadaccino
-Dialogue: 1,0:02:54.49,0:02:58.19,Title-207-,,0,0,0,,{\pos(720,792)\fad(600,0)\blur0.7\bord0\fscx91\fscy91\fsp-2\c&HF9F8F9&\4a&HFF&}Il Re dei Pirati e il\NMaestro Spadaccino
-Dialogue: 15,0:03:01.16,0:03:02.67,Main-207-,,0,0,0,,{Sul serio}H-Ehi, Rufy-{\i1}san{\i0}!
-Dialogue: 15,0:03:02.67,0:03:05.69,Main-207-,,0,0,0,,{Sei pazzo a desiderare che si unisca a te!} Non sei serio\Nriguardo al fatto che si unisca alla tua squadra, vero?
+Dialogue: 15,0:02:53.00,0:02:56.75,Main-207-,,0,0,0,,Ce l'abbiamo fatta! La città navale!
+Dialogue: 0,0:02:54.49,0:02:58.19,Title-207-,,0,0,0,,{\pos(720,792)\fad(600,0)\blur0.7\bord2.25\fscx91\fscy91\fsp-2\c&H0D0C0B&\3c&H0D0C0B&\1a&HFF&\t(555,600,\1a&H00&)}Il Re dei Pirati e il\Npiù grande Spadaccino
+Dialogue: 1,0:02:54.49,0:02:58.19,Title-207-,,0,0,0,,{\pos(720,792)\fad(600,0)\blur0.7\bord0\fscx91\fscy91\fsp-2\c&HF9F8F9&\4a&HFF&}Il Re dei Pirati e il\Npiù grande Spadaccino
+Dialogue: 15,0:03:01.16,0:03:02.67,Main-207-,,0,0,0,,{Sul serio}E-Ehi, Rufy-{\i1}san{\i0}!
+Dialogue: 15,0:03:02.67,0:03:05.69,Main-207-,,0,0,0,,{Sei pazzo a desiderare che si unisca a te!} Non sei serio\Nriguardo al fatto che si unisca alla tua ciurma, vero?
 Dialogue: 15,0:03:05.69,0:03:08.60,Main-207-,,0,0,0,,{Non ho ancora deciso.  Voglio solo vedere se è un bravo\Nragazzo...}Non ho ancora deciso, ma se è un bravo ragazzo, allora–
-Dialogue: 15,0:03:08.60,0:03:10.96,Main-207-,,0,0,0,,{È stato catturato perché è un cattivo ragazzo!}È\Nstato catturato perché {\i1}non{\i0} è un bravo ragazzo!
-Dialogue: 15,0:03:14.30,0:03:15.77,Main-207-,,0,0,0,,Mmm!  Yum!
+Dialogue: 15,0:03:08.60,0:03:10.96,Main-207-,,0,0,0,,{È stato catturato perché è un cattivo ragazzo!}È stato catturato perché {\i1}non{\i0} è un bravo ragazzo!
+Dialogue: 15,0:03:14.30,0:03:15.77,Main-207-,,0,0,0,,Mmm! Yum!
 Dialogue: 15,0:03:16.38,0:03:19.17,Main-207-,,0,0,0,,{Sai se Zoro è alla base?} Puoi\Ndirmi se Zoro è in quella base?
 Dialogue: 15,0:03:24.70,0:03:27.39,Main-207-,,0,0,0,,{Sembra che il nome "Zoro" sia tabù da queste parti.}\NPenso che il nome "Zoro" sia tabù da queste parti.
 Dialogue: 15,0:03:28.32,0:03:29.89,Main-207-,,0,0,0,,{Bene, controlliamo comunque la base.} Vediamo comunque la base.
@@ -1149,35 +1149,35 @@ Dialogue: 15,0:03:49.40,0:03:53.90,Main-207-,,0,0,0,,{Capisco Zoro} Capisco il n
 Dialogue: 15,0:03:53.90,0:03:56.80,Main-207-,,0,0,0,,{All'improvviso mi sento a disagio per questo...}All'improvviso\Nho un brutto presentimento al riguardo...
 Dialogue: 15,0:03:56.80,0:03:59.41,Main-207-,,0,0,0,,{Sei sicuro che non abbiano saltato solo per divertimento?}\NSei sicuro che non fossero solo davvero emozionati?
 Dialogue: 15,0:03:59.41,0:04:00.92,Main-207-,,0,0,0,,{Nessuno lo farebbe!} Chiaramente non era quello!
-Dialogue: 15,0:04:02.80,0:04:04.39,Main-207-,,0,0,0,,Va bene!  Siamo qui!
+Dialogue: 15,0:04:02.80,0:04:04.39,Main-207-,,0,0,0,,Va bene! Ci siamo!
 Dialogue: 15,0:04:05.35,0:04:07.67,Main-207-,,0,0,0,,Finalmente ce l'ho fatta!
 Dialogue: 15,0:04:08.42,0:04:10.84,Main-207-,,0,0,0,,Immagino che sia qui\Nche ci separiamo, Rufy-{\i1}san{\i0}.
 Dialogue: 15,0:04:10.84,0:04:13.27,Main-207-,,0,0,0,,{È stato solo per poco tempo,\Nma–}Non ci conoscevamo da molto, ma–
 Dialogue: 15,0:04:13.27,0:04:14.58,Main-207-,,0,0,0,,{Oopsie-daisy!} Eccoci qua!
-Dialogue: 15,0:04:14.58,0:04:17.19,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!  Cosa\Ndiavolo stai facendo?!
+Dialogue: 15,0:04:14.58,0:04:17.19,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}! Cosa\Ndiavolo stai facendo?!
 Dialogue: 15,0:04:17.19,0:04:19.36,Main-207-,,0,0,0,,Allora, dov'è questo demone?!
 Dialogue: 15,0:04:19.36,0:04:21.95,Main-207-,,0,0,0,,{Non sarebbe qui fuori.} Non è all'aperto.
 Dialogue: 15,0:04:21.95,0:04:23.90,Main-207-,,0,0,0,,Sono sicuro che sia nella cella di una prigione o qualcosa del genere.
 Dialogue: 15,0:04:23.90,0:04:24.91,Main-207-,,0,0,0,,{Eccolo!}Trovato!
 Dialogue: 15,0:04:24.91,0:04:26.20,Main-207-,,0,0,0,,{Va bene!}Perfetto!
-Dialogue: 15,0:04:29.05,0:04:29.92,Main-207-,,0,0,0,,Guarda!  Eccolo!
-Dialogue: 15,0:04:29.92,0:04:32.21,Main-207-,,0,0,0,,{Sì, giusto} Te lo sto\Ndicendo!  Non è fuori...
+Dialogue: 15,0:04:29.05,0:04:29.92,Main-207-,,0,0,0,,Guarda! Eccolo!
+Dialogue: 15,0:04:29.92,0:04:32.21,Main-207-,,0,0,0,,{Sì, giusto} Te lo sto\Ndicendo! Non è fuori...
 Dialogue: 15,0:04:38.01,0:04:41.48,Thoughts-207-,,0,0,0,,Una bandana nera e una fascia\Nper la pancia {h-haramaki}...
 Dialogue: 15,0:04:43.20,0:04:46.34,Thoughts-207-,,0,0,0,,Questo è R-Roronoa Zoro!
 Dialogue: 15,0:04:46.34,0:04:49.07,Main-207-,,0,0,0,,{Può scappare facilmente se sleghiamo quelle corde!} Se sleghiamo le sue corde, lo porteremo facilmente via da qui!
 Dialogue: 15,0:04:49.07,0:04:51.21,Main-207-,,0,0,0,,N-Non essere stupido!
 Dialogue: 15,0:04:51.21,0:04:53.52,Main-207-,,0,0,0,,{Non si può dire cosa succederebbe se lo lasciassimo\Nlibero!} Se si liberasse, cosa pensi che farebbe?!
 Dialogue: 15,0:04:53.52,0:04:56.20,Main-207-,,0,0,0,,Scommetto che cercherebbe\Ndi uccidere anche te, Rufy-{\i1}san{\i0}!
-Dialogue: 15,0:04:56.20,0:04:58.19,Main-207-,,0,0,0,,Non preoccuparti!  Sono forte!
+Dialogue: 15,0:04:56.20,0:04:58.19,Main-207-,,0,0,0,,Non preoccuparti! Sono forte!
 Dialogue: 15,0:04:58.19,0:05:00.65,Thoughts-207-,,0,0,0,,Non posso credere a questo ragazzo!
-Dialogue: 15,0:05:01.26,0:05:03.03,Main-207-,,0,0,0,,Ehi, voi {ragazzi} due.
+Dialogue: 15,0:05:01.26,0:05:03.03,Main-207-,,0,0,0,,Ehi, voi {ragazzi}due.
 Dialogue: 15,0:05:04.29,0:05:05.74,Main-207-,,0,0,0,,Siete fastidiosi.
 Dialogue: 15,0:05:08.10,0:05:09.16,Main-207-,,0,0,0,,Andatevene!
-Dialogue: 15,0:05:10.37,0:05:14.92,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!  {Non è possibile sopravvivere con lui nella\Ntua ciurma!} Sei spacciato se si unisce alla tua ciurma!
-Dialogue: 15,0:05:24.47,0:05:27.34,Main-207-,,0,0,0,,{Oh no!  Fermala, Rufy-san!}Oh,\Nno!  Rufy-{\i1}san{\i0}, devi fermarla!
+Dialogue: 15,0:05:10.37,0:05:14.92,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}! {Non è possibile sopravvivere con lui nella\Ntua ciurma!}Sei spacciato se si unisce alla tua ciurma!
+Dialogue: 15,0:05:24.47,0:05:27.34,Main-207-,,0,0,0,,{Oh no!  Fermala, Rufy-san!}Oh, no!\NRufy-{\i1}san{\i0}, devi fermarla!
 Dialogue: 15,0:05:27.34,0:05:29.05,Main-207-,,0,0,0,,Verrà uccisa!
-Dialogue: 15,0:05:30.30,0:05:31.45,Main-207-,,0,0,0,,Che cosa?
-Dialogue: 15,0:05:31.45,0:05:35.19,Main-207-,,0,0,0,,Tu devi essere affamato!\NTi ho preparato degli o{\i1}nigiri.{\i0}
+Dialogue: 15,0:05:30.30,0:05:31.45,Main-207-,,0,0,0,,Che vuoi?
+Dialogue: 15,0:05:31.45,0:05:35.19,Main-207-,,0,0,0,,Devi essere affamato!\NTi ho preparato degli o{\i1}nigiri.{\i0}
 Dialogue: 15,0:05:35.19,0:05:37.81,Main-207-,,0,0,0,,Desideri morire, ragazzina?  Vattene a casa!
 Dialogue: 15,0:05:37.81,0:05:40.40,Main-207-,,0,0,0,,Signore, non ha mangiato\Nniente per tutto questo tempo.
 Dialogue: 15,0:05:40.90,0:05:44.20,Main-207-,,0,0,0,,È la prima volta che li preparo,
@@ -1185,21 +1185,21 @@ Dialogue: 15,0:05:44.20,0:05:46.32,Main-207-,,0,0,0,,ma ho lavorato davvero{davv
 Dialogue: 15,0:05:48.00,0:05:49.85,Main-207-,,0,0,0,,{Non ho fame!}Non ho fame!
 Dialogue: 15,0:05:49.85,0:05:51.50,Main-207-,,0,0,0,,{Sei un pugno nell'occhio!  Vattene da qui!}\NAdesso smettila di infastidirmi e vattene!
 Dialogue: 15,0:05:51.50,0:05:52.26,Main-207-,,0,0,0,,M-Ma...
-Dialogue: 15,0:05:52.26,0:05:54.44,Main-207-,,0,0,0,,Non li voglio!  Non costringermi\Na prenderti a calci!
+Dialogue: 15,0:05:52.26,0:05:54.44,Main-207-,,0,0,0,,Non li voglio! Non costringermi\Na prenderti a calci!
 Dialogue: 15,0:05:55.21,0:05:57.38,Main-207-,,0,0,0,,{Non è bello essere un bullo!} Prendersela con le ragazzine?!
-Dialogue: 0,0:05:58.84,0:06:04.22,Captions-207-,,0,0,0,,{\pos(720,722)\fad(400,0)\blur0.6\bord2\c&H000000&\1a&HFF&\4a&HFF&\t(355,400,\1a&H00&)}Helmeppo\NCaptain Morgan's Son
-Dialogue: 1,0:05:58.84,0:06:04.22,Captions-207-,,0,0,0,,{\pos(720,722)\fad(400,0)\blur0.6\bord0\c&HF9F9FA&\4a&HFF&}Helmeppo\NCaptain Morgan's Son
-Dialogue: 15,0:06:00.60,0:06:04.22,Main-207-,,0,0,2,,{\q2}Sembri stare sorprendentemente bene, Roronoa Zoro.
-Dialogue: 15,0:06:04.22,0:06:06.75,Main-207-,,0,0,0,,{Ora c'è un altro ragazzo strano!}\NCos'ha quello strano ragazzo laggiù?
+Dialogue: 0,0:05:58.84,0:06:04.22,Captions-207-,,0,0,0,,{\pos(720,722)\fad(400,0)\blur0.6\bord2\c&H000000&\1a&HFF&\4a&HFF&\t(355,400,\1a&H00&)}Helmeppo\NFiglio del Capitano Morgan
+Dialogue: 1,0:05:58.84,0:06:04.22,Captions-207-,,0,0,0,,{\pos(720,722)\fad(400,0)\blur0.6\bord0\c&HF9F9FA&\4a&HFF&}Helmeppo\NFiglio del Capitano Morgan
+Dialogue: 15,0:06:00.60,0:06:04.22,Main-207-,,0,0,2,,{\q2}Sembri stare sorprendentemente bene, \NRoronoa Zoro.
+Dialogue: 15,0:06:04.22,0:06:06.75,Main-207-,,0,0,0,,{Ora c'è un altro ragazzo strano!}\NCos'ha quello strano tizio laggiù?
 Dialogue: 15,0:06:06.75,0:06:07.94,Main-207-,,0,0,0,,Grazie a Dio!
-Dialogue: 15,0:06:07.94,0:06:11.10,Main-207-,,0,0,0,,Deve essere con la Marina!  {Ora quella ragazza\Nsarà al sicuro!} Quella ragazza sarà in buone mani!
-Dialogue: 15,0:06:11.79,0:06:14.99,Main-207-,,0,0,0,,{OH?  Quelle sono delle polpette di riso dall'aspetto gustoso.}Oh?  Beh, non sono {\i1}quelli{\i0} degli {\i1}onigiri{\i0} dall'aspetto gustoso?
+Dialogue: 15,0:06:07.94,0:06:11.10,Main-207-,,0,0,0,,Deve essere con la Marina!{Ora quella ragazza\Nsarà al sicuro!} Quella bambina sarà in buone mani!
+Dialogue: 15,0:06:11.79,0:06:14.99,Main-207-,,0,0,0,,{OH?  Quelle sono delle polpette di riso dall'aspetto gustoso.}Oh? Beh, {\i1}quelli{\i0} non sono degli {\i1}onigiri{\i0} dall'aspetto gustoso?
 Dialogue: 15,0:06:14.99,0:06:16.30,Main-207-,,0,0,0,,{Stop!}Non...!
 Dialogue: 15,0:06:18.58,0:06:20.01,Main-207-,,0,0,0,,{Troppo dannatamente dolce!} È troppo dolce!
 Dialogue: 15,0:06:20.01,0:06:21.61,Main-207-,,0,0,0,,{Quelli sono pieni di zucchero!}Li hai fatti tutti zuccherati!
-Dialogue: 15,0:06:21.61,0:06:23.52,Main-207-,,0,0,0,,{Dovresti usare il sale per le polpette di\Nriso!}{\i1}Onigiri{\i0} sono migliori con il sale!  {\i1}Sale{\i0}!
+Dialogue: 15,0:06:21.61,0:06:23.52,Main-207-,,0,0,0,,{Dovresti usare il sale per le polpette di\Nriso!}Gli {\i1}Onigiri{\i0} si fanno con il sale! {\i1}Sale{\i0}!
 Dialogue: 15,0:06:23.52,0:06:26.86,Main-207-,,0,0,0,,{Ma pensavo che potessero avere un sapore migliore, dolce...}\NMa... pensavo che dolce potesse avere un sapore migliore...
-Dialogue: 15,0:06:27.80,0:06:30.88,Main-207-,,0,0,0,,- Prendi questo!  E questo!\N- Smettila!  Smettila!
+Dialogue: 15,0:06:27.80,0:06:30.88,Main-207-,,0,0,0,,- Prendi questo! E questo!\N- Smettila! Smettila!
 Dialogue: 15,0:06:30.88,0:06:32.57,Main-207-,,0,0,0,,C-Come può essere così crudele?
 Dialogue: 15,0:06:37.66,0:06:42.29,Main-207-,,0,0,0,,Ho lavorato così duramente\Nper far sì che quelli...
 Dialogue: 15,0:06:43.71,0:06:46.70,Main-207-,,0,0,0,,Non hai letto questo avviso?
@@ -1208,12 +1208,12 @@ Dialogue: 15,0:06:50.10,0:06:52.40,Main-207-,,0,0,0,,–Capitano Morgan della Ma
 Dialogue: 15,0:06:54.47,0:06:57.56,Main-207-,,0,0,0,,Sembra che anche i marmocchi sappiano quanto sia spaventoso mio padre!
 Dialogue: 15,0:06:58.08,0:06:59.21,Main-207-,,0,0,0,,{Papà}"Papà"?
 Dialogue: 15,0:06:59.21,0:07:01.85,Main-207-,,0,0,0,,Allora quello è il figlio del Capitano Morgan!
-Dialogue: 15,0:07:02.36,0:07:05.11,Main-207-,,0,0,0,,{Voi.  Butta fuori questo ragazzo.} Tu.  Getta la ragazza oltre il muro.
+Dialogue: 15,0:07:02.36,0:07:05.11,Main-207-,,0,0,0,,{Voi.  Butta fuori questo ragazzo.} Tu. Getta la ragazza oltre il muro.
 Dialogue: 15,0:07:04.30,0:07:05.11,Secondary-207-,,0,0,0,,Signore?!
 Dialogue: 15,0:07:06.40,0:07:09.09,Main-207-,,0,0,0,,Ho {\i1}detto{\i0}, lanciala oltre il muro!
 Dialogue: 15,0:07:09.09,0:07:12.41,Main-207-,,0,0,0,,{Oppure non puoi eseguire i miei ordini?!  Non costringermi a dirlo a mio\Npadre!}Hai problemi a eseguire gli ordini?  Non costringermi a dirlo a papà!
 Dialogue: 15,0:07:12.41,0:07:13.91,Main-207-,,0,0,0,,S-Sì, signore... Subito!
-Dialogue: 15,0:07:15.62,0:07:17.79,Main-207-,,0,0,0,,NO!
+Dialogue: 15,0:07:15.62,0:07:17.79,Main-207-,,0,0,0,,No!
 Dialogue: 15,0:07:25.10,0:07:26.50,Main-207-,,0,0,0,,G-grazie...
 Dialogue: 15,0:07:26.50,0:07:27.92,Main-207-,,0,0,0,,Stai bene, Rufy-{\i1}san{\i0}?!
 Dialogue: 15,0:07:28.79,0:07:30.69,Main-207-,,0,0,0,,Stai bene?!
@@ -1226,7 +1226,7 @@ Dialogue: 15,0:07:47.49,0:07:49.82,Main-207-,,0,0,0,,Beh, buona fortuna.
 Dialogue: 15,0:07:52.55,0:07:54.30,Main-207-,,0,0,0,,{Dieci giorni rimasti, lo sai!}Solo altri 10 giorni!
 Dialogue: 15,0:07:54.30,0:07:57.38,Main-207-,,0,0,0,,Supponendo che tu possa vivere così a lungo!
 Dialogue: 15,0:07:58.99,0:08:02.21,Main-207-,,0,0,0,,{Come può essere così crudele}Cosa spinge\Nqualcuno ad essere così crudele, Rufy-{\i1}san{\i0}?!
-Dialogue: 15,0:08:03.09,0:08:04.42,Main-207-,,0,0,0,,Lui è andato?!
+Dialogue: 15,0:08:03.09,0:08:04.42,Main-207-,,0,0,0,,Dov'è andato?!
 Dialogue: 15,0:08:06.67,0:08:08.92,Main-207-,,0,0,0,,Ho sentito che sei un cattivo ragazzo.
 Dialogue: 15,0:08:08.92,0:08:10.60,Main-207-,,0,0,0,,Sei ancora qui?
 Dialogue: 15,0:08:10.60,0:08:13.10,Main-207-,,0,0,0,,{Essere bloccato qui sotto gli occhi di tutti...}Essere\Nbloccato qui sotto gli occhi di tutti...
@@ -1242,221 +1242,221 @@ Dialogue: 15,0:08:35.20,0:08:37.20,Main-207-,,0,0,0,,{Potresti prenderlo per me?
 Dialogue: 15,0:08:38.45,0:08:40.77,Main-207-,,0,0,0,,Lo mangerai?
 Dialogue: 15,0:08:40.77,0:08:42.54,Main-207-,,0,0,0,,{Adesso è soprattutto una palla di fango.} Adesso è più una palla di fango.
 Dialogue: 15,0:08:42.54,0:08:44.17,Main-207-,,0,0,0,,Stai zitto e dallo qui!
-Dialogue: 15,0:08:50.82,0:08:52.29,Main-207-,,0,0,0,,Ti ho detto così.
-Dialogue: 15,0:08:52.29,0:08:53.80,Main-207-,,0,0,0,,È stato bello.
+Dialogue: 15,0:08:50.82,0:08:52.29,Main-207-,,0,0,0,,Te l'ho detto.
+Dialogue: 15,0:08:52.29,0:08:53.80,Main-207-,,0,0,0,,È ottimo.
 Dialogue: 15,0:08:55.00,0:08:56.26,Main-207-,,0,0,0,,Grazie per il cibo.
 Dialogue: 15,0:08:58.39,0:09:00.43,Main-207-,,0,0,0,,Veramente?!
-Dialogue: 15,0:09:00.43,0:09:04.24,Main-207-,,0,0,0,,Sì!  Ha mangiato fino all'ultimo boccone!
-Dialogue: 15,0:09:04.24,0:09:05.57,Main-207-,,0,0,0,,Sono così {felice} felice!
+Dialogue: 15,0:09:00.43,0:09:04.24,Main-207-,,0,0,0,,Sì! Ha mangiato fino all'ultimo boccone!
+Dialogue: 15,0:09:04.24,0:09:05.57,Main-207-,,0,0,0,,Sono così {felice}felice!
 Dialogue: 15,0:09:05.57,0:09:09.07,Main-207-,,0,0,0,,{Zoro è davvero così cattivo come dicono le voci?}\NMa allora Zoro è davvero così cattivo come dicono?
 Dialogue: 15,0:09:09.07,0:09:11.08,Main-207-,,0,0,0,,Lui non lo è!
 Dialogue: 15,0:09:11.08,0:09:15.61,Main-207-,,0,0,0,,Dopotutto si è lasciato crocifiggere al mio posto...
-Dialogue: 15,0:09:15.61,0:09:18.12,Main-207-,,0,0,0,,Eh?  Cosa intendi?
+Dialogue: 15,0:09:15.61,0:09:18.12,Main-207-,,0,0,0,,Eh? Cosa intendi?
 Dialogue: 15,0:09:18.12,0:09:20.70,Main-207-,,0,0,0,,È tutta colpa di Helmeppo.
 Dialogue: 15,0:09:22.01,0:09:24.42,Main-207-,,0,0,0,,È il figlio del Capitano Morgan...
 Dialogue: 15,0:09:25.81,0:09:27.62,Flashbacks-207-,,0,0,0,,Fuori dai piedi!
-Dialogue: 15,0:09:27.62,0:09:31.57,Flashbacks-207-,,0,0,0,,Fate posto al mio {adorabile animale\Ndomestico-sama}, prezioso, adorabile cagnolino!
-Dialogue: 15,0:09:31.57,0:09:34.63,Flashbacks-207-,,0,0,0,,Mettiti in mezzo\Ne verrai giustiziato!
-Dialogue: 15,0:09:40.79,0:09:42.35,Flashbacks-207-,,0,0,0,,NO!  Smettila!
-Dialogue: 15,0:09:42.35,0:09:43.90,Flashbacks-207-,,0,0,0,,Ei, tu!
-Dialogue: 15,0:09:43.90,0:09:47.06,Flashbacks-207-,,0,0,0,,{Ti lamenterai di quello che sta facendo il mio animale domestico?!} Hai qualche\Nproblema con {cosa sta facendo il mio animale domestico?} Il mio adorabile cagnolino?!
-Dialogue: 15,0:09:47.06,0:09:48.63,Flashbacks-207-,,0,0,0,,Rika!  Smettila!
+Dialogue: 15,0:09:27.62,0:09:31.57,Flashbacks-207-,,0,0,0,,Fate posto al mio {adorabile animale\Ndomestico-sama}prezioso, adorabile cagnolino!
+Dialogue: 15,0:09:31.57,0:09:34.63,Flashbacks-207-,,0,0,0,,Mettetevi in mezzo\Ne verrete giustiziati!
+Dialogue: 15,0:09:40.79,0:09:42.35,Flashbacks-207-,,0,0,0,,No! Smettila!
+Dialogue: 15,0:09:42.35,0:09:43.90,Flashbacks-207-,,0,0,0,,Ehi, tu!
+Dialogue: 15,0:09:43.90,0:09:47.06,Flashbacks-207-,,0,0,0,,{Ti lamenterai di quello che sta facendo il mio animale domestico?!} Hai qualche\Nproblema con {cosa sta facendo il mio animale domestico?}il mio adorabile cagnolino?!
+Dialogue: 15,0:09:47.06,0:09:48.63,Flashbacks-207-,,0,0,0,,Rika! Smettila!
 Dialogue: 15,0:09:48.63,0:09:50.23,Flashbacks-207-,,0,0,0,,Finiremo nei guai!
 Dialogue: 15,0:09:57.17,0:10:00.40,Flashbacks-207-,,0,0,0,,- Oh merda!\N– Adesso è nei guai!
 Dialogue: 15,0:10:03.36,0:10:07.67,Main-207-,,0,0,0,,Helmeppo lo prende a pugni\Ne a calci mentre è legato!
 Dialogue: 15,0:10:08.38,0:10:10.89,Main-207-,,0,0,0,,Io... io...
 Dialogue: 15,0:10:10.89,0:10:13.17,Main-207-,,0,0,0,,{Capisco...}Quindi questo è ciò che sta succedendo.
 Dialogue: 15,0:10:15.86,0:10:19.01,Main-207-,,0,0,0,,Ho fame! Mangiamo tutti gratis!
-Dialogue: 15,0:10:20.87,0:10:22.84,Main-207-,,0,0,0,,EHI!  Portami da bere!
+Dialogue: 15,0:10:20.87,0:10:22.84,Main-207-,,0,0,0,,Ehi! Portami da bere!
 Dialogue: 15,0:10:22.84,0:10:24.40,Main-207-,,0,0,0,,Oh si.
 Dialogue: 15,0:10:24.40,0:10:26.10,Main-207-,,0,0,0,,{Sono stato annoiato ultimamente,} Per alleviare la mia noia,
 Dialogue: 15,0:10:26.10,0:10:28.10,Main-207-,,0,0,0,,{quindi ho deciso di giustiziare Zoro domani.} Farò giustiziare Zoro domani.
 Dialogue: 15,0:10:28.67,0:10:30.82,Main-207-,,0,0,0,,Ricordate tutti l'appuntamento!
 Dialogue: 15,0:10:39.94,0:10:41.65,Main-207-,,0,0,0,,C-Che diavolo stai facendo?!
-Dialogue: 15,0:10:41.65,0:10:43.69,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!  Per favore fermati!
+Dialogue: 15,0:10:41.65,0:10:43.69,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}! Per favore fermati!
 Dialogue: 15,0:10:43.69,0:10:45.12,Main-207-,,0,0,0,,Questo ragazzo è feccia!
 Dialogue: 15,0:10:45.12,0:10:47.29,Main-207-,,0,0,0,,M-Mi hai colpito!
 Dialogue: 15,0:10:47.29,0:10:49.60,Main-207-,,0,0,0,,Sono il figlio del Capitano Morgan!
 Dialogue: 15,0:10:49.60,0:10:50.79,Main-207-,,0,0,0,,E allora?!
 Dialogue: 15,0:10:51.22,0:10:53.75,Main-207-,,0,0,0,,{Lo dirò a mio padre e lui ti giustizierà!}\NQuando lo dirò a papà, lui ti giustizierà!
 Dialogue: 15,0:10:54.25,0:10:55.91,Main-207-,,0,0,0,,Combattimi tu stesso!
-Dialogue: 15,0:10:55.91,0:10:57.69,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}!  Calmati!
-Dialogue: 15,0:10:57.69,0:10:59.70,Main-207-,,0,0,0,,{Stai cercando di infastidire la\NMarina?!}Vuoi {\i1}{\i0} la Marina come tua nemica?!
+Dialogue: 15,0:10:55.91,0:10:57.69,Main-207-,,0,0,0,,Rufy-{\i1}san{\i0}! Calmati!
+Dialogue: 15,0:10:57.69,0:10:59.70,Main-207-,,0,0,0,,{Stai cercando di infastidire la\NMarina?!}Vuoi {\i1}{\i0}la Marina come tua nemica?!
 Dialogue: 15,0:10:59.70,0:11:01.54,Main-207-,,0,0,0,,Ho deciso, Koby!
-Dialogue: 15,0:11:02.80,0:11:06.52,Main-207-,,0,0,0,,Io... {farò sì che Zoro si unisca alla mia squadra!}\Nfarò in modo che Zoro si unisca alla mia squadra!
+Dialogue: 15,0:11:02.80,0:11:06.52,Main-207-,,0,0,0,,Io... {farò sì che Zoro si unisca alla mia squadra!}\Nfarò in modo che Zoro si unisca alla mia ciurma!
 Dialogue: 15,0:11:11.02,0:11:13.40,Main-207-,,0,0,0,,Sono...
 Dialogue: 15,0:11:13.40,0:11:14.23,Main-207-,,0,0,0,,Grande!
-Dialogue: 15,0:11:14.80,0:11:17.80,Main-207-,,0,0,0,,SÌ!  Ha esattamente ragione, Capitano Morgan, signore!
+Dialogue: 15,0:11:14.80,0:11:17.80,Main-207-,,0,0,0,,SÌ! Ha esattamente ragione, Capitano Morgan, signore!
 Dialogue: 15,0:11:17.80,0:11:21.70,Main-207-,,0,0,0,,{Ma i tributi nei miei confronti non sono stati un po' carenti ultimamente?}\NAllora perché i recenti tributi nei miei confronti non sono all'altezza?
-Dialogue: 15,0:11:21.70,0:11:26.41,Main-207-,,0,0,0,,W-Beh, i portafogli dei\Ncittadini hanno i loro limiti...
+Dialogue: 15,0:11:21.70,0:11:26.41,Main-207-,,0,0,0,,B-Beh, i portafogli dei\Ncittadini hanno i loro limiti...
 Dialogue: 15,0:11:27.63,0:11:31.10,Main-207-,,0,0,0,,{Il problema è il livello di rispetto\Nper me.} È una questione di rispetto.
-Dialogue: 15,0:11:31.10,0:11:32.58,Main-207-,,0,0,0,,Non saresti d'accordo?
+Dialogue: 15,0:11:31.10,0:11:32.58,Main-207-,,0,0,0,,Non sei d'accordo?
 Dialogue: 15,0:11:34.70,0:11:35.79,Main-207-,,0,0,0,,{Papà}Papà!
 Dialogue: 15,0:11:36.60,0:11:40.09,Main-207-,,0,0,0,,{C'è qualcuno che voglio che tu massacri!} Voglio che tu uccida qualcuno per me!
-Dialogue: 15,0:11:45.60,0:11:48.59,Main-207-,,0,0,0,,Di nuovo tu?  {Sicuramente hai molto tempo\Nlibero.}Non hai altro che tempo libero.
+Dialogue: 15,0:11:45.60,0:11:48.59,Main-207-,,0,0,0,,Di nuovo tu? {Sicuramente hai molto tempo\Nlibero.}Non hai altro che tempo libero.
 Dialogue: 15,0:11:48.59,0:11:51.21,Main-207-,,0,0,0,,{Ti scioglierò, quindi unisciti alla mia ciurma!} Ti scioglierò se ti unirai alla mia ciurma.
 Dialogue: 15,0:11:51.21,0:11:52.36,Main-207-,,0,0,0,,Che cosa?!
-Dialogue: 15,0:11:52.36,0:11:55.76,Main-207-,,0,0,0,,Cerco persone da inserire\Nnella mia ciurma di pirati.
-Dialogue: 15,0:11:55.76,0:11:59.40,Main-207-,,0,0,0,,{Lasci perdere!  Io che mi abbasso al livello di un criminale?!} Lascia\Nperdere!  Non sono abbastanza disperato da diventare un fuorilegge!
+Dialogue: 15,0:11:52.36,0:11:55.76,Main-207-,,0,0,0,,Cerco persone da reclutare\Nnella mia ciurma di pirati.
+Dialogue: 15,0:11:55.76,0:11:59.40,Main-207-,,0,0,0,,{Lasci perdere!  Io che mi abbasso al livello di un criminale?!} Lascia perdere! Non sono abbastanza disperato da diventare un fuorilegge!
 Dialogue: 15,0:11:59.40,0:12:00.44,Main-207-,,0,0,0,,Al diavolo!
 Dialogue: 15,0:12:01.17,0:12:02.99,Main-207-,,0,0,0,,Cosa c'è di sbagliato nell'essere un pirata?!
 Dialogue: 15,0:12:02.99,0:12:05.50,Main-207-,,0,0,0,,I pirati sono spregevoli!\NChi vorrebbe esserlo?!
-Dialogue: 15,0:12:05.50,0:12:07.12,Main-207-,,0,0,0,,Oh, {forza} dammi una pausa!
+Dialogue: 15,0:12:05.50,0:12:07.12,Main-207-,,0,0,0,,Oh, {forza}finiscila!
 Dialogue: 15,0:12:07.12,0:12:10.37,Main-207-,,0,0,0,,Sei già conosciuto come un\Nmalvagio cacciatore di taglie!
 Dialogue: 15,0:12:11.10,0:12:13.70,Main-207-,,0,0,0,,Le persone possono dire quello che vogliono,
 Dialogue: 15,0:12:13.70,0:12:15.83,Main-207-,,0,0,0,,{ma non ho fatto nulla di cui mi pento.} ma non ho mai fatto nulla di cui mi pento.
 Dialogue: 15,0:12:16.99,0:12:21.80,Main-207-,,0,0,0,,sopravvivrò a tutto questo... e raggiungerò il mio obiettivo.
-Dialogue: 15,0:12:21.80,0:12:23.97,Main-207-,,0,0,0,,{OH?  Sì?}Oh?  Vedo.
-Dialogue: 15,0:12:24.65,0:12:27.20,Main-207-,,0,0,0,,Ma ho deciso che ti\Nunirai alla mia squadra!
+Dialogue: 15,0:12:21.80,0:12:23.97,Main-207-,,0,0,0,,{OH?  Sì?}Oh? Capisco.
+Dialogue: 15,0:12:24.65,0:12:27.20,Main-207-,,0,0,0,,Ma ho deciso che ti\Nunirai alla mia ciurma!
 Dialogue: 15,0:12:27.20,0:12:28.80,Main-207-,,0,0,0,,{Smettila di decidere da solo!}Come se dipendesse da te!
 Dialogue: 15,0:12:28.80,0:12:30.22,Main-207-,,0,0,0,,{Ho sentito che usi le spade.} Quindi sei uno spadaccino?
-Dialogue: 15,0:12:30.83,0:12:34.90,Main-207-,,0,0,0,,Sì.  Ma quel figlio idiota\Nha preso la mia roba...
+Dialogue: 15,0:12:30.83,0:12:34.90,Main-207-,,0,0,0,,Sì. Ma quel figlio idiota\Nha preso la mia roba...
 Dialogue: 15,0:12:34.90,0:12:36.44,Main-207-,,0,0,0,,{Andrò a riprendertelo!} Riprenderò il tuo tesoro!{La parola "tesoro" si perde nel nostro montaggio, ma Rufy si riferisce alla spada come "tesori" nel prossimo episodio.  Questa traduzione può essere trovata nel manga VIZ.  Per dare la precedenza a Rufy e Zoro nell'usare questo termine per le sue spade, lo inseriremo in questa riga.}
 Dialogue: 15,0:12:36.44,0:12:37.06,Main-207-,,0,0,0,,Che cosa?!
-Dialogue: 15,0:12:37.06,0:12:40.15,Main-207-,,0,0,0,,{Quindi, se vuoi la tua spada,} otterrai la tua spada {unisciti\Nal mio equipaggio!} quando ti unirai al mio equipaggio!
+Dialogue: 15,0:12:37.06,0:12:40.15,Main-207-,,0,0,0,,{Quindi, se vuoi la tua spada,} Riavrai la tua spada{unisciti\Nal mio equipaggio!} quando ti unirai al mio equipaggio!
 Dialogue: 15,0:12:40.15,0:12:42.61,Main-207-,,0,0,0,,{Mi stai davvero dando sui nervi!}Non prendermi in giro!
 Dialogue: 15,0:12:43.55,0:12:46.53,Main-207-,,0,0,0,,{Ha intenzione di irrompere nella\Nbase da solo?!} Sta... andando da solo?!
-Dialogue: 15,0:12:55.80,0:12:58.61,Main-207-,,0,0,0,,Va bene!  {Fermati lì!} Mantieni la calma!
+Dialogue: 15,0:12:55.80,0:12:58.61,Main-207-,,0,0,0,,Va bene! {Fermati lì!}Fermi!
 Dialogue: 15,0:12:58.61,0:13:00.34,Main-207-,,0,0,0,,Alzatelo in un colpo solo!
-Dialogue: 15,0:13:01.40,0:13:04.29,Main-207-,,0,0,0,,{Papà!  Perché non hai intenzione di\Nvendicarti?!}Papà!  Non vuoi andare a vendicarmi?!
-Dialogue: 15,0:13:04.29,0:13:09.94,Main-207-,,0,0,0,,{Quel ragazzo mi ha colpito!  Nemmeno tu mi hai mai colpito in\Nfaccia!}Quel ragazzo mi ha colpito in {\i1}faccia{\i0}!  Nemmeno tu l'hai fatto!
-Dialogue: 15,0:13:09.94,0:13:15.64,Main-207-,,0,0,0,,{Sai perché non ti ho mai picchiato prima?}Sai\Nperché non ti ho mai picchiato prima?
-Dialogue: 15,0:13:15.64,0:13:18.27,Main-207-,,0,0,0,,{Eh?  Perché pensi che io-}S-certo... È perché io--
-Dialogue: 15,0:13:18.95,0:13:22.53,Main-207-,,0,0,0,,SÌ.  Perché tu sei...
-Dialogue: 0,0:13:28.41,0:13:33.75,Captions-207-,,0,0,0,,{\pos(720,716)\fad(350,0)\blur0.6\bord2\c&H000000&\1a&HFF&\t(305,350,\1a&H00&)}"Axe-Hand" Morgan\NNavy Captain
-Dialogue: 1,0:13:28.41,0:13:33.75,Captions-207-,,0,0,0,,{\pos(720,716)\fad(350,0)\blur0.6\bord0\c&HF9F9FA&\4a&HFF&}"Axe-Hand" Morgan\NNavy Captain
-Dialogue: 15,0:13:29.61,0:13:33.75,Main-207-,,0,0,2,,{\q2}il mio figlio senza speranza che non vale nemmeno la pena picchiare!
+Dialogue: 15,0:13:01.40,0:13:04.29,Main-207-,,0,0,0,,{Papà!  Perché non hai intenzione di\Nvendicarti?!}Papà! Non vuoi andare a vendicarmi?!
+Dialogue: 15,0:13:04.29,0:13:09.94,Main-207-,,0,0,0,,{Quel ragazzo mi ha colpito!  Nemmeno tu mi hai mai colpito in\Nfaccia!}Quel ragazzo mi ha colpito in {\i1}faccia{\i0}! Nemmeno tu l'hai mai fatto!
+Dialogue: 15,0:13:09.94,0:13:15.64,Main-207-,,0,0,0,,{Sai perché non ti ho mai picchiato prima?}Sai perché non ti ho mai picchiato prima?
+Dialogue: 15,0:13:15.64,0:13:18.27,Main-207-,,0,0,0,,{Eh?  Perché pensi che io-}C-certo... È perché io--
+Dialogue: 15,0:13:18.95,0:13:22.53,Main-207-,,0,0,0,,Sì. Perché tu sei...
+Dialogue: 0,0:13:28.41,0:13:33.75,Captions-207-,,0,0,0,,{\pos(720,716)\fad(350,0)\blur0.6\bord2\c&H000000&\1a&HFF&\t(305,350,\1a&H00&)}Morgan "Mano d'Ascia" \NCapitano della Marina
+Dialogue: 1,0:13:28.41,0:13:33.75,Captions-207-,,0,0,0,,{\pos(720,716)\fad(350,0)\blur0.6\bord0\c&HF9F9FA&\4a&HFF&}Morgan "Mano d'Ascia" \NCapitano della Marina
+Dialogue: 15,0:13:29.61,0:13:33.75,Main-207-,,0,0,2,,{\q2}Il mio figlio senza speranza che\Nnon vale nemmeno la pena picchiare!
 Dialogue: 15,0:13:34.54,0:13:36.62,Main-207-,,0,0,0,,{Non fraintendetevi!} Chiariamo una cosa!
-Dialogue: 15,0:13:39.75,0:13:43.80,Main-207-,,0,0,0,,{Tuo padre è quello che è fantastico!  Io!}L'unico\Ngrande da queste parti sono {\i1}io{\i0}!  {\i1}Sto{\i0} alla grande!
-Dialogue: 15,0:13:47.09,0:13:50.80,Main-207-,,0,0,0,,{Il che mi ricorda che ho sentito un topo intrufolarsi nel cortile della crocifissione.}\NA proposito, ho sentito un topo intrufolarsi nel luogo della crocifissione.
+Dialogue: 15,0:13:39.75,0:13:43.80,Main-207-,,0,0,0,,{Tuo padre è quello che è fantastico!  Io!}L'unico grande da queste parti sono {\i1}io{\i0}! {\i1}Sono{\i0} un grande!
+Dialogue: 15,0:13:47.09,0:13:50.80,Main-207-,,0,0,0,,{Il che mi ricorda che ho sentito un topo intrufolarsi nel cortile della crocifissione.}\NA proposito, ho sentito che un topo si è intrufolato nel luogo della crocifissione.
 Dialogue: 15,0:13:51.79,0:13:55.40,Main-207-,,0,0,0,,V-voglio dire, c'era quella scema, ma ho provveduto a punirla...
 Dialogue: 15,0:13:55.40,0:13:56.77,Main-207-,,0,0,0,,L'hai uccisa, spero?!
-Dialogue: 15,0:13:57.28,0:14:00.23,Main-207-,,0,0,0,,N-No!  Voglio dire, era\Nsolo una ragazzina...
+Dialogue: 15,0:13:57.28,0:14:00.23,Main-207-,,0,0,0,,N-No! Voglio dire, era\Nsolo una ragazzina...
 Dialogue: 15,0:14:01.30,0:14:03.00,Main-207-,,0,0,0,,Ehi, tu!
 Dialogue: 15,0:14:03.00,0:14:04.41,Main-207-,,0,0,0,,{Vai in città e sterminala!}Vai in città e giustiziala!
-Dialogue: 15,0:14:05.21,0:14:08.00,Main-207-,,0,0,0,,{S-non puoi dire sul serio!  È solo una ragazzina!} Y-Non\Npuò dire sul serio, signore!  Lei è solo una ragazzina!
+Dialogue: 15,0:14:05.21,0:14:08.00,Main-207-,,0,0,0,,{S-non puoi dire sul serio!  È solo una ragazzina!} N-Non\Npuò dire sul serio, signore! È solo una ragazzina!
 Dialogue: 15,0:14:08.00,0:14:10.01,Main-207-,,0,0,0,,In tutta coscienza non posso...
 Dialogue: 15,0:14:10.01,0:14:14.50,Main-207-,,0,0,0,,Chiunque disobbedisce ai miei ordini è un\Ntraditore, anche i più piccoli marmocchi.
-Dialogue: 15,0:14:14.50,0:14:17.04,Main-207-,,0,0,0,,B-Ma... non posso farlo!
+Dialogue: 15,0:14:14.50,0:14:17.04,Main-207-,,0,0,0,,M-Ma... non posso farlo!
 Dialogue: 15,0:14:22.31,0:14:23.60,Main-207-,,0,0,0,,Tenente!
-Dialogue: 15,0:14:23.60,0:14:25.30,Main-207-,,0,0,0,,N-Non dovevi andare {\i1}così{\i0} lontano!
+Dialogue: 15,0:14:23.60,0:14:25.30,Main-207-,,0,0,0,,N-Non dovevi {\i1}esagerare{\i0} così!
 Dialogue: 15,0:14:26.34,0:14:31.03,Main-207-,,0,0,0,,{È stato con la mia forza che sono salito al grado di capitano!}\NSono salito al grado di capitano con nient'altro che la mia forza.
-Dialogue: 15,0:14:31.03,0:14:34.14,Main-207-,,0,0,0,,Ascoltare!  In questo\Nmondo il rango è tutto!
+Dialogue: 15,0:14:31.03,0:14:34.14,Main-207-,,0,0,0,,Ascolta! In questo\Nmondo il rango è tutto!
 Dialogue: 15,0:14:35.21,0:14:38.89,Main-207-,,0,0,0,,{Ciò significa che io, il capitano e l'ufficiale di grado più alto\Nin questa base,}Il Capitano è il grado più alto di questa base,
 Dialogue: 15,0:14:38.89,0:14:42.86,Main-207-,,0,0,0,,{Sono la persona più superiore qui!} il che mi rende superiore a tutti!
-Dialogue: 15,0:14:43.85,0:14:48.11,Main-207-,,0,0,0,,{Quindi tutto quello che faccio è giusto!} In\Naltre parole, tutto quello che faccio è giusto!
+Dialogue: 15,0:14:43.85,0:14:48.11,Main-207-,,0,0,0,,{Quindi tutto quello che faccio è giusto!} In altre parole, tutto quello che faccio è giusto!
 Dialogue: 15,0:14:48.11,0:14:49.70,Main-207-,,0,0,0,,Giusto, ragazzi?!
-Dialogue: 15,0:14:49.70,0:14:51.82,Main-207-,,0,0,0,,Si signore!  Hai {assolutamente\Nragione} assolutamente ragione!
+Dialogue: 15,0:14:49.70,0:14:51.82,Main-207-,,0,0,0,,Si signore! Ha {assolutamente\Nragione}assolutamente ragione!
 Dialogue: 15,0:14:52.44,0:14:54.70,Main-207-,,0,0,0,,{La morte del ragazzo può aspettare per ora.} Possiamo giustiziare il moccioso più tardi.
-Dialogue: 15,0:14:55.31,0:14:58.62,Main-207-,,0,0,0,,{Osservare!  Questo è il simbolo della mia autorità,}Per\Nora, osserva!  Ci sono voluti anni di costruzione,
+Dialogue: 15,0:14:55.31,0:14:58.62,Main-207-,,0,0,0,,{Osservare!  Questo è il simbolo della mia autorità,}Per ora, osserva! Ci sono voluti anni di costruzione,
 Dialogue: 15,0:14:58.62,0:15:01.70,Main-207-,,0,0,0,,{che ha richiesto molti anni per essere finalmente completata!}ma\Nil simbolo della mia autorità è finalmente completo!
 Dialogue: 15,0:15:01.70,0:15:03.81,Main-207-,,0,0,0,,Ora alzati!
-Dialogue: 15,0:15:04.90,0:15:08.30,Main-207-,,0,0,0,,Mostra la mia grandezza\Nall'apice {top} di questa base!
-Dialogue: 15,0:15:11.95,0:15:14.56,Main-207-,,0,0,0,,Questo è strano.  Non c'è nessuno qui...
+Dialogue: 15,0:15:04.90,0:15:08.30,Main-207-,,0,0,0,,Mostra la mia grandezza all'apice{top} di questa base!
+Dialogue: 15,0:15:11.95,0:15:14.56,Main-207-,,0,0,0,,Che strano. Non c'è nessuno qui...
 Dialogue: 15,0:15:14.56,0:15:18.56,Main-207-,,0,0,0,,{Devo trovare quello stupido figlio e riprendere la spada di Zoro.}\NSe trovo quello stupido figlio, potrà condurmi alla spada di Zoro.
-Dialogue: 15,0:15:19.70,0:15:21.52,Main-207-,,0,0,0,,Tira!  Tira!
+Dialogue: 15,0:15:19.70,0:15:21.52,Main-207-,,0,0,0,,Tira! Tira!
 Dialogue: 15,0:15:27.02,0:15:28.78,Main-207-,,0,0,0,,Ehi, tu!
 Dialogue: 15,0:15:31.21,0:15:32.45,Main-207-,,0,0,0,,L'hai urtato, vero?!
 Dialogue: 15,0:15:34.41,0:15:36.53,Main-207-,,0,0,0,,Ho sentito qualcosa lassù...
 Dialogue: 15,0:15:37.83,0:15:40.64,Main-207-,,0,0,0,,Mi-mi dispiace, signore!  Sono stato disattento!
 Dialogue: 15,0:15:40.64,0:15:44.64,Main-207-,,0,0,0,,{Ti avevo detto di pensare a questa statua come\Nme!}Ti avevo detto che questa statua mi incarna!
 Dialogue: 15,0:15:44.64,0:15:48.63,Main-207-,,0,0,0,,{Il minimo graffio o granello di sporco è tradimento contro di\Nme!}Il minimo graffio o granello di sporco equivale a tradimento!
-Dialogue: 15,0:15:49.20,0:15:50.47,Main-207-,,0,0,0,,darò un'occhiata!
-Dialogue: 15,0:15:51.13,0:15:53.47,Main-207-,,0,0,0,,{\fad(150,150)}Gum-Gum...
+Dialogue: 15,0:15:49.20,0:15:50.47,Main-207-,,0,0,0,,Darò un'occhiata!
+Dialogue: 15,0:15:51.13,0:15:53.47,Main-207-,,0,0,0,,{\fad(150,150)}Gom-Gom...
 Dialogue: 15,0:15:53.47,0:15:54.89,Main-207-,,0,0,0,,{\fad(150,150)}Rocket!
 Dialogue: 15,0:15:54.89,0:15:56.85,Main-207-,,0,0,0,,Adesso la pagherai!
 Dialogue: 15,0:15:57.51,0:15:59.77,Main-207-,,0,0,0,,Ho saltato troppo lontano!
 Dialogue: 15,0:15:59.77,0:16:01.11,Main-207-,,0,0,0,,Che cos'è?!
 Dialogue: 15,0:16:01.11,0:16:02.23,Main-207-,,0,0,0,,È volato dal basso!
-Dialogue: 15,0:16:03.01,0:16:05.02,Main-207-,,0,0,0,,{Mi sono fermato!}Capito!
+Dialogue: 15,0:16:03.01,0:16:05.02,Main-207-,,0,0,0,,{Mi sono fermato!}Presa!
 Dialogue: 15,0:16:16.21,0:16:17.12,Main-207-,,0,0,0,,Scusa...
-Dialogue: 15,0:16:19.83,0:16:22.79,Main-207-,,0,0,0,,Prendilo!  Lo ucciderò!
+Dialogue: 15,0:16:19.83,0:16:22.79,Main-207-,,0,0,0,,Prendetelo! Lo ucciderò!
 Dialogue: 15,0:16:22.79,0:16:24.25,Main-207-,,0,0,0,,{Si signore!  Subito!}Subito, signore!
-Dialogue: 15,0:16:24.25,0:16:26.88,Main-207-,,0,0,0,,{Papà!  Quello è lui!  È lui che mi ha picchiato!}Papà!\NQuello è lui!  M{\i1}i {\i0}mi ha dato un pugno!
-Dialogue: 15,0:16:26.88,0:16:27.79,Main-207-,,0,0,0,,OH!  Sei tu!
+Dialogue: 15,0:16:24.25,0:16:26.88,Main-207-,,0,0,0,,{Papà!  Quello è lui!  È lui che mi ha picchiato!}Papà! È lui! {\i1}{\i0}Mi ha dato un pugno!
+Dialogue: 15,0:16:26.88,0:16:27.79,Main-207-,,0,0,0,,Oh! Sei tu!
 Dialogue: 15,0:16:29.30,0:16:30.89,Main-207-,,0,0,0,,Ti stavo cercando!
-Dialogue: 15,0:16:30.89,0:16:33.10,Main-207-,,0,0,0,,{Venga con me!  C'è qualcosa che voglio che tu mi\Nrestituisca!}Vieni con me!  Ho bisogno che tu mi restituisca qualcosa!
+Dialogue: 15,0:16:30.89,0:16:33.10,Main-207-,,0,0,0,,{Venga con me!  C'è qualcosa che voglio che tu mi\Nrestituisca!}Vieni con me! Ho bisogno che tu mi restituisca qualcosa!
 Dialogue: 15,0:16:33.10,0:16:35.52,Main-207-,,0,0,0,,Lasciami andare!
-Dialogue: 15,0:16:34.18,0:16:35.52,Secondary-207-,,0,0,0,,{Helmeppo-sama}Maestro Helmeppo!
-Dialogue: 15,0:16:35.52,0:16:37.80,Main-207-,,0,0,0,,Dopo di lui!  Non lasciarlo scappare!
-Dialogue: 15,0:16:37.80,0:16:40.14,Main-207-,,0,0,0,,Capitano!  {C'è qualcuno nel cortile della\Ncrocifissione!} Qualcuno è sul luogo della crocifissione!
+Dialogue: 15,0:16:34.18,0:16:35.52,Secondary-207-,,0,0,0,,{Helmeppo-sama}Signorino Helmeppo!
+Dialogue: 15,0:16:35.52,0:16:37.80,Main-207-,,0,0,0,,Inseguitelo! Non lasciatelo scappare!
+Dialogue: 15,0:16:37.80,0:16:40.14,Main-207-,,0,0,0,,Capitano! {C'è qualcuno nel cortile della\Ncrocifissione!}Qualcuno è sul luogo della crocifissione!
 Dialogue: 15,0:16:40.14,0:16:41.65,Main-207-,,0,0,0,,Che cosa?!
 Dialogue: 15,0:16:46.39,0:16:49.02,Main-207-,,0,0,0,,Un traditore dopo l'altro...
 Dialogue: 15,0:16:49.02,0:16:50.98,Main-207-,,0,0,0,,{Per favore, scappa, Zoro} Devi scappare, Zoro-{\i1}san{\i0}!
 Dialogue: 15,0:16:50.98,0:16:53.94,Main-207-,,0,0,0,,Verrai ucciso\Nper questo, lo sai!
 Dialogue: 15,0:16:53.94,0:16:56.95,Main-207-,,0,0,0,,{Non posso più sopportare di guardare la Marina in questo modo.}\NNon posso restare a guardare i marines comportarsi in questo modo!
 Dialogue: 15,0:16:56.95,0:17:00.41,Main-207-,,0,0,0,,Voglio essere un marine d'onore!
-Dialogue: 15,0:17:00.82,0:17:04.73,Main-207-,,0,0,0,,Fermati! Non posso scappare!  Tra soli 10 giorni–
+Dialogue: 15,0:17:00.82,0:17:04.73,Main-207-,,0,0,0,,Fermati! Non posso scappare! Tra soli 10 giorni–
 Dialogue: 15,0:17:04.73,0:17:06.83,Main-207-,,0,0,0,,{Verrai giustiziato domani!} La tua esecuzione avverrà domani!
 Dialogue: 15,0:17:06.83,0:17:07.71,Main-207-,,0,0,0,,Che cosa?!
 Dialogue: 15,0:17:08.20,0:17:12.80,Main-207-,,0,0,0,,Helmeppo non ha mai avuto\Nintenzione di onorare il tuo accordo!
 Dialogue: 15,0:17:12.80,0:17:17.40,Main-207-,,0,0,0,,Così Rufy-{\i1}san{\i0} si è arrabbiato e gli ha dato un pugno!
 Dialogue: 15,0:17:17.40,0:17:18.47,Main-207-,,0,0,0,,Cosa ha fatto?
-Dialogue: 15,0:17:18.47,0:17:22.39,Main-207-,,0,0,0,,Ora la Marina sta dando la caccia a Rufy-san{\i1}san{\i0}.
+Dialogue: 15,0:17:18.47,0:17:22.39,Main-207-,,0,0,0,,Ora la Marina sta dando la caccia a Rufy-{\i1}san{\i0}.
 Dialogue: 15,0:17:22.39,0:17:25.69,Main-207-,,0,0,0,,Non ti chiederò di essere un pirata,
 Dialogue: 15,0:17:25.69,0:17:29.74,Main-207-,,0,0,0,,ma per favore, aiuta Rufy-{\i1}san{\i0}!
 Dialogue: 15,0:17:33.61,0:17:37.30,Main-207-,,0,0,0,,Lui è l'unico che può salvarti.
-Dialogue: 15,0:17:38.50,0:17:44.91,Main-207-,,0,0,0,,E penso che, in questo momento, tu\Nsia {\anche} l'unico che può salvarlo.
+Dialogue: 15,0:17:38.50,0:17:44.91,Main-207-,,0,0,0,,E penso che, in questo momento, tu\Nsia {\anche}l'unico che può salvarlo.
 Dialogue: 15,0:17:46.46,0:17:47.86,Main-207-,,0,0,0,,Fine della corsa!
 Dialogue: 15,0:17:51.42,0:17:53.26,Main-207-,,0,0,0,,Dov'è la spada di Zoro?!
-Dialogue: 15,0:17:53.26,0:17:57.74,Main-207-,,0,0,0,,Te lo dirò!  Te lo dirò!\NBasta, che smetti di trascinarmi!
-Dialogue: 15,0:17:57.74,0:17:58.88,Main-207-,,0,0,0,,Va bene!  Dimmi!
+Dialogue: 15,0:17:53.26,0:17:57.74,Main-207-,,0,0,0,,Te lo dirò! Te lo dirò!\NBasta, che smetti di trascinarmi!
+Dialogue: 15,0:17:57.74,0:17:58.88,Main-207-,,0,0,0,,Va bene! Dimmi!
 Dialogue: 15,0:17:58.88,0:18:02.08,Main-207-,,0,0,0,,Nella mia stanza... l'abbiamo appena superata...
-Dialogue: 15,0:18:02.08,0:18:05.44,Main-207-,,0,0,0,,Che cosa?  Perché non l'hai\Ndetto?!  Ora dobbiamo tornare indietro.
+Dialogue: 15,0:18:02.08,0:18:05.44,Main-207-,,0,0,0,,Che cosa? Perché non l'hai\Ndetto subito?! Ora dobbiamo tornare indietro.
 Dialogue: 15,0:18:05.44,0:18:06.60,Main-207-,,0,0,0,,{Fermo}Alt!
-Dialogue: 15,0:18:06.60,0:18:08.19,Main-207-,,0,0,0,,{Lascia andare Helmeppo-sama!}Libera il giovane maestro!
-Dialogue: 15,0:18:08.80,0:18:09.69,Main-207-,,0,0,0,,NO.
+Dialogue: 15,0:18:06.60,0:18:08.19,Main-207-,,0,0,0,,{Lascia andare Helmeppo-sama!}Libera il giovane Signorino!
+Dialogue: 15,0:18:08.80,0:18:09.69,Main-207-,,0,0,0,,No.
 Dialogue: 15,0:18:11.55,0:18:13.44,Main-207-,,0,0,0,,{Vai avanti e spara, se ne hai il coraggio!}Spara se vuoi!
-Dialogue: 15,0:18:14.34,0:18:15.53,Main-207-,,0,0,0,,NO!  Non!
-Dialogue: 10,0:18:16.00,0:18:17.22,Main-207-,,0,0,0,,Muoviti!
+Dialogue: 15,0:18:14.34,0:18:15.53,Main-207-,,0,0,0,,No! Nooo!
+Dialogue: 10,0:18:16.00,0:18:17.22,Main-207-,,0,0,0,,Fate largo!
 Dialogue: 15,0:18:18.36,0:18:20.54,Main-207-,,0,0,0,,{Per il delitto di tradimento contro di me,} Per il delitto di tradimento,
 Dialogue: 15,0:18:20.54,0:18:23.46,Main-207-,,0,0,0,,{Ora vi giustizierò lì dove siete!}\NVi condanno a morte!
 Dialogue: 15,0:18:26.54,0:18:27.37,Main-207-,,0,0,0,,Questa è la stanza?!
 Dialogue: 15,0:18:31.33,0:18:32.50,Main-207-,,0,0,0,,Bingo!
 Dialogue: 15,0:18:33.61,0:18:35.65,Main-207-,,0,0,0,,{Ma qui ce ne sono tre!}Ma ce ne sono tre!
-Dialogue: 15,0:18:35.65,0:18:37.47,Main-207-,,0,0,0,,EHI!  Quale spada è quella di Zoro?
+Dialogue: 15,0:18:35.65,0:18:37.47,Main-207-,,0,0,0,,Ehi! Quale spada è quella di Zoro?
 Dialogue: 15,0:18:38.20,0:18:40.22,Main-207-,,0,0,0,,Oh, è svenuto.
 Dialogue: 15,0:18:41.93,0:18:43.22,Main-207-,,0,0,0,,Koby!
 Dialogue: 15,0:18:50.10,0:18:53.95,Main-207-,,0,0,0,,{Ragazzi, queste sono cose interessanti che avete fatto!} Le vostre azioni qui sono state interessanti, per usare un eufemismo.
 Dialogue: 15,0:18:53.95,0:18:58.88,Main-207-,,0,0,0,,{Voi due e quel ragazzo dal cappello di paglia stavate pianificando un colpo di stato o qualcosa\Ndel genere?!}Tu e quel ragazzo dal cappello di paglia state pianificando un {\i1}colpo di stato{\i0}, giusto?
 Dialogue: 15,0:18:59.63,0:19:01.95,Main-207-,,0,0,0,,Ho sempre combattuto da solo.
-Dialogue: 15,0:19:02.58,0:19:06.42,Main-207-,,0,0,0,,{A differenza dei bastardi arroganti come te che usano i soldati come amici!} A\Ndifferenza di un certo bastardo che si nasconde dietro i suoi lacchè terrorizzati!
+Dialogue: 15,0:19:02.58,0:19:06.42,Main-207-,,0,0,0,,{A differenza dei bastardi arroganti come te che usano i soldati come amici!} A differenza di un certo bastardo che si nasconde dietro i suoi lacchè terrorizzati!
 Dialogue: 15,0:19:06.42,0:19:08.67,Main-207-,,0,0,0,,Roronoa Zoro...
 Dialogue: 15,0:19:08.67,0:19:10.88,Main-207-,,0,0,0,,Non osare sottovalutarmi!
 Dialogue: 15,0:19:11.51,0:19:12.92,Main-207-,,0,0,0,,Potresti essere forte,
 Dialogue: 15,0:19:12.92,0:19:16.34,Main-207-,,0,0,0,,{ma davanti alla mia autorità sei una feccia!}ma questo non ha senso davanti alla mia autorità!
 Dialogue: 15,0:19:17.24,0:19:18.39,Main-207-,,0,0,0,,Mirate!
-Dialogue: 15,0:19:18.97,0:19:20.81,Thoughts-207-,,0,0,0,,IO...
+Dialogue: 15,0:19:18.97,0:19:20.81,Thoughts-207-,,0,0,0,,Io...
 Dialogue: 15,0:19:23.35,0:19:26.31,Thoughts-207-,,0,0,0,,non posso permettermi di morire qui!
 Dialogue: 15,0:19:29.69,0:19:32.10,Main-207-,,0,0,0,,Incontro finito!
 Dialogue: 15,0:19:32.75,0:19:36.07,Main-207-,,0,0,0,,Il vincitore è Kuina, con\N2.000 vittorie e 0 sconfitte!
 Dialogue: 15,0:19:36.07,0:19:38.40,Main-207-,,0,0,0,,D-Dannazione...
 Dialogue: 15,0:19:38.40,0:19:41.03,Main-207-,,0,0,0,,{Sei ancora debole come sempre, Zoro!} Sei ancora debole, Zoro.
-Dialogue: 15,0:19:42.07,0:19:45.53,Main-207-,,0,0,0,,{Sei così patetico} Sei una tale\Ndelusione.  Soprattutto per un ragazzo.
-Dialogue: 15,0:19:45.53,0:19:47.92,Main-207-,,0,0,0,,EHI!  Zoro non è debole!
+Dialogue: 15,0:19:42.07,0:19:45.53,Main-207-,,0,0,0,,{Sei così patetico} Sei una tale delusione. Soprattutto per un ragazzo.
+Dialogue: 15,0:19:45.53,0:19:47.92,Main-207-,,0,0,0,,Ehi! Zoro non è debole!
 Dialogue: 15,0:19:47.92,0:19:49.94,Main-207-,,0,0,0,,{È il più forte tra tutti i ragazzi!}\NÈ il ragazzo più forte qui!
 Dialogue: 15,0:19:49.94,0:19:51.54,Main-207-,,0,0,0,,{Batte anche gli adulti!} Può battere anche gli adulti!
 Dialogue: 15,0:19:51.54,0:19:54.58,Main-207-,,0,0,0,,Ma è più debole di me.
 Dialogue: 15,0:19:55.45,0:19:59.42,Main-207-,,0,0,0,,Anche con due spade,\Nun debole resta un debole.
-Dialogue: 15,0:19:59.42,0:20:03.39,Main-207-,,0,0,0,,{Voi perdenti fareste bene a stare zitti.  Il tuo ululato ti rende pietoso.}Piagnucolate come cuccioli.  Voi perdenti dovreste stare zitti.{Manga giapponese originale: Voi cani perdenti dovreste stare zitti.}
+Dialogue: 15,0:19:59.42,0:20:03.39,Main-207-,,0,0,0,,{Voi perdenti fareste bene a stare zitti.  Il tuo ululato ti rende pietoso.}Piagnucolate come cuccioli. Voi perdenti dovreste stare zitti.{Manga giapponese originale: Voi cani perdenti dovreste stare zitti.}
 Dialogue: 15,0:20:12.99,0:20:16.52,Main-207-,,0,0,0,,{Hai perso ancora, Zoro...}Un'altra sconfitta, Zoro.
-Dialogue: 15,0:20:16.52,0:20:19.28,Main-207-,,0,0,0,,Anche dopo che sei diventato così forte.}arriva così lontano.
+Dialogue: 15,0:20:16.52,0:20:19.28,Main-207-,,0,0,0,,Anche dopo essere diventato così forte.
 Dialogue: 15,0:20:19.96,0:20:20.85,Main-207-,,0,0,0,,Sensei!
-Dialogue: 15,0:20:20.85,0:20:24.80,Main-207-,,0,0,0,,Le stai impartendo un addestramento\Nsegreto perché è tua figlia?!
-Dialogue: 15,0:20:24.80,0:20:25.74,Main-207-,,0,0,0,,Non imbrogliare!
-Dialogue: 15,0:20:25.74,0:20:28.80,Main-207-,,0,0,0,,{No, no.  Non faccio niente del genere.} No, no.  Ovviamente no.
+Dialogue: 15,0:20:20.85,0:20:24.80,Main-207-,,0,0,0,,Le sta impartendo un addestramento\Nsegreto perché è sua figlia?!
+Dialogue: 15,0:20:24.80,0:20:25.74,Main-207-,,0,0,0,,Non imbrogli!
+Dialogue: 15,0:20:25.74,0:20:28.80,Main-207-,,0,0,0,,{No, no.  Non faccio niente del genere.} No, no. Ovviamente no.
 Dialogue: 15,0:20:29.66,0:20:32.41,Main-207-,,0,0,0,,{Zoro è davvero diventato più forte,}Zoro è davvero migliorato,
 Dialogue: 15,0:20:32.41,0:20:36.08,Main-207-,,0,0,0,,ma anche Kuina è diventata più forte.
 Dialogue: 15,0:20:36.66,0:20:38.49,Main-207-,,0,0,0,,Zoro?
 Dialogue: 15,0:20:37.41,0:20:38.49,Secondary-207-,,0,0,0,,Zoro?
-Dialogue: 15,0:20:38.49,0:20:40.04,Main-207-,,0,0,0,,Mi laverò la faccia.
+Dialogue: 15,0:20:38.49,0:20:40.04,Main-207-,,0,0,0,,Mi lavo la faccia.
 Dialogue: 15,0:20:47.45,0:20:49.14,Main-207-,,0,0,0,,Accidenti!
-Dialogue: 15,0:20:49.14,0:20:52.90,Main-207-,,0,0,0,,Perché non riesco a battere\NKuina?!  Perché?!  Perché?!
-Dialogue: 15,0:20:52.90,0:20:56.99,Main-207-,,0,0,0,,Diventerò il più grande spadaccino\Ndel mondo!  Allora perché?!
+Dialogue: 15,0:20:49.14,0:20:52.90,Main-207-,,0,0,0,,Perché non riesco a battere\NKuina?! Perché?! Perché?!
+Dialogue: 15,0:20:52.90,0:20:56.99,Main-207-,,0,0,0,,Diventerò il più grande spadaccino\Ndel mondo! Allora perché?!
 Dialogue: 15,0:21:08.12,0:21:09.44,Main-207-,,0,0,0,,Zoro?!
 Dialogue: 15,0:21:09.44,0:21:11.50,Main-207-,,0,0,0,,Cosa stai facendo qui?
-Dialogue: 15,0:21:11.50,0:21:16.09,Main-207-,,0,0,0,,{Questa è la mia battuta} Direttamente\Na te!  Cosa fai qui a quest'ora?!
-Dialogue: 15,0:21:19.70,0:21:23.00,Main-207-,,0,0,0,,Sono qui per sfidarti al {tuo 2001esimo\Nincontro!}il nostro 2001esimo duello!
+Dialogue: 15,0:21:11.50,0:21:16.09,Main-207-,,0,0,0,,{Questa è la mia battuta} Parli tu! Cosa fai qui a quest'ora?!
+Dialogue: 15,0:21:19.70,0:21:23.00,Main-207-,,0,0,0,,Sono qui per sfidarti al {tuo 2001esimo\Nincontro!}nostro 2001esimo duello!
 Dialogue: 15,0:21:23.00,0:21:26.30,Main-207-,,0,0,0,,{Ho intenzione di fare di questo il mio ultimo combattimento con\Nte!} Ho intenzione di fare di questo il nostro ultimo combattimento!
 Dialogue: 15,0:21:26.30,0:21:27.97,Main-207-,,0,0,0,,Metterò fine a tutto questo!
 Dialogue: 15,0:21:27.97,0:21:30.41,Main-207-,,0,0,0,,Combattimi con una vera spada!
@@ -1466,22 +1466,22 @@ Dialogue: 15,0:21:41.14,0:21:42.23,Main-207-,,0,0,0,,Sicuro.
 Dialogue: 15,0:22:18.95,0:22:21.19,Main-207-,,0,0,0,,La mia 2.001esima vittoria.
 Dialogue: 15,0:22:28.14,0:22:31.32,Main-207-,,0,0,0,,Accidenti!
 Dialogue: 15,0:22:31.32,0:22:33.29,Main-207-,,0,0,0,,Che schifezza...
-Dialogue: 15,0:22:37.59,0:22:41.29,Main-207-,,0,0,0,,Sono io quello che dovrebbe\Npiangere {per la frustrazione}.
+Dialogue: 15,0:22:37.59,0:22:41.29,Main-207-,,0,0,0,,Sono io quella che dovrebbe\Npiangere{per la frustrazione}.
 Dialogue: 15,0:22:41.29,0:22:42.51,Main-207-,,0,0,0,,Eh?
-Dialogue: 15,0:22:43.34,0:22:49.30,Main-207-,,0,0,0,,Quando le ragazze crescono, {diventano più deboli degli\Nuomini...} sono naturalmente più deboli dei ragazzi.
+Dialogue: 15,0:22:43.34,0:22:49.30,Main-207-,,0,0,0,,Quando le ragazze crescono,{diventano più deboli degli\Nuomini...} sono naturalmente più deboli dei ragazzi.
 Dialogue: 15,0:22:50.21,0:22:53.07,Main-207-,,0,0,0,,{Anche tu mi raggiungerai presto...}Non passerà\Nmolto tempo prima che anche tu mi raggiunga.
 Dialogue: 15,0:22:54.60,0:22:59.15,Main-207-,,0,0,0,,Dici sempre che diventerai il\Npiù grande spadaccino del mondo.
-Dialogue: 15,0:23:00.13,0:23:05.29,Main-207-,,0,0,0,,{Mio padre mi ha detto che una ragazza non potrà mai essere così...} Ma mio\Npadre ha detto che quel sogno è impossibile per me perché sono una ragazza.
+Dialogue: 15,0:23:00.13,0:23:05.29,Main-207-,,0,0,0,,{Mio padre mi ha detto che una ragazza non potrà mai essere così...} Ma mio padre ha detto che quel sogno è impossibile per me perché sono una ragazza.
 Dialogue: 15,0:23:05.29,0:23:06.74,Main-207-,,0,0,0,,{Lo so...}Capisco...
-Dialogue: 15,0:23:06.74,0:23:11.78,Main-207-,,0,0,0,,{Lo so!}Capisco che è\Ncosì!  Ma... Ma è frustrante!
+Dialogue: 15,0:23:06.74,0:23:11.78,Main-207-,,0,0,0,,{Lo so!}Capisco che è\Ncosì! Ma... Ma è frustrante!
 Dialogue: 15,0:23:12.40,0:23:15.06,Main-207-,,0,0,0,,Sei fortunato, Zoro.  {Sei un\Nragazzo.} Sei nato ragazzo.
 Dialogue: 15,0:23:15.92,0:23:18.79,Main-207-,,0,0,0,,Anch'io voglio essere il più\Ngrande spadaccino del mondo!
 Dialogue: 15,0:23:19.89,0:23:22.50,Main-207-,,0,0,0,,{Il mio seno ha addirittura iniziato a crescere\Nadesso...}Il mio seno sta addirittura iniziando a crescere.
-Dialogue: 15,0:23:23.44,0:23:26.95,Main-207-,,0,0,0,,Se solo... Se solo\Nfossi nato uomo...
-Dialogue: 15,0:23:27.96,0:23:31.93,Main-207-,,0,0,0,,{Non lamentarti così dopo avermi picchiato!}Come\Npuoi piangere così dopo avermi picchiato?!
-Dialogue: 15,0:23:31.93,0:23:36.10,Main-207-,,0,0,0,,Non è giusto!  Tu\Nsei il mio obiettivo!
+Dialogue: 15,0:23:23.44,0:23:26.95,Main-207-,,0,0,0,,Se solo... Se solo\Nfossi nata uomo...
+Dialogue: 15,0:23:27.96,0:23:31.93,Main-207-,,0,0,0,,{Non lamentarti così dopo avermi picchiato!}Come puoi piangere così dopo avermi picchiato?!
+Dialogue: 15,0:23:31.93,0:23:36.10,Main-207-,,0,0,0,,Non è giusto! Tu\Nsei il mio obiettivo!
 Dialogue: 15,0:23:36.10,0:23:36.99,Main-207-,,0,0,0,,Zoro...
-Dialogue: 15,0:23:36.99,0:23:38.69,Main-207-,,0,0,0,,Ragazzo, questo!  Ragazza, quello!
+Dialogue: 15,0:23:36.99,0:23:38.69,Main-207-,,0,0,0,,Ragazzo, questo! Ragazza, quello!
 Dialogue: 15,0:23:38.69,0:23:41.76,Main-207-,,0,0,0,,{Dirai quella roba anche tu quando un giorno ti batterò?!}\NSarà questa la tua scusa quando un giorno ti batterò?!
 Dialogue: 15,0:23:41.76,0:23:44.02,Main-207-,,0,0,0,,Ti comporti come se tutto ciò non fosse abilità!
 Dialogue: 15,0:23:44.02,0:23:47.40,Main-207-,,0,0,0,,Stai insultando tutto il duro\Nallenamento che ho fatto!
@@ -1489,9 +1489,9 @@ Dialogue: 15,0:23:47.94,0:23:49.95,Main-207-,,0,0,0,,{Quindi non dire quella rob
 Dialogue: 15,0:23:52.49,0:23:54.26,Main-207-,,0,0,0,,Promettimelo!
 Dialogue: 15,0:23:54.26,0:23:58.88,Main-207-,,0,0,0,,Un giorno, uno di noi sarà il più\Ngrande spadaccino del mondo!
 Dialogue: 15,0:23:58.88,0:24:01.21,Main-207-,,0,0,0,,Gareggiamo e vediamo chi vince!
-Dialogue: 15,0:24:05.70,0:24:07.21,Main-207-,,0,0,0,,{Idiota.  Sei così debole...}Imbecille.  Sei così debole...
+Dialogue: 15,0:24:05.70,0:24:07.21,Main-207-,,0,0,0,,{Idiota.  Sei così debole...}Imbecille. Sei così debole...
 Dialogue: 15,0:24:11.46,0:24:12.88,Main-207-,,0,0,0,,– È una promessa!\N– È una promessa!
-Dialogue: 15,0:24:16.34,0:24:20.53,Thoughts-207-,,0,0,0,,{Devo diventare più forte!  Quindi posso tenere benissimo un sacco di spade!}Devo\Ndiventare più forte!{Devo salire di livello!} Devo impugnare più spade!
+Dialogue: 15,0:24:16.34,0:24:20.53,Thoughts-207-,,0,0,0,,{Devo diventare più forte!  Quindi posso tenere benissimo un sacco di spade!}Devo diventare più forte!{Devo salire di livello!} Devo impugnare più spade!
 Dialogue: 15,0:24:20.53,0:24:23.44,Thoughts-207-,,0,0,0,,Se due non\Nbastano, ne userò tre!
 Dialogue: 15,0:24:28.51,0:24:30.38,Main-207-,,0,0,0,,Ragazzi, cosa volete?
 Dialogue: 15,0:24:32.84,0:24:34.24,Main-207-,,0,0,0,,Kuina...
@@ -1512,17 +1512,17 @@ Dialogue: 15,0:25:47.69,0:25:51.44,Main-207-,,0,0,0,,{Diventerò più forte anch
 Dialogue: 15,0:25:51.92,0:25:55.24,Main-207-,,0,0,0,,{Diventerò abbastanza forte da far sì che il mio nome raggiunga il\NParadiso!} Diventerò così forte che il mio nome raggiungerà il cielo!
 Dialogue: 15,0:25:56.10,0:25:59.36,Main-207-,,0,0,0,,{Diventerò lo spadaccino più forte del\Nmondo!}Diventerò il più grande spadaccino del mondo!
 Dialogue: 15,0:26:01.34,0:26:04.50,Main-207-,,0,0,0,,Le ho promesso...
-Dialogue: 15,0:26:04.50,0:26:05.85,Main-207-,,0,0,0,,IO...
-Dialogue: 15,0:26:13.63,0:26:15.78,Main-207-,,0,0,0,,SÌ.  {Puoi averlo.} È tuo.
+Dialogue: 15,0:26:04.50,0:26:05.85,Main-207-,,0,0,0,,Io...
+Dialogue: 15,0:26:13.63,0:26:15.78,Main-207-,,0,0,0,,Sì. {Puoi averlo.}È tua.
 Dialogue: 15,0:26:21.10,0:26:26.02,Main-207-,,0,0,0,,Lascio lo spirito e i\Nsogni di Kuina... con te.
-Dialogue: 15,0:26:50.69,0:26:52.97,Main-207-,,0,0,0,,{\fad(150,150)}Gum-Gum...
+Dialogue: 15,0:26:50.69,0:26:52.97,Main-207-,,0,0,0,,{\fad(150,150)}Gom-Gom...
 Dialogue: 15,0:26:52.97,0:26:54.46,Main-207-,,0,0,0,,{\fad(150,150)}Rocket!
 Dialogue: 15,0:26:54.46,0:26:55.14,Main-207-,,0,0,0,,Fuoco!
-Dialogue: 15,0:26:59.10,0:27:00.72,Main-207-,,0,0,0,,– Cosa stai– – Rufy-{\i1}san{\i0}!
+Dialogue: 15,0:26:59.10,0:27:00.72,Main-207-,,0,0,0,,– Cosa stai– \N– Rufy-{\i1}san{\i0}!
 Dialogue: 15,0:27:00.72,0:27:01.34,Main-207-,,0,0,0,,Cappello di paglia?!
-Dialogue: 10,0:27:03.68,0:27:04.68,Main-207-,,0,0,0,,Non c'è modo...
-Dialogue: 15,0:27:07.16,0:27:09.11,Main-207-,,0,0,0,,Non funzionerà!
+Dialogue: 10,0:27:03.68,0:27:04.68,Main-207-,,0,0,0,,Cosa diavolo...
+Dialogue: 15,0:27:07.16,0:27:09.11,Main-207-,,0,0,0,,Non funziona!
 Dialogue: 15,0:27:13.74,0:27:16.64,Main-207-,,0,0,0,,Te l'avevo detto che ero {strong}duro!
 Dialogue: 15,0:27:16.64,0:27:19.28,Main-207-,,0,0,0,,Co-chi diavolo... {\i1}sei{\i0}?!
-Dialogue: 15,0:27:20.49,0:27:23.15,Main-207-,,0,0,0,,Sono Monkey D. Rufy!
+Dialogue: 15,0:27:20.49,0:27:23.15,Main-207-,,0,0,0,,Sono Monkey D. Luffy!
 Dialogue: 15,0:27:23.15,0:27:25.38,Main-207-,,0,0,0,,L'uomo che diventerà\Nil Re dei pirati!

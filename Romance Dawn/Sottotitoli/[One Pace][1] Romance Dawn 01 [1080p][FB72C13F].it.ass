@@ -83,7 +83,7 @@ Dialogue: 10,0:01:27.86,0:01:28.94,Main-207+,,0,0,0,,Non sto mentendo!
 Dialogue: 10,0:01:28.94,0:01:31.77,Main-207+,,0,0,0,,Non ho paura di farmi male!
 Dialogue: 10,0:01:31.77,0:01:35.95,Main-207+,,0,0,0,,Quindi portami con te nel tuo prossimo\Nviaggio! Anch'io voglio essere un pirata!
 Dialogue: 10,0:01:37.52,0:01:39.95,Main-207+,,0,0,0,,Come se tu potessi mai essere un pirata
-Dialogue: 10,0:01:39.95,0:01:43.58,Main-207+,,0,0,8,,È fatale per un pirata essere un'ancora!
+Dialogue: 10,0:01:39.95,0:01:43.58,Main-207+,,0,0,8,,Com'è possibile che un pirata affondi come una palla di cannone?
 Dialogue: 0,0:01:40.20,0:01:43.58,Captions,,0,0,0,,{\pos(451.5,655.5)\fad(300,0)\blur0.8\bord2.25\fscx105\fscy110\c&H000000&\3c&H191920&\1a&HFF&\t(255,300,\1a&H00&)}Shanks "Il rosso"\N{\fscx95\fscy100}Capitano pirata
 Dialogue: 1,0:01:40.20,0:01:43.58,Captions,,0,0,0,,{\pos(451.5,655.5)\fad(300,0)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Shanks "Il rosso"\N{\fscx95\fscy100}Capitano pirata
 Dialogue: 10,0:01:43.58,0:01:46.52,Main-207+,,0,0,0,,Starò bene se non cado in mare!

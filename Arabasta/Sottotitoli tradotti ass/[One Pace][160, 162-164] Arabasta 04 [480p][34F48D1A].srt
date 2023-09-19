@@ -1,0 +1,6270 @@
+1
+00:00:01,730 --> 00:00:03,730
+<font face="FOT-Greco Std B" size="19">{\an7}Modifica</font>
+GiggleBot
+
+2
+00:00:03,730 --> 00:00:05,730
+<font face="FOT-Greco Std B" size="19">{\an7}Tempistica</font>
+Bastia
+FJATP
+
+3
+00:00:05,730 --> 00:00:09,730
+<font face="FOT-Greco Std B" size="19">{\an7}Controllo qualità</font>
+Bastia
+Galaxy 9000
+Nagatei
+Pepperjack
+Zenef
+
+4
+00:00:09,730 --> 00:00:11,730
+<font face="FOT-Greco Std B" size="19">{\an7}Insegnante di musica</font>
+Halee
+
+5
+00:00:11,730 --> 00:00:13,730
+<font face="FOT-Greco Std B" size="19">{\an7}Grafica</font>
+Datenshi
+
+6
+00:00:12,860 --> 00:00:14,740
+<font color="#000000" face="International Playboy" size="36">Il testamento ereditato,</font>
+
+7
+00:00:13,730 --> 00:00:16,730
+<font face="FOT-Greco Std B" size="19">{\an7}Karaoke e traduzione</font>
+Shichibukai Fansub
+
+8
+00:00:14,740 --> 00:00:17,490
+<font color="#000000" face="International Playboy" size="36">lo scorrere dei secoli e
+ i sogni delle persone...</font>
+
+9
+00:00:17,490 --> 00:00:20,400
+<font color="#000000" face="International Playboy" size="36">...sono cose che non conoscono fine...</font>
+
+10
+00:00:20,400 --> 00:00:23,490
+<font color="#000000" face="International Playboy" size="36">Finché le persone continueranno a cercare il significato della libertà,</font>
+
+11
+00:00:23,490 --> 00:00:26,850
+<font color="#000000" face="International Playboy" size="36">Non smetteranno mai di esistere!</font>
+
+12
+00:00:34,870 --> 00:00:35,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+13
+00:00:34,870 --> 00:00:35,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+14
+00:00:34,870 --> 00:00:35,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+15
+00:00:34,920 --> 00:00:35,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+16
+00:00:34,920 --> 00:00:35,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+17
+00:00:34,920 --> 00:00:35,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+18
+00:00:34,920 --> 00:00:35,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}da</font>
+
+19
+00:00:34,920 --> 00:00:35,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ke</font>
+
+20
+00:00:34,920 --> 00:00:35,950
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+21
+00:00:34,920 --> 00:00:36,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}n</font>
+
+22
+00:00:34,920 --> 00:00:36,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ehi</font>
+
+23
+00:00:34,920 --> 00:00:36,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+24
+00:00:34,920 --> 00:00:36,810
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+25
+00:00:34,920 --> 00:00:37,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+26
+00:00:34,920 --> 00:00:38,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}da</font>
+
+27
+00:00:34,920 --> 00:00:38,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+28
+00:00:34,920 --> 00:00:38,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+29
+00:00:34,920 --> 00:00:38,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ga</font>
+
+30
+00:00:34,920 --> 00:00:38,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+31
+00:00:34,920 --> 00:00:39,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+32
+00:00:34,920 --> 00:00:39,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tte</font>
+
+33
+00:00:34,920 --> 00:00:39,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+34
+00:00:34,920 --> 00:00:39,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+35
+00:00:34,920 --> 00:00:40,120
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+36
+00:00:34,920 --> 00:00:40,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+37
+00:00:34,920 --> 00:00:40,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+38
+00:00:34,920 --> 00:00:40,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+39
+00:00:34,930 --> 00:00:41,060
+<font color="#82fd87" face="Augie" size="30">Continuerò a credere solo in lui
+futuro indipendentemente dal fatto che ridano di me.</font>
+
+40
+00:00:35,070 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+41
+00:00:35,250 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+42
+00:00:35,250 --> 00:00:35,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+43
+00:00:35,250 --> 00:00:35,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+44
+00:00:35,250 --> 00:00:35,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+45
+00:00:35,470 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+46
+00:00:35,470 --> 00:00:35,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+47
+00:00:35,470 --> 00:00:35,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+48
+00:00:35,470 --> 00:00:35,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+49
+00:00:35,630 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}da</font>
+
+50
+00:00:35,630 --> 00:00:35,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+51
+00:00:35,630 --> 00:00:35,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+52
+00:00:35,630 --> 00:00:35,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+53
+00:00:35,830 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ke</font>
+
+54
+00:00:35,830 --> 00:00:35,950
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+55
+00:00:35,830 --> 00:00:35,950
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+56
+00:00:35,830 --> 00:00:35,950
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+57
+00:00:35,950 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+58
+00:00:35,950 --> 00:00:36,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+59
+00:00:35,950 --> 00:00:36,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+60
+00:00:35,950 --> 00:00:36,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+61
+00:00:36,220 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}n</font>
+
+62
+00:00:36,220 --> 00:00:36,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+63
+00:00:36,220 --> 00:00:36,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+64
+00:00:36,220 --> 00:00:36,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+65
+00:00:36,390 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ehi</font>
+
+66
+00:00:36,390 --> 00:00:36,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+67
+00:00:36,390 --> 00:00:36,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+68
+00:00:36,390 --> 00:00:36,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+69
+00:00:36,590 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+70
+00:00:36,590 --> 00:00:36,810
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+71
+00:00:36,590 --> 00:00:36,810
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+72
+00:00:36,590 --> 00:00:36,810
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+73
+00:00:36,810 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+74
+00:00:36,810 --> 00:00:37,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+75
+00:00:36,810 --> 00:00:37,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+76
+00:00:36,810 --> 00:00:37,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+77
+00:00:37,350 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+78
+00:00:37,350 --> 00:00:38,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+79
+00:00:37,350 --> 00:00:38,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+80
+00:00:37,350 --> 00:00:38,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+81
+00:00:38,210 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}da</font>
+
+82
+00:00:38,210 --> 00:00:38,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+83
+00:00:38,210 --> 00:00:38,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+84
+00:00:38,210 --> 00:00:38,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+85
+00:00:38,340 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+86
+00:00:38,340 --> 00:00:38,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+87
+00:00:38,340 --> 00:00:38,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+88
+00:00:38,340 --> 00:00:38,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+89
+00:00:38,540 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+90
+00:00:38,540 --> 00:00:38,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+91
+00:00:38,540 --> 00:00:38,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+92
+00:00:38,540 --> 00:00:38,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+93
+00:00:38,730 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ga</font>
+
+94
+00:00:38,730 --> 00:00:38,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+95
+00:00:38,730 --> 00:00:38,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+96
+00:00:38,730 --> 00:00:38,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+97
+00:00:38,880 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+98
+00:00:38,880 --> 00:00:39,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+99
+00:00:38,880 --> 00:00:39,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+100
+00:00:38,880 --> 00:00:39,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+101
+00:00:39,140 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+102
+00:00:39,140 --> 00:00:39,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+103
+00:00:39,140 --> 00:00:39,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+104
+00:00:39,140 --> 00:00:39,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+105
+00:00:39,480 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tte</font>
+
+106
+00:00:39,480 --> 00:00:39,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+107
+00:00:39,480 --> 00:00:39,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+108
+00:00:39,480 --> 00:00:39,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+109
+00:00:39,650 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+110
+00:00:39,650 --> 00:00:39,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+111
+00:00:39,650 --> 00:00:39,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+112
+00:00:39,650 --> 00:00:39,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+113
+00:00:39,890 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+114
+00:00:39,890 --> 00:00:40,120
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+115
+00:00:39,890 --> 00:00:40,120
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+116
+00:00:39,890 --> 00:00:40,120
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+117
+00:00:40,120 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+118
+00:00:40,120 --> 00:00:40,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+119
+00:00:40,120 --> 00:00:40,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+120
+00:00:40,120 --> 00:00:40,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+121
+00:00:40,300 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+122
+00:00:40,300 --> 00:00:40,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+123
+00:00:40,300 --> 00:00:40,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+124
+00:00:40,300 --> 00:00:40,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+125
+00:00:40,480 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+126
+00:00:40,480 --> 00:00:40,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+127
+00:00:40,480 --> 00:00:40,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+128
+00:00:40,480 --> 00:00:40,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+129
+00:00:40,660 --> 00:00:41,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+130
+00:00:40,660 --> 00:00:41,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+131
+00:00:40,660 --> 00:00:41,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+132
+00:00:40,660 --> 00:00:41,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+133
+00:00:41,020 --> 00:00:41,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+134
+00:00:41,020 --> 00:00:41,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+135
+00:00:41,020 --> 00:00:41,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+136
+00:00:41,060 --> 00:00:46,650
+<font color="#82fd87" face="Augie" size="30">La passione corre
+Dentro di te ti fa brillare.</font>
+
+137
+00:00:41,070 --> 00:00:41,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ah</font>
+
+138
+00:00:41,070 --> 00:00:41,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+139
+00:00:41,070 --> 00:00:41,800
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tte</font>
+
+140
+00:00:41,070 --> 00:00:42,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+141
+00:00:41,070 --> 00:00:42,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}jo</font>
+
+142
+00:00:41,070 --> 00:00:42,440
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}u</font>
+
+143
+00:00:41,070 --> 00:00:42,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ne</font>
+
+144
+00:00:41,070 --> 00:00:42,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+145
+00:00:41,070 --> 00:00:43,020
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ga</font>
+
+146
+00:00:41,070 --> 00:00:43,560
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+147
+00:00:41,070 --> 00:00:44,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+148
+00:00:41,070 --> 00:00:44,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+149
+00:00:41,070 --> 00:00:44,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+150
+00:00:41,070 --> 00:00:44,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}wo</font>
+
+151
+00:00:41,070 --> 00:00:45,120
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ki</font>
+
+152
+00:00:41,070 --> 00:00:45,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+153
+00:00:41,070 --> 00:00:45,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+154
+00:00:41,070 --> 00:00:45,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+155
+00:00:41,070 --> 00:00:46,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}se</font>
+
+156
+00:00:41,070 --> 00:00:46,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+157
+00:00:41,220 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ah</font>
+
+158
+00:00:41,390 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+159
+00:00:41,390 --> 00:00:41,800
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+160
+00:00:41,390 --> 00:00:41,800
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+161
+00:00:41,390 --> 00:00:41,800
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+162
+00:00:41,800 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tte</font>
+
+163
+00:00:41,800 --> 00:00:42,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+164
+00:00:41,800 --> 00:00:42,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+165
+00:00:41,800 --> 00:00:42,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+166
+00:00:42,040 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+167
+00:00:42,040 --> 00:00:42,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+168
+00:00:42,040 --> 00:00:42,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+169
+00:00:42,040 --> 00:00:42,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+170
+00:00:42,230 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}jo</font>
+
+171
+00:00:42,230 --> 00:00:42,440
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+172
+00:00:42,230 --> 00:00:42,440
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+173
+00:00:42,230 --> 00:00:42,440
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+174
+00:00:42,440 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}u</font>
+
+175
+00:00:42,440 --> 00:00:42,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+176
+00:00:42,440 --> 00:00:42,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+177
+00:00:42,440 --> 00:00:42,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+178
+00:00:42,640 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ne</font>
+
+179
+00:00:42,640 --> 00:00:42,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+180
+00:00:42,640 --> 00:00:42,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+181
+00:00:42,640 --> 00:00:42,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+182
+00:00:42,830 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+183
+00:00:42,830 --> 00:00:43,020
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+184
+00:00:42,830 --> 00:00:43,020
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+185
+00:00:42,830 --> 00:00:43,020
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+186
+00:00:43,020 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ga</font>
+
+187
+00:00:43,020 --> 00:00:43,560
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+188
+00:00:43,020 --> 00:00:43,560
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+189
+00:00:43,020 --> 00:00:43,560
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+190
+00:00:43,560 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+191
+00:00:43,560 --> 00:00:44,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+192
+00:00:43,560 --> 00:00:44,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+193
+00:00:43,560 --> 00:00:44,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+194
+00:00:44,330 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+195
+00:00:44,330 --> 00:00:44,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+196
+00:00:44,330 --> 00:00:44,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+197
+00:00:44,330 --> 00:00:44,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+198
+00:00:44,540 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+199
+00:00:44,540 --> 00:00:44,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+200
+00:00:44,540 --> 00:00:44,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+201
+00:00:44,540 --> 00:00:44,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+202
+00:00:44,750 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+203
+00:00:44,750 --> 00:00:44,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+204
+00:00:44,750 --> 00:00:44,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+205
+00:00:44,750 --> 00:00:44,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+206
+00:00:44,910 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}wo</font>
+
+207
+00:00:44,910 --> 00:00:45,120
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+208
+00:00:44,910 --> 00:00:45,120
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+209
+00:00:44,910 --> 00:00:45,120
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+210
+00:00:45,120 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ki</font>
+
+211
+00:00:45,120 --> 00:00:45,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+212
+00:00:45,120 --> 00:00:45,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+213
+00:00:45,120 --> 00:00:45,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+214
+00:00:45,320 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+215
+00:00:45,320 --> 00:00:45,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+216
+00:00:45,320 --> 00:00:45,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+217
+00:00:45,320 --> 00:00:45,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+218
+00:00:45,650 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+219
+00:00:45,650 --> 00:00:45,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+220
+00:00:45,650 --> 00:00:45,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+221
+00:00:45,650 --> 00:00:45,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+222
+00:00:45,880 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+223
+00:00:45,880 --> 00:00:46,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+224
+00:00:45,880 --> 00:00:46,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+225
+00:00:45,880 --> 00:00:46,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+226
+00:00:46,070 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}se</font>
+
+227
+00:00:46,070 --> 00:00:46,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+228
+00:00:46,070 --> 00:00:46,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+229
+00:00:46,070 --> 00:00:46,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+230
+00:00:46,340 --> 00:00:46,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+231
+00:00:46,340 --> 00:00:46,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+232
+00:00:46,340 --> 00:00:46,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+233
+00:00:46,340 --> 00:00:46,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+234
+00:00:46,470 --> 00:00:46,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+235
+00:00:46,470 --> 00:00:46,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+236
+00:00:46,470 --> 00:00:46,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+237
+00:00:46,520 --> 00:00:46,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+238
+00:00:46,520 --> 00:00:46,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}bu</font>
+
+239
+00:00:46,520 --> 00:00:46,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+240
+00:00:46,520 --> 00:00:47,450
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}su</font>
+
+241
+00:00:46,520 --> 00:00:47,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}gi,</font>
+
+242
+00:00:46,520 --> 00:00:48,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}de</font>
+
+243
+00:00:46,520 --> 00:00:48,430
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+244
+00:00:46,520 --> 00:00:48,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+245
+00:00:46,520 --> 00:00:49,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+246
+00:00:46,520 --> 00:00:49,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+247
+00:00:46,520 --> 00:00:49,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+248
+00:00:46,520 --> 00:00:50,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+249
+00:00:46,520 --> 00:00:50,710
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+250
+00:00:46,520 --> 00:00:51,090
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+251
+00:00:46,520 --> 00:00:51,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+252
+00:00:46,650 --> 00:00:52,240
+<font color="#82fd87" face="Augie" size="30">È troppo abbagliante
+ Ma voglio continuare a guardarti ancora.</font>
+
+253
+00:00:46,670 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+254
+00:00:46,880 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}bu</font>
+
+255
+00:00:46,880 --> 00:00:46,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+256
+00:00:46,880 --> 00:00:46,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+257
+00:00:46,880 --> 00:00:46,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+258
+00:00:46,990 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+259
+00:00:46,990 --> 00:00:47,450
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+260
+00:00:46,990 --> 00:00:47,450
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+261
+00:00:46,990 --> 00:00:47,450
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+262
+00:00:47,450 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}su</font>
+
+263
+00:00:47,450 --> 00:00:47,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+264
+00:00:47,450 --> 00:00:47,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+265
+00:00:47,450 --> 00:00:47,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+266
+00:00:47,640 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}gi,</font>
+
+267
+00:00:47,640 --> 00:00:48,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+268
+00:00:47,640 --> 00:00:48,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+269
+00:00:47,640 --> 00:00:48,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+270
+00:00:48,050 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}de</font>
+
+271
+00:00:48,050 --> 00:00:48,430
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+272
+00:00:48,050 --> 00:00:48,430
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+273
+00:00:48,050 --> 00:00:48,430
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+274
+00:00:48,430 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+275
+00:00:48,430 --> 00:00:48,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+276
+00:00:48,430 --> 00:00:48,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+277
+00:00:48,430 --> 00:00:48,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+278
+00:00:48,890 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+279
+00:00:48,890 --> 00:00:49,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+280
+00:00:48,890 --> 00:00:49,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+281
+00:00:48,890 --> 00:00:49,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+282
+00:00:49,550 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+283
+00:00:49,550 --> 00:00:49,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+284
+00:00:49,550 --> 00:00:49,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+285
+00:00:49,550 --> 00:00:49,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+286
+00:00:49,740 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+287
+00:00:49,740 --> 00:00:49,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+288
+00:00:49,740 --> 00:00:49,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+289
+00:00:49,740 --> 00:00:49,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+290
+00:00:49,940 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+291
+00:00:49,940 --> 00:00:50,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+292
+00:00:49,940 --> 00:00:50,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+293
+00:00:49,940 --> 00:00:50,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+294
+00:00:50,330 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+295
+00:00:50,330 --> 00:00:50,710
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+296
+00:00:50,330 --> 00:00:50,710
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+297
+00:00:50,330 --> 00:00:50,710
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+298
+00:00:50,710 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+299
+00:00:50,710 --> 00:00:51,090
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+300
+00:00:50,710 --> 00:00:51,090
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+301
+00:00:50,710 --> 00:00:51,090
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+302
+00:00:51,090 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+303
+00:00:51,090 --> 00:00:51,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+304
+00:00:51,090 --> 00:00:51,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+305
+00:00:51,090 --> 00:00:51,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+306
+00:00:51,750 --> 00:00:52,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+307
+00:00:51,750 --> 00:00:52,500
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+308
+00:00:51,750 --> 00:00:52,500
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+309
+00:00:51,750 --> 00:00:52,500
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+310
+00:00:52,440 --> 00:00:52,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+311
+00:00:52,440 --> 00:00:52,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+312
+00:00:52,440 --> 00:00:52,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+313
+00:00:52,490 --> 00:00:55,950
+<font color="#82fd87" face="Augie" size="30">Sento una certa "estetica"...</font>
+
+314
+00:00:52,490 --> 00:00:52,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}fare</font>
+
+315
+00:00:52,490 --> 00:00:52,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}kka</font>
+
+316
+00:00:52,490 --> 00:00:53,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}"bi</font>
+
+317
+00:00:52,490 --> 00:00:53,420
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ga</font>
+
+318
+00:00:52,490 --> 00:00:53,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ku"</font>
+
+319
+00:00:52,490 --> 00:00:53,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+320
+00:00:52,490 --> 00:00:54,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}n</font>
+
+321
+00:00:52,490 --> 00:00:54,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ehi</font>
+
+322
+00:00:52,490 --> 00:00:54,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+323
+00:00:52,490 --> 00:00:55,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+324
+00:00:52,640 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}fare</font>
+
+325
+00:00:52,910 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}kka</font>
+
+326
+00:00:52,910 --> 00:00:53,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+327
+00:00:52,910 --> 00:00:53,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+328
+00:00:52,910 --> 00:00:53,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+329
+00:00:53,210 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}"bi</font>
+
+330
+00:00:53,210 --> 00:00:53,420
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+331
+00:00:53,210 --> 00:00:53,420
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+332
+00:00:53,210 --> 00:00:53,420
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+333
+00:00:53,420 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ga</font>
+
+334
+00:00:53,420 --> 00:00:53,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+335
+00:00:53,420 --> 00:00:53,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+336
+00:00:53,420 --> 00:00:53,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+337
+00:00:53,630 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ku"</font>
+
+338
+00:00:53,630 --> 00:00:53,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+339
+00:00:53,630 --> 00:00:53,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+340
+00:00:53,630 --> 00:00:53,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+341
+00:00:53,830 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+342
+00:00:53,830 --> 00:00:54,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+343
+00:00:53,830 --> 00:00:54,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+344
+00:00:53,830 --> 00:00:54,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+345
+00:00:54,240 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}n</font>
+
+346
+00:00:54,240 --> 00:00:54,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+347
+00:00:54,240 --> 00:00:54,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+348
+00:00:54,240 --> 00:00:54,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+349
+00:00:54,590 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ehi</font>
+
+350
+00:00:54,590 --> 00:00:54,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+351
+00:00:54,590 --> 00:00:54,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+352
+00:00:54,590 --> 00:00:54,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+353
+00:00:54,990 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+354
+00:00:54,990 --> 00:00:55,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+355
+00:00:54,990 --> 00:00:55,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+356
+00:00:54,990 --> 00:00:55,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+357
+00:00:55,390 --> 00:00:55,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+358
+00:00:55,390 --> 00:00:56,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+359
+00:00:55,390 --> 00:00:56,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+360
+00:00:55,390 --> 00:00:56,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+361
+00:00:55,840 --> 00:00:56,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+362
+00:00:55,840 --> 00:00:56,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+363
+00:00:55,840 --> 00:00:56,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+364
+00:00:55,890 --> 00:00:56,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Sì</font>
+
+365
+00:00:55,890 --> 00:00:56,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}zona</font>
+
+366
+00:00:55,890 --> 00:00:56,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}lly</font>
+
+367
+00:00:55,890 --> 00:00:56,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}zona</font>
+
+368
+00:00:55,890 --> 00:00:56,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}lly</font>
+
+369
+00:00:55,890 --> 00:00:57,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}bloccato</font>
+
+370
+00:00:55,890 --> 00:00:57,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}acceso</font>
+
+371
+00:00:55,890 --> 00:00:57,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tu</font>
+
+372
+00:00:55,950 --> 00:00:58,070
+<font color="#82fd87" face="Augie" size="30">Sono molto, molto innamorato di te.</font>
+
+373
+00:00:56,040 --> 00:00:58,080
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Sì</font>
+
+374
+00:00:56,290 --> 00:00:58,080
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}zona</font>
+
+375
+00:00:56,290 --> 00:00:56,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+376
+00:00:56,290 --> 00:00:56,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+377
+00:00:56,290 --> 00:00:56,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+378
+00:00:56,480 --> 00:00:58,080
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}lly</font>
+
+379
+00:00:56,480 --> 00:00:56,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+380
+00:00:56,480 --> 00:00:56,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+381
+00:00:56,480 --> 00:00:56,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+382
+00:00:56,730 --> 00:00:58,080
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}zona</font>
+
+383
+00:00:56,730 --> 00:00:56,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+384
+00:00:56,730 --> 00:00:56,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+385
+00:00:56,730 --> 00:00:56,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+386
+00:00:56,920 --> 00:00:58,080
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}lly</font>
+
+387
+00:00:56,920 --> 00:00:57,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+388
+00:00:56,920 --> 00:00:57,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+389
+00:00:56,920 --> 00:00:57,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+390
+00:00:57,110 --> 00:00:58,080
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}bloccato</font>
+
+391
+00:00:57,110 --> 00:00:57,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+392
+00:00:57,110 --> 00:00:57,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+393
+00:00:57,110 --> 00:00:57,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+394
+00:00:57,380 --> 00:00:58,080
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}acceso</font>
+
+395
+00:00:57,380 --> 00:00:57,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+396
+00:00:57,380 --> 00:00:57,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+397
+00:00:57,380 --> 00:00:57,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+398
+00:00:57,660 --> 00:00:58,080
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tu</font>
+
+399
+00:00:57,660 --> 00:00:58,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+400
+00:00:57,660 --> 00:00:58,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+401
+00:00:57,660 --> 00:00:58,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+402
+00:00:57,870 --> 00:00:58,460
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+403
+00:00:57,870 --> 00:00:58,460
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+404
+00:00:57,870 --> 00:00:58,460
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+405
+00:00:57,920 --> 00:00:58,070
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Wow</font>
+
+406
+00:00:57,920 --> 00:00:58,460
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}oh!</font>
+
+407
+00:00:58,070 --> 00:00:59,270
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Wow</font>
+
+408
+00:00:58,460 --> 00:00:59,270
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}oh!</font>
+
+409
+00:00:58,460 --> 00:00:59,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+410
+00:00:58,460 --> 00:00:59,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+411
+00:00:58,460 --> 00:00:59,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+412
+00:00:59,440 --> 00:00:59,810
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+413
+00:00:59,440 --> 00:00:59,810
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+414
+00:00:59,440 --> 00:00:59,810
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+415
+00:00:59,490 --> 00:01:02,660
+<font color="#82fd87" face="Augie" size="30">Inseguendo, inseguendo
+ uno dei miei sogni...</font>
+
+416
+00:00:59,490 --> 00:00:59,640
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}da</font>
+
+417
+00:00:59,490 --> 00:00:59,810
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+418
+00:00:59,490 --> 00:01:00,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+419
+00:00:59,490 --> 00:01:00,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+420
+00:00:59,490 --> 00:01:00,410
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+421
+00:00:59,490 --> 00:01:00,620
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+422
+00:00:59,490 --> 00:01:00,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+423
+00:00:59,490 --> 00:01:01,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+424
+00:00:59,490 --> 00:01:01,150
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+425
+00:00:59,490 --> 00:01:01,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}sì</font>
+
+426
+00:00:59,490 --> 00:01:01,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+427
+00:00:59,490 --> 00:01:01,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}no</font>
+
+428
+00:00:59,490 --> 00:01:01,770
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}se</font>
+
+429
+00:00:59,490 --> 00:01:01,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+430
+00:00:59,490 --> 00:01:02,170
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+431
+00:00:59,490 --> 00:01:02,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}wo</font>
+
+432
+00:00:59,640 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}da</font>
+
+433
+00:00:59,810 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+434
+00:00:59,810 --> 00:01:00,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+435
+00:00:59,810 --> 00:01:00,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+436
+00:00:59,810 --> 00:01:00,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+437
+00:01:00,050 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+438
+00:01:00,050 --> 00:01:00,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+439
+00:01:00,050 --> 00:01:00,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+440
+00:01:00,050 --> 00:01:00,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+441
+00:01:00,230 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+442
+00:01:00,230 --> 00:01:00,410
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+443
+00:01:00,230 --> 00:01:00,410
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+444
+00:01:00,230 --> 00:01:00,410
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+445
+00:01:00,410 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+446
+00:01:00,410 --> 00:01:00,620
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+447
+00:01:00,410 --> 00:01:00,620
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+448
+00:01:00,410 --> 00:01:00,620
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+449
+00:01:00,620 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+450
+00:01:00,620 --> 00:01:00,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+451
+00:01:00,620 --> 00:01:00,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+452
+00:01:00,620 --> 00:01:00,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+453
+00:01:00,830 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+454
+00:01:00,830 --> 00:01:01,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+455
+00:01:00,830 --> 00:01:01,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+456
+00:01:00,830 --> 00:01:01,050
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+457
+00:01:01,050 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+458
+00:01:01,050 --> 00:01:01,150
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+459
+00:01:01,050 --> 00:01:01,150
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+460
+00:01:01,050 --> 00:01:01,150
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+461
+00:01:01,150 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+462
+00:01:01,150 --> 00:01:01,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+463
+00:01:01,150 --> 00:01:01,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+464
+00:01:01,150 --> 00:01:01,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+465
+00:01:01,230 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}sì</font>
+
+466
+00:01:01,230 --> 00:01:01,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+467
+00:01:01,230 --> 00:01:01,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+468
+00:01:01,230 --> 00:01:01,390
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+469
+00:01:01,390 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+470
+00:01:01,390 --> 00:01:01,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+471
+00:01:01,390 --> 00:01:01,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+472
+00:01:01,390 --> 00:01:01,590
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+473
+00:01:01,590 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}no</font>
+
+474
+00:01:01,590 --> 00:01:01,770
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+475
+00:01:01,590 --> 00:01:01,770
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+476
+00:01:01,590 --> 00:01:01,770
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+477
+00:01:01,770 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}se</font>
+
+478
+00:01:01,770 --> 00:01:01,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+479
+00:01:01,770 --> 00:01:01,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+480
+00:01:01,770 --> 00:01:01,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+481
+00:01:01,980 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+482
+00:01:01,980 --> 00:01:02,170
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+483
+00:01:01,980 --> 00:01:02,170
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+484
+00:01:01,980 --> 00:01:02,170
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+485
+00:01:02,170 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+486
+00:01:02,170 --> 00:01:02,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+487
+00:01:02,170 --> 00:01:02,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+488
+00:01:02,170 --> 00:01:02,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+489
+00:01:02,370 --> 00:01:02,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}wo</font>
+
+490
+00:01:02,370 --> 00:01:02,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+491
+00:01:02,370 --> 00:01:02,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+492
+00:01:02,370 --> 00:01:02,990
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+493
+00:01:02,560 --> 00:01:02,930
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+494
+00:01:02,560 --> 00:01:02,930
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+495
+00:01:02,560 --> 00:01:02,930
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+496
+00:01:02,610 --> 00:01:02,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}o</font>
+
+497
+00:01:02,610 --> 00:01:02,930
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+498
+00:01:02,610 --> 00:01:03,100
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+499
+00:01:02,610 --> 00:01:03,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ke</font>
+
+500
+00:01:02,610 --> 00:01:03,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+501
+00:01:02,610 --> 00:01:03,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}o</font>
+
+502
+00:01:02,610 --> 00:01:03,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+503
+00:01:02,610 --> 00:01:04,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+504
+00:01:02,610 --> 00:01:04,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ke</font>
+
+505
+00:01:02,610 --> 00:01:05,060
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+506
+00:01:02,610 --> 00:01:05,440
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ku</font>
+
+507
+00:01:02,660 --> 00:01:05,960
+<font color="#82fd87" face="Augie" size="30">...che non assomiglia a quello di nessun altro.</font>
+
+508
+00:01:02,760 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}o</font>
+
+509
+00:01:02,930 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+510
+00:01:02,930 --> 00:01:03,100
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+511
+00:01:02,930 --> 00:01:03,100
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+512
+00:01:02,930 --> 00:01:03,100
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+513
+00:01:03,100 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+514
+00:01:03,100 --> 00:01:03,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+515
+00:01:03,100 --> 00:01:03,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+516
+00:01:03,100 --> 00:01:03,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+517
+00:01:03,280 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ke</font>
+
+518
+00:01:03,280 --> 00:01:03,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+519
+00:01:03,280 --> 00:01:03,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+520
+00:01:03,280 --> 00:01:03,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+521
+00:01:03,520 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+522
+00:01:03,520 --> 00:01:03,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+523
+00:01:03,520 --> 00:01:03,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+524
+00:01:03,520 --> 00:01:03,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+525
+00:01:03,720 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}o</font>
+
+526
+00:01:03,720 --> 00:01:03,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+527
+00:01:03,720 --> 00:01:03,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+528
+00:01:03,720 --> 00:01:03,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+529
+00:01:03,840 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+530
+00:01:03,840 --> 00:01:04,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+531
+00:01:03,840 --> 00:01:04,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+532
+00:01:03,840 --> 00:01:04,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+533
+00:01:04,280 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+534
+00:01:04,280 --> 00:01:04,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+535
+00:01:04,280 --> 00:01:04,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+536
+00:01:04,280 --> 00:01:04,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+537
+00:01:04,680 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ke</font>
+
+538
+00:01:04,680 --> 00:01:05,060
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+539
+00:01:04,680 --> 00:01:05,060
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+540
+00:01:04,680 --> 00:01:05,060
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+541
+00:01:05,060 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+542
+00:01:05,060 --> 00:01:05,440
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+543
+00:01:05,060 --> 00:01:05,440
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+544
+00:01:05,060 --> 00:01:05,440
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+545
+00:01:05,440 --> 00:01:06,040
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ku</font>
+
+546
+00:01:05,440 --> 00:01:06,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+547
+00:01:05,440 --> 00:01:06,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+548
+00:01:05,440 --> 00:01:06,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+549
+00:01:05,800 --> 00:01:06,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+550
+00:01:05,800 --> 00:01:06,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+551
+00:01:05,800 --> 00:01:06,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+552
+00:01:05,850 --> 00:01:06,000
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}DRA</font>
+
+553
+00:01:05,850 --> 00:01:06,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}MA</font>
+
+554
+00:01:05,850 --> 00:01:06,960
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}TIC</font>
+
+555
+00:01:05,850 --> 00:01:07,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+556
+00:01:05,850 --> 00:01:07,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+557
+00:01:05,850 --> 00:01:07,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+558
+00:01:05,850 --> 00:01:07,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+559
+00:01:05,850 --> 00:01:08,150
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+560
+00:01:05,850 --> 00:01:08,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+561
+00:01:05,850 --> 00:01:08,530
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}de</font>
+
+562
+00:01:05,960 --> 00:01:09,210
+<font color="#82fd87" face="Augie" size="30">Sarà drammatico finché non raggiungeremo questo obiettivo.</font>
+
+563
+00:01:06,000 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}DRA</font>
+
+564
+00:01:06,760 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}MA</font>
+
+565
+00:01:06,760 --> 00:01:06,960
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+566
+00:01:06,760 --> 00:01:06,960
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+567
+00:01:06,760 --> 00:01:06,960
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+568
+00:01:06,960 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}TIC</font>
+
+569
+00:01:06,960 --> 00:01:07,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+570
+00:01:06,960 --> 00:01:07,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+571
+00:01:06,960 --> 00:01:07,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+572
+00:01:07,370 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+573
+00:01:07,370 --> 00:01:07,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+574
+00:01:07,370 --> 00:01:07,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+575
+00:01:07,370 --> 00:01:07,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+576
+00:01:07,570 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+577
+00:01:07,570 --> 00:01:07,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+578
+00:01:07,570 --> 00:01:07,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+579
+00:01:07,570 --> 00:01:07,740
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+580
+00:01:07,740 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+581
+00:01:07,740 --> 00:01:07,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+582
+00:01:07,740 --> 00:01:07,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+583
+00:01:07,740 --> 00:01:07,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+584
+00:01:07,940 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+585
+00:01:07,940 --> 00:01:08,150
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+586
+00:01:07,940 --> 00:01:08,150
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+587
+00:01:07,940 --> 00:01:08,150
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+588
+00:01:08,150 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ru</font>
+
+589
+00:01:08,150 --> 00:01:08,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+590
+00:01:08,150 --> 00:01:08,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+591
+00:01:08,150 --> 00:01:08,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+592
+00:01:08,350 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+593
+00:01:08,350 --> 00:01:08,530
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+594
+00:01:08,350 --> 00:01:08,530
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+595
+00:01:08,350 --> 00:01:08,530
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+596
+00:01:08,530 --> 00:01:09,220
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}de</font>
+
+597
+00:01:08,530 --> 00:01:09,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+598
+00:01:08,530 --> 00:01:09,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+599
+00:01:08,530 --> 00:01:09,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+600
+00:01:09,280 --> 00:01:09,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+601
+00:01:09,280 --> 00:01:09,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+602
+00:01:09,280 --> 00:01:09,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+603
+00:01:09,330 --> 00:01:09,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Sii</font>
+
+604
+00:01:09,330 --> 00:01:09,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}credi</font>
+
+605
+00:01:09,330 --> 00:01:09,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+606
+00:01:09,330 --> 00:01:10,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Ha vinto</font>
+
+607
+00:01:09,330 --> 00:01:10,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}der</font>
+
+608
+00:01:09,330 --> 00:01:11,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}terra!</font>
+
+609
+00:01:09,340 --> 00:01:14,840
+<font color="#82fd87" face="Augie" size="30">Credi nel paese delle meraviglie!</font>
+
+610
+00:01:09,480 --> 00:01:14,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Sii</font>
+
+611
+00:01:09,680 --> 00:01:14,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}credi</font>
+
+612
+00:01:09,680 --> 00:01:09,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+613
+00:01:09,680 --> 00:01:09,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+614
+00:01:09,680 --> 00:01:09,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+615
+00:01:09,910 --> 00:01:14,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+616
+00:01:09,910 --> 00:01:10,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+617
+00:01:09,910 --> 00:01:10,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+618
+00:01:09,910 --> 00:01:10,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+619
+00:01:10,280 --> 00:01:14,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Ha vinto</font>
+
+620
+00:01:10,280 --> 00:01:10,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+621
+00:01:10,280 --> 00:01:10,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+622
+00:01:10,280 --> 00:01:10,830
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+623
+00:01:10,830 --> 00:01:14,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}der</font>
+
+624
+00:01:10,830 --> 00:01:11,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+625
+00:01:10,830 --> 00:01:11,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+626
+00:01:10,830 --> 00:01:11,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+627
+00:01:11,630 --> 00:01:14,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}terra!</font>
+
+628
+00:01:11,630 --> 00:01:15,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+629
+00:01:11,630 --> 00:01:15,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+630
+00:01:11,630 --> 00:01:15,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+631
+00:01:18,000 --> 00:01:18,410
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+632
+00:01:18,000 --> 00:01:18,410
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+633
+00:01:18,000 --> 00:01:18,410
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+634
+00:01:18,050 --> 00:01:21,260
+<font color="#82fd87" face="Augie" size="30">Teniamo ancora duro...</font>
+
+635
+00:01:18,050 --> 00:01:18,200
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}da</font>
+
+636
+00:01:18,050 --> 00:01:18,410
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+637
+00:01:18,050 --> 00:01:18,610
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+638
+00:01:18,050 --> 00:01:18,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+639
+00:01:18,050 --> 00:01:18,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+640
+00:01:18,050 --> 00:01:19,170
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+641
+00:01:18,050 --> 00:01:19,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+642
+00:01:18,050 --> 00:01:19,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+643
+00:01:18,050 --> 00:01:19,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}sì</font>
+
+644
+00:01:18,050 --> 00:01:19,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+645
+00:01:18,050 --> 00:01:20,130
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}no</font>
+
+646
+00:01:18,050 --> 00:01:20,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+647
+00:01:18,050 --> 00:01:20,510
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+648
+00:01:18,050 --> 00:01:20,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}chi</font>
+
+649
+00:01:18,050 --> 00:01:20,900
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}wo</font>
+
+650
+00:01:18,200 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}da</font>
+
+651
+00:01:18,410 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+652
+00:01:18,410 --> 00:01:18,610
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+653
+00:01:18,410 --> 00:01:18,610
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+654
+00:01:18,410 --> 00:01:18,610
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+655
+00:01:18,610 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+656
+00:01:18,610 --> 00:01:18,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+657
+00:01:18,610 --> 00:01:18,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+658
+00:01:18,610 --> 00:01:18,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+659
+00:01:18,780 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+660
+00:01:18,780 --> 00:01:18,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+661
+00:01:18,780 --> 00:01:18,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+662
+00:01:18,780 --> 00:01:18,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+663
+00:01:18,980 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+664
+00:01:18,980 --> 00:01:19,170
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+665
+00:01:18,980 --> 00:01:19,170
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+666
+00:01:18,980 --> 00:01:19,170
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+667
+00:01:19,170 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+668
+00:01:19,170 --> 00:01:19,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+669
+00:01:19,170 --> 00:01:19,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+670
+00:01:19,170 --> 00:01:19,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+671
+00:01:19,370 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+672
+00:01:19,370 --> 00:01:19,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+673
+00:01:19,370 --> 00:01:19,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+674
+00:01:19,370 --> 00:01:19,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+675
+00:01:19,520 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+676
+00:01:19,520 --> 00:01:19,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+677
+00:01:19,520 --> 00:01:19,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+678
+00:01:19,520 --> 00:01:19,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+679
+00:01:19,680 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}sì</font>
+
+680
+00:01:19,680 --> 00:01:19,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+681
+00:01:19,680 --> 00:01:19,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+682
+00:01:19,680 --> 00:01:19,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+683
+00:01:19,920 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+684
+00:01:19,920 --> 00:01:20,130
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+685
+00:01:19,920 --> 00:01:20,130
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+686
+00:01:19,920 --> 00:01:20,130
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+687
+00:01:20,130 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}no</font>
+
+688
+00:01:20,130 --> 00:01:20,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+689
+00:01:20,130 --> 00:01:20,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+690
+00:01:20,130 --> 00:01:20,340
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+691
+00:01:20,340 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+692
+00:01:20,340 --> 00:01:20,510
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+693
+00:01:20,340 --> 00:01:20,510
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+694
+00:01:20,340 --> 00:01:20,510
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+695
+00:01:20,510 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+696
+00:01:20,510 --> 00:01:20,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+697
+00:01:20,510 --> 00:01:20,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+698
+00:01:20,510 --> 00:01:20,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+699
+00:01:20,670 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}chi</font>
+
+700
+00:01:20,670 --> 00:01:20,900
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+701
+00:01:20,670 --> 00:01:20,900
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+702
+00:01:20,670 --> 00:01:20,900
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+703
+00:01:20,900 --> 00:01:21,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}wo</font>
+
+704
+00:01:20,900 --> 00:01:21,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+705
+00:01:20,900 --> 00:01:21,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+706
+00:01:20,900 --> 00:01:21,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+707
+00:01:21,180 --> 00:01:21,510
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+708
+00:01:21,180 --> 00:01:21,510
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+709
+00:01:21,180 --> 00:01:21,510
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+710
+00:01:21,230 --> 00:01:21,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+711
+00:01:21,230 --> 00:01:21,510
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+712
+00:01:21,230 --> 00:01:21,700
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+713
+00:01:21,230 --> 00:01:21,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+714
+00:01:21,230 --> 00:01:22,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+715
+00:01:21,230 --> 00:01:22,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+716
+00:01:21,230 --> 00:01:22,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+717
+00:01:21,230 --> 00:01:22,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+718
+00:01:21,230 --> 00:01:23,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+719
+00:01:21,230 --> 00:01:23,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+720
+00:01:21,230 --> 00:01:23,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ku</font>
+
+721
+00:01:21,260 --> 00:01:24,350
+<font color="#82fd87" face="Augie" size="30">...sognare che nessun altro possa vedere.</font>
+
+722
+00:01:21,380 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+723
+00:01:21,510 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+724
+00:01:21,510 --> 00:01:21,700
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+725
+00:01:21,510 --> 00:01:21,700
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+726
+00:01:21,510 --> 00:01:21,700
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+727
+00:01:21,700 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+728
+00:01:21,700 --> 00:01:21,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+729
+00:01:21,700 --> 00:01:21,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+730
+00:01:21,700 --> 00:01:21,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+731
+00:01:21,910 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+732
+00:01:21,910 --> 00:01:22,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+733
+00:01:21,910 --> 00:01:22,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+734
+00:01:21,910 --> 00:01:22,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+735
+00:01:22,140 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+736
+00:01:22,140 --> 00:01:22,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+737
+00:01:22,140 --> 00:01:22,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+738
+00:01:22,140 --> 00:01:22,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+739
+00:01:22,290 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+740
+00:01:22,290 --> 00:01:22,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+741
+00:01:22,290 --> 00:01:22,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+742
+00:01:22,290 --> 00:01:22,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+743
+00:01:22,490 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+744
+00:01:22,490 --> 00:01:22,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+745
+00:01:22,490 --> 00:01:22,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+746
+00:01:22,490 --> 00:01:22,880
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+747
+00:01:22,880 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+748
+00:01:22,880 --> 00:01:23,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+749
+00:01:22,880 --> 00:01:23,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+750
+00:01:22,880 --> 00:01:23,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+751
+00:01:23,290 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}e</font>
+
+752
+00:01:23,290 --> 00:01:23,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+753
+00:01:23,290 --> 00:01:23,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+754
+00:01:23,290 --> 00:01:23,650
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+755
+00:01:23,650 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+756
+00:01:23,650 --> 00:01:23,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+757
+00:01:23,650 --> 00:01:23,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+758
+00:01:23,650 --> 00:01:23,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+759
+00:01:23,980 --> 00:01:24,370
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ku</font>
+
+760
+00:01:23,980 --> 00:01:24,620
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+761
+00:01:23,980 --> 00:01:24,620
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+762
+00:01:23,980 --> 00:01:24,620
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+763
+00:01:24,370 --> 00:01:24,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+764
+00:01:24,370 --> 00:01:24,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+765
+00:01:24,370 --> 00:01:24,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+766
+00:01:24,420 --> 00:01:24,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+767
+00:01:24,420 --> 00:01:24,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+768
+00:01:24,420 --> 00:01:25,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+769
+00:01:24,420 --> 00:01:25,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+770
+00:01:24,420 --> 00:01:25,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+771
+00:01:24,420 --> 00:01:25,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+772
+00:01:24,420 --> 00:01:26,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+773
+00:01:24,420 --> 00:01:26,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+774
+00:01:24,420 --> 00:01:26,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}sì</font>
+
+775
+00:01:24,420 --> 00:01:26,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ku</font>
+
+776
+00:01:24,420 --> 00:01:26,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+777
+00:01:24,420 --> 00:01:27,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+778
+00:01:24,420 --> 00:01:27,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+779
+00:01:24,420 --> 00:01:28,060
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+780
+00:01:24,420 --> 00:01:28,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+781
+00:01:24,420 --> 00:01:28,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+782
+00:01:24,420 --> 00:01:28,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ki</font>
+
+783
+00:01:24,420 --> 00:01:28,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+784
+00:01:24,420 --> 00:01:29,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}chi</font>
+
+785
+00:01:24,430 --> 00:01:30,230
+<font color="#82fd87" face="Augie" size="30">Come lo sono io con te, lo abbiamo fatto
+questi sentimenti brucianti.</font>
+
+786
+00:01:24,570 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+787
+00:01:24,970 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+788
+00:01:24,970 --> 00:01:25,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+789
+00:01:24,970 --> 00:01:25,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+790
+00:01:24,970 --> 00:01:25,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+791
+00:01:25,350 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+792
+00:01:25,350 --> 00:01:25,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+793
+00:01:25,350 --> 00:01:25,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+794
+00:01:25,350 --> 00:01:25,570
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+795
+00:01:25,570 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+796
+00:01:25,570 --> 00:01:25,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+797
+00:01:25,570 --> 00:01:25,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+798
+00:01:25,570 --> 00:01:25,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+799
+00:01:25,840 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+800
+00:01:25,840 --> 00:01:25,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+801
+00:01:25,840 --> 00:01:25,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+802
+00:01:25,840 --> 00:01:25,940
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+803
+00:01:25,940 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+804
+00:01:25,940 --> 00:01:26,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+805
+00:01:25,940 --> 00:01:26,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+806
+00:01:25,940 --> 00:01:26,140
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+807
+00:01:26,140 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+808
+00:01:26,140 --> 00:01:26,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+809
+00:01:26,140 --> 00:01:26,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+810
+00:01:26,140 --> 00:01:26,350
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+811
+00:01:26,350 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+812
+00:01:26,350 --> 00:01:26,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+813
+00:01:26,350 --> 00:01:26,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+814
+00:01:26,350 --> 00:01:26,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+815
+00:01:26,550 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}sì</font>
+
+816
+00:01:26,550 --> 00:01:26,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+817
+00:01:26,550 --> 00:01:26,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+818
+00:01:26,550 --> 00:01:26,720
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+819
+00:01:26,720 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ku</font>
+
+820
+00:01:26,720 --> 00:01:26,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+821
+00:01:26,720 --> 00:01:26,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+822
+00:01:26,720 --> 00:01:26,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+823
+00:01:26,920 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ka</font>
+
+824
+00:01:26,920 --> 00:01:27,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+825
+00:01:26,920 --> 00:01:27,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+826
+00:01:26,920 --> 00:01:27,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+827
+00:01:27,110 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+828
+00:01:27,110 --> 00:01:27,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+829
+00:01:27,110 --> 00:01:27,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+830
+00:01:27,110 --> 00:01:27,750
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+831
+00:01:27,750 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+832
+00:01:27,750 --> 00:01:28,060
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+833
+00:01:27,750 --> 00:01:28,060
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+834
+00:01:27,750 --> 00:01:28,060
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+835
+00:01:28,060 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+836
+00:01:28,060 --> 00:01:28,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+837
+00:01:28,060 --> 00:01:28,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+838
+00:01:28,060 --> 00:01:28,280
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+839
+00:01:28,280 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+840
+00:01:28,280 --> 00:01:28,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+841
+00:01:28,280 --> 00:01:28,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+842
+00:01:28,280 --> 00:01:28,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+843
+00:01:28,490 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+844
+00:01:28,490 --> 00:01:28,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+845
+00:01:28,490 --> 00:01:28,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+846
+00:01:28,490 --> 00:01:28,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+847
+00:01:28,670 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ki</font>
+
+848
+00:01:28,670 --> 00:01:28,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+849
+00:01:28,670 --> 00:01:28,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+850
+00:01:28,670 --> 00:01:28,860
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+851
+00:01:28,860 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+852
+00:01:28,860 --> 00:01:29,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+853
+00:01:28,860 --> 00:01:29,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+854
+00:01:28,860 --> 00:01:29,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+855
+00:01:29,470 --> 00:01:30,230
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}chi</font>
+
+856
+00:01:29,470 --> 00:01:30,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+857
+00:01:29,470 --> 00:01:30,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+858
+00:01:29,470 --> 00:01:30,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+859
+00:01:30,200 --> 00:01:30,770
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+860
+00:01:30,200 --> 00:01:30,770
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+861
+00:01:30,200 --> 00:01:30,770
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+862
+00:01:30,230 --> 00:01:33,610
+<font color="#82fd87" face="Augie" size="30">In realtà non abbiamo bisogno di essere coerenti.</font>
+
+863
+00:01:30,250 --> 00:01:30,400
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+864
+00:01:30,250 --> 00:01:30,770
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ehi</font>
+
+865
+00:01:30,250 --> 00:01:30,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+866
+00:01:30,250 --> 00:01:31,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+867
+00:01:30,250 --> 00:01:31,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+868
+00:01:30,250 --> 00:01:31,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+869
+00:01:30,250 --> 00:01:31,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}se</font>
+
+870
+00:01:30,250 --> 00:01:32,010
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+871
+00:01:30,250 --> 00:01:32,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}essere</font>
+
+872
+00:01:30,250 --> 00:01:32,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+873
+00:01:30,250 --> 00:01:32,530
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+874
+00:01:30,250 --> 00:01:32,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+875
+00:01:30,250 --> 00:01:32,930
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+876
+00:01:30,250 --> 00:01:33,090
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+877
+00:01:30,250 --> 00:01:33,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+878
+00:01:30,400 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+879
+00:01:30,770 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ehi</font>
+
+880
+00:01:30,770 --> 00:01:30,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+881
+00:01:30,770 --> 00:01:30,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+882
+00:01:30,770 --> 00:01:30,970
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+883
+00:01:30,970 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+884
+00:01:30,970 --> 00:01:31,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+885
+00:01:30,970 --> 00:01:31,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+886
+00:01:30,970 --> 00:01:31,210
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+887
+00:01:31,210 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mamma</font>
+
+888
+00:01:31,210 --> 00:01:31,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+889
+00:01:31,210 --> 00:01:31,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+890
+00:01:31,210 --> 00:01:31,380
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+891
+00:01:31,380 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+892
+00:01:31,380 --> 00:01:31,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+893
+00:01:31,380 --> 00:01:31,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+894
+00:01:31,380 --> 00:01:31,550
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+895
+00:01:31,550 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}eh</font>
+
+896
+00:01:31,550 --> 00:01:31,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+897
+00:01:31,550 --> 00:01:31,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+898
+00:01:31,550 --> 00:01:31,760
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+899
+00:01:31,760 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}se</font>
+
+900
+00:01:31,760 --> 00:01:32,010
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+901
+00:01:31,760 --> 00:01:32,010
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+902
+00:01:31,760 --> 00:01:32,010
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+903
+00:01:32,010 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}</font>
+
+904
+00:01:32,010 --> 00:01:32,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+905
+00:01:32,010 --> 00:01:32,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+906
+00:01:32,010 --> 00:01:32,110
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+907
+00:01:32,110 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}essere</font>
+
+908
+00:01:32,110 --> 00:01:32,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+909
+00:01:32,110 --> 00:01:32,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+910
+00:01:32,110 --> 00:01:32,320
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+911
+00:01:32,320 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}tsu</font>
+
+912
+00:01:32,320 --> 00:01:32,530
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+913
+00:01:32,320 --> 00:01:32,530
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+914
+00:01:32,320 --> 00:01:32,530
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+915
+00:01:32,530 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+916
+00:01:32,530 --> 00:01:32,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+917
+00:01:32,530 --> 00:01:32,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+918
+00:01:32,530 --> 00:01:32,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+919
+00:01:32,730 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+920
+00:01:32,730 --> 00:01:32,930
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+921
+00:01:32,730 --> 00:01:32,930
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+922
+00:01:32,730 --> 00:01:32,930
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+923
+00:01:32,930 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ra</font>
+
+924
+00:01:32,930 --> 00:01:33,090
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+925
+00:01:32,930 --> 00:01:33,090
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+926
+00:01:32,930 --> 00:01:33,090
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+927
+00:01:33,090 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}na</font>
+
+928
+00:01:33,090 --> 00:01:33,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+929
+00:01:33,090 --> 00:01:33,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+930
+00:01:33,090 --> 00:01:33,300
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+931
+00:01:33,300 --> 00:01:33,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}i</font>
+
+932
+00:01:33,300 --> 00:01:33,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+933
+00:01:33,300 --> 00:01:33,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+934
+00:01:33,300 --> 00:01:33,920
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+935
+00:01:33,480 --> 00:01:33,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+936
+00:01:33,480 --> 00:01:33,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+937
+00:01:33,480 --> 00:01:33,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+938
+00:01:33,530 --> 00:01:33,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+939
+00:01:33,530 --> 00:01:33,890
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ri</font>
+
+940
+00:01:33,530 --> 00:01:34,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}fu</font>
+
+941
+00:01:33,530 --> 00:01:34,260
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+942
+00:01:33,530 --> 00:01:34,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+943
+00:01:33,530 --> 00:01:34,690
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+944
+00:01:33,530 --> 00:01:34,850
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}chi</font>
+
+945
+00:01:33,530 --> 00:01:35,270
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}jo</font>
+
+946
+00:01:33,530 --> 00:01:35,460
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}u</font>
+
+947
+00:01:33,530 --> 00:01:35,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+948
+00:01:33,530 --> 00:01:36,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ri</font>
+
+949
+00:01:33,530 --> 00:01:36,400
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+950
+00:01:33,610 --> 00:01:36,780
+<font color="#82fd87" face="Augie" size="30">Invece di una sporca routine,</font>
+
+951
+00:01:33,680 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+952
+00:01:33,890 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ri</font>
+
+953
+00:01:33,890 --> 00:01:34,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+954
+00:01:33,890 --> 00:01:34,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+955
+00:01:33,890 --> 00:01:34,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+956
+00:01:34,030 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}fu</font>
+
+957
+00:01:34,030 --> 00:01:34,260
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+958
+00:01:34,030 --> 00:01:34,260
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+959
+00:01:34,030 --> 00:01:34,260
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+960
+00:01:34,260 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+961
+00:01:34,260 --> 00:01:34,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+962
+00:01:34,260 --> 00:01:34,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+963
+00:01:34,260 --> 00:01:34,480
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+964
+00:01:34,480 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ta</font>
+
+965
+00:01:34,480 --> 00:01:34,690
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+966
+00:01:34,480 --> 00:01:34,690
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+967
+00:01:34,480 --> 00:01:34,690
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+968
+00:01:34,690 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ni</font>
+
+969
+00:01:34,690 --> 00:01:34,850
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+970
+00:01:34,690 --> 00:01:34,850
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+971
+00:01:34,690 --> 00:01:34,850
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+972
+00:01:34,850 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}chi</font>
+
+973
+00:01:34,850 --> 00:01:35,270
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+974
+00:01:34,850 --> 00:01:35,270
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+975
+00:01:34,850 --> 00:01:35,270
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+976
+00:01:35,270 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}jo</font>
+
+977
+00:01:35,270 --> 00:01:35,460
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+978
+00:01:35,270 --> 00:01:35,460
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+979
+00:01:35,270 --> 00:01:35,460
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+980
+00:01:35,460 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}u</font>
+
+981
+00:01:35,460 --> 00:01:35,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+982
+00:01:35,460 --> 00:01:35,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+983
+00:01:35,460 --> 00:01:35,670
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+984
+00:01:35,670 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+985
+00:01:35,670 --> 00:01:36,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+986
+00:01:35,670 --> 00:01:36,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+987
+00:01:35,670 --> 00:01:36,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+988
+00:01:36,030 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ri</font>
+
+989
+00:01:36,030 --> 00:01:36,400
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+990
+00:01:36,030 --> 00:01:36,400
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+991
+00:01:36,030 --> 00:01:36,400
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+992
+00:01:36,400 --> 00:01:36,780
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}mo</font>
+
+993
+00:01:36,400 --> 00:01:37,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+994
+00:01:36,400 --> 00:01:37,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+995
+00:01:36,400 --> 00:01:37,030
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+996
+00:01:36,780 --> 00:01:40,240
+<font color="#82fd87" face="Augie" size="30">corri verso il paradiso...</font>
+
+997
+00:01:36,780 --> 00:01:37,360
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+998
+00:01:36,780 --> 00:01:37,360
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+999
+00:01:36,780 --> 00:01:37,360
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1000
+00:01:36,830 --> 00:01:36,980
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}PA</font>
+
+1001
+00:01:36,830 --> 00:01:37,360
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}RA</font>
+
+1002
+00:01:36,830 --> 00:01:37,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}DISE</font>
+
+1003
+00:01:36,830 --> 00:01:38,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+1004
+00:01:36,830 --> 00:01:38,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}za</font>
+
+1005
+00:01:36,830 --> 00:01:38,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+1006
+00:01:36,830 --> 00:01:38,900
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+1007
+00:01:36,830 --> 00:01:39,100
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ah</font>
+
+1008
+00:01:36,830 --> 00:01:39,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+1009
+00:01:36,830 --> 00:01:39,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+1010
+00:01:36,980 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}PA</font>
+
+1011
+00:01:37,360 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}RA</font>
+
+1012
+00:01:37,360 --> 00:01:37,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1013
+00:01:37,360 --> 00:01:37,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1014
+00:01:37,360 --> 00:01:37,730
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1015
+00:01:37,730 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}DISE</font>
+
+1016
+00:01:37,730 --> 00:01:38,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1017
+00:01:37,730 --> 00:01:38,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1018
+00:01:37,730 --> 00:01:38,330
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1019
+00:01:38,330 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}io</font>
+
+1020
+00:01:38,330 --> 00:01:38,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1021
+00:01:38,330 --> 00:01:38,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1022
+00:01:38,330 --> 00:01:38,540
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1023
+00:01:38,540 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}za</font>
+
+1024
+00:01:38,540 --> 00:01:38,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1025
+00:01:38,540 --> 00:01:38,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1026
+00:01:38,540 --> 00:01:38,680
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1027
+00:01:38,680 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+1028
+00:01:38,680 --> 00:01:38,900
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1029
+00:01:38,680 --> 00:01:38,900
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1030
+00:01:38,680 --> 00:01:38,900
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1031
+00:01:38,900 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}te</font>
+
+1032
+00:01:38,900 --> 00:01:39,100
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1033
+00:01:38,900 --> 00:01:39,100
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1034
+00:01:38,900 --> 00:01:39,100
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1035
+00:01:39,100 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}ah</font>
+
+1036
+00:01:39,100 --> 00:01:39,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1037
+00:01:39,100 --> 00:01:39,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1038
+00:01:39,100 --> 00:01:39,290
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1039
+00:01:39,290 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}shi</font>
+
+1040
+00:01:39,290 --> 00:01:39,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1041
+00:01:39,290 --> 00:01:39,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1042
+00:01:39,290 --> 00:01:39,520
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1043
+00:01:39,520 --> 00:01:40,240
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}re</font>
+
+1044
+00:01:39,520 --> 00:01:40,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1045
+00:01:39,520 --> 00:01:40,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1046
+00:01:39,520 --> 00:01:40,490
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1047
+00:01:40,240 --> 00:01:45,910
+<font color="#82fd87" face="Augie" size="30">...e credi nel paese delle meraviglie!</font>
+
+1048
+00:01:40,270 --> 00:01:40,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1049
+00:01:40,270 --> 00:01:40,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1050
+00:01:40,270 --> 00:01:40,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1051
+00:01:40,320 --> 00:01:40,470
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Sii</font>
+
+1052
+00:01:40,320 --> 00:01:40,660
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}credi</font>
+
+1053
+00:01:40,320 --> 00:01:40,870
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+1054
+00:01:40,320 --> 00:01:41,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Ha vinto</font>
+
+1055
+00:01:40,320 --> 00:01:41,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}der</font>
+
+1056
+00:01:40,320 --> 00:01:42,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}terra!</font>
+
+1057
+00:01:40,470 --> 00:01:45,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Sii</font>
+
+1058
+00:01:40,660 --> 00:01:45,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}credi</font>
+
+1059
+00:01:40,660 --> 00:01:40,870
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1060
+00:01:40,660 --> 00:01:40,870
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1061
+00:01:40,660 --> 00:01:40,870
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1062
+00:01:40,870 --> 00:01:45,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}a</font>
+
+1063
+00:01:40,870 --> 00:01:41,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1064
+00:01:40,870 --> 00:01:41,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1065
+00:01:40,870 --> 00:01:41,250
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1066
+00:01:41,250 --> 00:01:45,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}Ha vinto</font>
+
+1067
+00:01:41,250 --> 00:01:41,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1068
+00:01:41,250 --> 00:01:41,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1069
+00:01:41,250 --> 00:01:41,840
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1070
+00:01:41,840 --> 00:01:45,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}der</font>
+
+1071
+00:01:41,840 --> 00:01:42,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1072
+00:01:41,840 --> 00:01:42,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1073
+00:01:41,840 --> 00:01:42,630
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1074
+00:01:42,630 --> 00:01:45,910
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}terra!</font>
+
+1075
+00:01:42,630 --> 00:01:46,160
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}S</font>
+
+1076
+00:01:42,630 --> 00:01:46,160
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}C</font>
+
+1077
+00:01:42,630 --> 00:01:46,160
+<font color="#80ff80" face="Brady Bunch Remastered" size="32">{\an8}F</font>
+
+1078
+00:01:49,920 --> 00:01:51,580
+<font color="#eaefec" face="International Playboy" size="36">Uno tsunami!</font>
+
+1079
+00:01:52,340 --> 00:01:53,740
+<font color="#e5d1b9" face="International Playboy" size="36">EHI? Cosa sta succedendo?</font>
+
+1080
+00:01:53,740 --> 00:01:55,220
+<font color="#eaefec" face="International Playboy" size="36">Sta arrivando uno tsunami!</font>
+
+1081
+00:01:55,220 --> 00:01:56,900
+<font color="#e5d1b9" face="International Playboy" size="36">Ehi, come va, Rufy?</font>
+
+1082
+00:01:56,900 --> 00:01:59,450
+<font color="#eaefec" face="International Playboy" size="36">Lo sapeva, non avrebbe dovuto farlo.</font>
+
+1083
+00:01:59,450 --> 00:02:01,040
+<font color="#eaefec" face="International Playboy" size="36">Che cosa?</font>
+
+1084
+00:02:01,040 --> 00:02:05,800
+<font color="#eaefec" face="International Playboy" size="36">Gli ho detto di non farlo, ma ha detto che aveva sete e non ce la faceva più.</font>
+
+1085
+00:02:05,800 --> 00:02:09,320
+<font color="#eaefec" face="International Playboy" size="36">Ha preso un morso
+un cactus che cresceva lì.</font>
+
+1086
+00:02:09,320 --> 00:02:10,670
+<font color="#eaefec" face="International Playboy" size="36">A un cactus?</font>
+
+1087
+00:02:10,670 --> 00:02:12,570
+<font color="#eaefec" face="International Playboy" size="36">Se quelli.</font>
+
+1088
+00:02:12,940 --> 00:02:14,360
+<font color="#eaefec" face="International Playboy" size="36">Quelle cose sferiche.</font>
+
+1089
+00:02:15,280 --> 00:02:17,650
+<font color="#eaefec" face="International Playboy" size="36">Oh no, non quelli!</font>
+
+1090
+00:02:17,650 --> 00:02:19,660
+<font color="#eaefec" face="International Playboy" size="36">Sono cactus mezcal!</font>
+
+1091
+00:02:19,660 --> 00:02:21,670
+<font color="#eaefec" face="International Playboy" size="36">Causano allucinazioni!</font>
+
+1092
+00:02:21,670 --> 00:02:22,750
+<font color="#eaefec" face="International Playboy" size="36">Quello?!</font>
+
+1093
+00:02:23,670 --> 00:02:25,400
+<font color="#eaefec" face="International Playboy" size="36">Oh no!</font>
+
+1094
+00:02:25,400 --> 00:02:27,160
+<font color="#eaefec" face="International Playboy" size="36">Stiamo per annegare!</font>
+
+1095
+00:02:27,160 --> 00:02:28,370
+<font color="#eaefec" face="International Playboy" size="36">Bene!</font>
+
+1096
+00:02:28,370 --> 00:02:30,300
+<font color="#eaefec" face="International Playboy" size="36">Vieni se hai coraggio!</font>
+
+1097
+00:02:30,300 --> 00:02:33,240
+<font color="#eaefec" face="International Playboy" size="36">Vi prenderò a calci in culo!</font>
+
+1098
+00:02:35,550 --> 00:02:37,220
+<font color="#eaefec" face="International Playboy" size="36">Questo non è buono!</font>
+
+1099
+00:02:37,220 --> 00:02:38,590
+<font color="#eaefec" face="International Playboy" size="36">Gomu gomu no...!</font>
+
+1100
+00:02:41,980 --> 00:02:43,170
+<font color="#eaefec" face="International Playboy" size="36">Anestesia!</font>
+
+1101
+00:02:43,170 --> 00:02:44,670
+<font color="#eaefec" face="International Playboy" size="36">Bel lavoro, Chopper!</font>
+
+1102
+00:02:45,010 --> 00:02:51,900
+<font color="#fefefe" face="Agency FB" size="42">Yuba, la città dei ribelli</font>
+
+1103
+00:02:45,010 --> 00:02:51,900
+<font color="#fefefe" face="Agency FB" size="42">Yuba, la città dei ribelli</font>
+
+1104
+00:02:46,100 --> 00:02:49,730
+<font color="#eaefec" face="International Playboy" size="36">Il piano inizierà entro
+ da due giorni a mezzogiorno.</font>
+
+1105
+00:02:49,730 --> 00:02:51,980
+<font color="#eaefec" face="International Playboy" size="36">Hai finito i preparativi?</font>
+
+1106
+00:02:51,980 --> 00:02:54,700
+<font color="#eaefec" face="International Playboy" size="36">Sì, senza alcun ritardo.</font>
+
+1107
+00:02:54,700 --> 00:02:59,150
+<font color="#eaefec" face="International Playboy" size="36">Centocinquanta miliardi lo sono
+ a Nanohana in attesa di ordini.</font>
+
+1108
+00:02:59,150 --> 00:03:01,990
+<font color="#eaefec" face="International Playboy" size="36">Abbiamo chiamato anche Mr. 2.</font>
+
+1109
+00:03:01,990 --> 00:03:06,120
+<font color="#eaefec" face="International Playboy" size="36">Sembra di no
+ è riuscito a catturare il signor 3.</font>
+
+1110
+00:03:07,270 --> 00:03:11,540
+<font color="#eaefec" face="International Playboy" size="36">Gli altri agenti ufficiali
+ Si incontreranno stasera...</font>
+
+1111
+00:03:11,540 --> 00:03:14,180
+<font color="#eaefec" face="International Playboy" size="36">...allo Spiders Café, alle otto.</font>
+
+1112
+00:03:16,660 --> 00:03:19,510
+<font color="#eaefec" face="International Playboy" size="36">Si Molto buono.</font>
+
+1113
+00:03:19,510 --> 00:03:22,510
+<font color="#eaefec" face="International Playboy" size="36">Sono già le cinque passate.</font>
+
+1114
+00:03:22,510 --> 00:03:26,470
+<font color="#eaefec" face="International Playboy" size="36">Immagino che inizieranno ad arrivare a breve.</font>
+
+1115
+00:03:44,330 --> 00:03:46,280
+<font color="#eaefec" face="International Playboy" size="36">Si si si SI!</font>
+
+1116
+00:03:46,280 --> 00:03:47,430
+<font color="#eaefec" face="International Playboy" size="36">Buon Chris...! Buon Chris...!</font>
+
+1117
+00:03:47,430 --> 00:03:48,700
+<font color="#eaefec" face="International Playboy" size="36">Il lungo viaggio mi ha stancato!</font>
+
+1118
+00:03:48,700 --> 00:03:50,670
+<font color="#eaefec" face="International Playboy" size="36">Mi fa male la schiena!</font>
+
+1119
+00:03:50,660 --> 00:03:55,170
+<font face="second breakfast" size="42">Signorina, buon Natale</font>
+
+1120
+00:03:50,660 --> 00:03:55,170
+<font face="second breakfast" size="42">Signorina, buon Natale</font>
+
+1121
+00:03:50,660 --> 00:03:51,250
+<font color="#eaefec" face="International Playboy" size="36">{\an8}Dannazione!</font>
+
+1122
+00:03:51,250 --> 00:03:52,900
+<font color="#eaefec" face="International Playboy" size="36">{\an8}È colpa tua, signor 4!</font>
+
+1123
+00:03:52,900 --> 00:03:55,170
+<font color="#eaefec" face="International Playboy" size="36">{\an8}La tua lentezza mi fa male alla schiena!</font>
+
+1124
+00:03:55,170 --> 00:04:01,630
+<font color="#eaefec" face="International Playboy" size="36">Mi dispiace.</font>
+
+1125
+00:04:00,780 --> 00:04:01,630
+<font color="#e5d1b9" face="International Playboy" size="36">Si si si SI!</font>
+
+1126
+00:04:01,630 --> 00:04:03,050
+<font color="#eaefec" face="International Playboy" size="36">Paula, come vanno gli affari?</font>
+
+1127
+00:04:03,050 --> 00:04:04,450
+<font color="#eaefec" face="International Playboy" size="36">Oggi il posto è vuoto.</font>
+
+1128
+00:04:04,450 --> 00:04:05,590
+<font color="#eaefec" face="International Playboy" size="36">Posto vuoto...</font>
+
+1129
+00:04:05,590 --> 00:04:06,100
+<font color="#eaefec" face="International Playboy" size="36">Lu... va...</font>
+
+1130
+00:04:06,100 --> 00:04:06,390
+<font color="#eaefec" face="International Playboy" size="36">Lu...</font>
+
+1131
+00:04:06,390 --> 00:04:08,120
+<font color="#eaefec" face="International Playboy" size="36">Wow... eh?!</font>
+
+1132
+00:04:08,120 --> 00:04:09,390
+<font color="#eaefec" face="International Playboy" size="36">Sono passati secoli dall'ultima volta che ti ho visto.</font>
+
+1133
+00:04:09,390 --> 00:04:13,090
+<font color="#eaefec" face="International Playboy" size="36">Benvenuto, signorina. Buon Natale, signor 4.</font>
+
+1134
+00:04:13,090 --> 00:04:22,860
+<font face="second breakfast" size="42">Paolo</font>
+
+1135
+00:04:13,090 --> 00:04:22,860
+<font face="second breakfast" size="42">Paolo</font>
+
+1136
+00:04:13,100 --> 00:04:16,260
+<font color="#eaefec" face="International Playboy" size="36">{\an8}Oggi ti hanno prenotato il caffè.</font>
+
+1137
+00:04:16,260 --> 00:04:19,070
+<font color="#eaefec" face="International Playboy" size="36">{\an8}Le bevande saranno un pekoe all'arancia...</font>
+
+1138
+00:04:19,070 --> 00:04:22,860
+<font color="#eaefec" face="International Playboy" size="36">{\an8}...e un tè alla mela per te, Mr. 4, giusto?</font>
+
+1139
+00:04:22,860 --> 00:04:24,490
+<font color="#eaefec" face="International Playboy" size="36">Niente di caldo!</font>
+
+1140
+00:04:24,490 --> 00:04:25,900
+<font color="#eaefec" face="International Playboy" size="36">Voglio qualcosa da bere subito!</font>
+
+1141
+00:04:25,900 --> 00:04:27,070
+<font color="#eaefec" face="International Playboy" size="36">Portalo velocemente!</font>
+
+1142
+00:04:27,070 --> 00:04:27,830
+<font color="#eaefec" face="International Playboy" size="36">Portalo!</font>
+
+1143
+00:04:27,830 --> 00:04:28,240
+<font color="#eaefec" face="International Playboy" size="36">Portalo!</font>
+
+1144
+00:04:28,240 --> 00:04:29,660
+<font color="#eaefec" face="International Playboy" size="36">Portalo!</font>
+
+1145
+00:04:29,660 --> 00:04:30,910
+<font color="#eaefec" face="International Playboy" size="36">Sembri molto animato.</font>
+
+1146
+00:04:30,910 --> 00:04:32,570
+<font color="#eaefec" face="International Playboy" size="36">Come va al lavoro?</font>
+
+1147
+00:04:32,570 --> 00:04:34,790
+<font color="#eaefec" face="International Playboy" size="36">È un lavoro dentro
+ quello che se fallisci, muori.</font>
+
+1148
+00:04:34,790 --> 00:04:35,950
+<font color="#eaefec" face="International Playboy" size="36">Naturalmente è perfetto.</font>
+
+1149
+00:04:35,950 --> 00:04:36,630
+<font color="#eaefec" face="International Playboy" size="36">Ritardato mentale!</font>
+
+1150
+00:04:36,630 --> 00:04:37,170
+<font color="#eaefec" face="International Playboy" size="36">Ritardato mentale!</font>
+
+1151
+00:04:37,170 --> 00:04:38,590
+<font color="#eaefec" face="International Playboy" size="36">Tonnellata...! Tonnellata...!</font>
+
+1152
+00:04:39,720 --> 00:04:41,090
+<font color="#eaefec" face="International Playboy" size="36">Hai ragione.</font>
+
+1153
+00:04:41,090 --> 00:04:42,430
+<font color="#eaefec" face="International Playboy" size="36">Mi dispiace.</font>
+
+1154
+00:04:42,430 --> 00:04:43,550
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Un, deux!</font>
+
+1155
+00:04:43,550 --> 00:04:44,570
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Prega!</font>
+
+1156
+00:04:44,570 --> 00:04:45,480
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Un, deux!</font>
+
+1157
+00:04:45,480 --> 00:04:46,260
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Kura!</font>
+
+1158
+00:04:46,260 --> 00:04:47,970
+<font color="#eaefec" face="International Playboy" size="36">Che diavolo è quello?</font>
+
+1159
+00:04:47,970 --> 00:04:51,930
+<font color="#eaefec" face="International Playboy" size="36">Questo posto adesso
+suona canzoni molto strane!</font>
+
+1160
+00:04:51,930 --> 00:04:52,810
+<font color="#eaefec" face="International Playboy" size="36">Canzoni?</font>
+
+1161
+00:04:52,810 --> 00:04:58,320
+<font color="#eaefec" face="International Playboy" size="36">No, quello che senti è
+ una sonata, non una canzone.</font>
+
+1162
+00:04:58,820 --> 00:05:00,040
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Un, deux!</font>
+
+1163
+00:05:00,040 --> 00:05:01,330
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Prega!</font>
+
+1164
+00:05:01,330 --> 00:05:02,510
+<font color="#eaefec" face="International Playboy" size="36">EHI?</font>
+
+1165
+00:05:02,510 --> 00:05:03,480
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Un, deux!</font>
+
+1166
+00:05:03,480 --> 00:05:04,500
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Kura!</font>
+
+1167
+00:05:04,500 --> 00:05:06,450
+<font color="#eaefec" face="International Playboy" size="36">Guarda la punta delle tue dita con il naso...</font>
+
+1168
+00:05:06,450 --> 00:05:07,400
+<font color="#eaefec" face="International Playboy" size="36">Un, deux!</font>
+
+1169
+00:05:07,400 --> 00:05:08,380
+<font color="#eaefec" face="International Playboy" size="36">Kura!</font>
+
+1170
+00:05:07,400 --> 00:05:08,380
+<font color="#e5d1b9" face="International Playboy" size="36">Kura!</font>
+
+1171
+00:05:08,380 --> 00:05:10,280
+<font color="#eaefec" face="International Playboy" size="36">Un calcio con le dita dei piedi
+ delle dita dei piedi.</font>
+
+1172
+00:05:10,280 --> 00:05:10,970
+<font color="#eaefec" face="International Playboy" size="36">Un, deux!</font>
+
+1173
+00:05:10,970 --> 00:05:12,120
+<font color="#eaefec" face="International Playboy" size="36">Pregare!</font>
+
+1174
+00:05:10,970 --> 00:05:12,120
+<font color="#e5d1b9" face="International Playboy" size="36">Pregare!</font>
+
+1175
+00:05:12,120 --> 00:05:13,580
+<font color="#eaefec" face="International Playboy" size="36">Da prima...</font>
+
+1176
+00:05:13,580 --> 00:05:16,120
+<font color="#eaefec" face="International Playboy" size="36">...di essere nato...</font>
+
+1177
+00:05:16,120 --> 00:05:16,920
+<font color="#eaefec" face="International Playboy" size="36">Lezione!</font>
+
+1178
+00:05:16,920 --> 00:05:19,000
+<font color="#eaefec" face="International Playboy" size="36">Lezione!</font>
+
+1179
+00:05:20,640 --> 00:05:23,170
+<font color="#eaefec" face="International Playboy" size="36">Amore e...</font>
+
+1180
+00:05:23,170 --> 00:05:25,630
+<font color="#eaefec" face="International Playboy" size="36">...maschera.</font>
+
+1181
+00:05:25,630 --> 00:05:30,130
+<font color="#eaefec" face="International Playboy" size="36">Maschera con sangue dal naso...</font>
+
+1182
+00:05:30,130 --> 00:05:35,100
+<font color="#eaefec" face="International Playboy" size="36">Sono l'artefice del mio successo!</font>
+
+1183
+00:05:35,100 --> 00:05:37,980
+<font color="#eaefec" face="International Playboy" size="36">COSÌ...!</font>
+
+1184
+00:05:37,980 --> 00:05:42,900
+<font color="#eaefec" face="International Playboy" size="36">Lezione!</font>
+
+1185
+00:05:39,310 --> 00:05:40,540
+<font color="#e5d1b9" face="International Playboy" size="36">Lezione!</font>
+
+1186
+00:05:41,600 --> 00:05:42,900
+<font color="#e5d1b9" face="International Playboy" size="36">Lezione!</font>
+
+1187
+00:05:42,900 --> 00:05:45,820
+<font color="#eaefec" face="International Playboy" size="36">Okama Way!</font>
+
+1188
+00:05:42,900 --> 00:05:45,820
+<font face="OP_Skull" size="19">{\an7}Bello</font>
+
+1189
+00:05:42,900 --> 00:05:45,820
+<font face="OP_Skull" size="22">{\an7}Shi</font>
+
+1190
+00:05:42,900 --> 00:05:45,820
+<font color="#ff9800" face="OP_Skull" size="23">{\an7}Chibukai</font>
+
+1191
+00:05:42,900 --> 00:05:45,820
+<font color="#c61b0d" face="OP_Skull" size="23">{\an7}Fansub!</font>
+
+1192
+00:05:42,900 --> 00:05:45,820
+<font color="#000000" face="Nina" size="20">{\an8}Il cammino del travestito.</font>
+
+1193
+00:05:46,230 --> 00:05:47,980
+<font color="#eaefec" face="International Playboy" size="36">E sorridi!</font>
+
+1194
+00:05:47,980 --> 00:05:49,400
+<font color="#eaefec" face="International Playboy" size="36">Ah, il migliore!</font>
+
+1195
+00:05:49,400 --> 00:05:52,580
+<font color="#eaefec" face="International Playboy" size="36">Il migliore!</font>
+
+1196
+00:05:52,580 --> 00:05:56,540
+<font color="#eaefec" face="International Playboy" size="36">Oh, vieni dalla mia parte!</font>
+
+1197
+00:05:52,580 --> 00:05:56,540
+<font color="#e5d1b9" face="International Playboy" size="36">Oh, vieni dalla mia parte!</font>
+
+1198
+00:06:01,880 --> 00:06:04,100
+<font color="#eaefec" face="International Playboy" size="36">Come stanno?!</font>
+
+1199
+00:06:04,100 --> 00:06:05,840
+<font color="#eaefec" face="International Playboy" size="36">Ultimamente...</font>
+
+1200
+00:06:05,840 --> 00:06:06,660
+<font color="#eaefec" face="International Playboy" size="36">Deux!</font>
+
+1201
+00:06:07,520 --> 00:06:08,920
+<font color="#eaefec" face="International Playboy" size="36">Sei un idiota?</font>
+
+1202
+00:06:09,610 --> 00:06:11,760
+<font color="#eaefec" face="International Playboy" size="36">Non sono un idiota, Paula!</font>
+
+1203
+00:06:11,760 --> 00:06:12,890
+<font color="#eaefec" face="International Playboy" size="36">Perché?</font>
+
+1204
+00:06:12,890 --> 00:06:15,080
+<font color="#eaefec" face="International Playboy" size="36">Perché sono una ballerina.</font>
+
+1205
+00:06:15,080 --> 00:06:16,900
+<font color="#eaefec" face="International Playboy" size="36">Fammi un takopa.</font>
+
+1206
+00:06:16,900 --> 00:06:17,770
+<font color="#eaefec" face="International Playboy" size="36">Un takopa?</font>
+
+1207
+00:06:17,770 --> 00:06:19,900
+<font color="#eaefec" face="International Playboy" size="36">Non si disturbi!</font>
+
+1208
+00:06:19,900 --> 00:06:21,110
+<font color="#eaefec" face="International Playboy" size="36">Un semifreddo tako.</font>
+
+1209
+00:06:21,110 --> 00:06:22,190
+<font color="#eaefec" face="International Playboy" size="36">Tutti sanno!</font>
+
+1210
+00:06:24,120 --> 00:06:25,530
+<font color="#eaefec" face="International Playboy" size="36">Ah, ragazzi.</font>
+
+1211
+00:06:25,530 --> 00:06:26,850
+<font color="#eaefec" face="International Playboy" size="36">Ora puoi andare.</font>
+
+1212
+00:06:26,850 --> 00:06:27,740
+<font color="#eaefec" face="International Playboy" size="36">Sì!</font>
+
+1213
+00:06:26,850 --> 00:06:27,740
+<font color="#e5d1b9" face="International Playboy" size="36">Sì!</font>
+
+1214
+00:06:27,740 --> 00:06:31,510
+<font color="#eaefec" face="International Playboy" size="36">Non dimenticare di esercitarti a ballare.</font>
+
+1215
+00:06:31,510 --> 00:06:32,410
+<font color="#eaefec" face="International Playboy" size="36">Sì!</font>
+
+1216
+00:06:31,510 --> 00:06:32,410
+<font color="#e5d1b9" face="International Playboy" size="36">Sì!</font>
+
+1217
+00:06:32,410 --> 00:06:34,700
+<font color="#eaefec" face="International Playboy" size="36">Un, deux!</font>
+
+1218
+00:06:32,410 --> 00:06:34,700
+<font color="#e5d1b9" face="International Playboy" size="36">Un, deux!</font>
+
+1219
+00:06:34,700 --> 00:06:35,540
+<font color="#eaefec" face="International Playboy" size="36">OH!</font>
+
+1220
+00:06:35,540 --> 00:06:37,960
+<font color="#eaefec" face="International Playboy" size="36">Grassa, vecchia signora, erano qui?!</font>
+
+1221
+00:06:37,960 --> 00:06:39,500
+<font color="#eaefec" face="International Playboy" size="36">Silenzio!</font>
+
+1222
+00:06:39,500 --> 00:06:42,460
+<font color="#eaefec" face="International Playboy" size="36">Stai zitto, fai così
+Mi fa male la schiena!</font>
+
+1223
+00:06:42,460 --> 00:06:44,380
+<font color="#eaefec" face="International Playboy" size="36">Ah sì sì!</font>
+
+1224
+00:06:44,380 --> 00:06:49,480
+<font color="#eaefec" face="International Playboy" size="36">Sembra che anche questa volta
+Il signor 1 e il suo partner verranno, giusto?</font>
+
+1225
+00:06:49,480 --> 00:06:53,220
+<font color="#eaefec" face="International Playboy" size="36">non li ho mai visti,</font>
+
+1226
+00:06:53,220 --> 00:06:54,810
+<font color="#eaefec" face="International Playboy" size="36">quindi sto morendo.</font>
+
+1227
+00:07:00,400 --> 00:07:02,810
+<font color="#eaefec" face="International Playboy" size="36">Voglio che tu lo abbia.</font>
+
+1228
+00:07:02,810 --> 00:07:03,680
+<font color="#eaefec" face="International Playboy" size="36">Prendere.</font>
+
+1229
+00:07:06,830 --> 00:07:09,700
+<font color="#eaefec" face="International Playboy" size="36">Salvatelo, sempre.</font>
+
+1230
+00:07:10,200 --> 00:07:12,290
+<font color="#eaefec" face="International Playboy" size="36">Quello? E' solo un pezzo di carta.</font>
+
+1231
+00:07:12,290 --> 00:07:13,240
+<font color="#eaefec" face="International Playboy" size="36">Ecco com'è.</font>
+
+1232
+00:07:13,240 --> 00:07:14,700
+<font color="#eaefec" face="International Playboy" size="36">Quel pezzo di carta...</font>
+
+1233
+00:07:14,700 --> 00:07:17,740
+<font color="#eaefec" face="International Playboy" size="36">...ci permetterà di incontrarci di nuovo.</font>
+
+1234
+00:07:18,850 --> 00:07:20,260
+<font color="#eaefec" face="International Playboy" size="36">Non lo vuoi?</font>
+
+1235
+00:07:20,790 --> 00:07:22,200
+<font color="#eaefec" face="International Playboy" size="36">Sì lo voglio.</font>
+
+1236
+00:07:22,200 --> 00:07:24,970
+<font color="#eaefec" face="International Playboy" size="36">Avere un fratello minore che è un po' lento...</font>
+
+1237
+00:07:26,280 --> 00:07:28,560
+<font color="#eaefec" face="International Playboy" size="36">...fa preoccupare suo fratello maggiore.</font>
+
+1238
+00:07:28,980 --> 00:07:32,590
+<font color="#eaefec" face="International Playboy" size="36">Probabilmente ti brucerai di nuovo le mani.</font>
+
+1239
+00:07:32,590 --> 00:07:34,180
+<font color="#eaefec" face="International Playboy" size="36">Prenditi cura di lui per me.</font>
+
+1240
+00:07:35,720 --> 00:07:38,430
+<font color="#eaefec" face="International Playboy" size="36">EHI? Te ne vai adesso?</font>
+
+1241
+00:07:41,270 --> 00:07:46,100
+<font color="#eaefec" face="International Playboy" size="36">Rufy, ci incontreremo di nuovo in cima al mondo dei pirati.</font>
+
+1242
+00:08:08,020 --> 00:08:10,690
+<font color="#eaefec" face="International Playboy" size="36">A proposito, Rufy,</font>
+
+1243
+00:08:10,690 --> 00:08:12,690
+<font color="#eaefec" face="International Playboy" size="36">cosa ti ha regalato tuo fratello?</font>
+
+1244
+00:08:12,690 --> 00:08:14,350
+<font color="#eaefec" face="International Playboy" size="36">Non ne ho idea.</font>
+
+1245
+00:08:14,910 --> 00:08:16,580
+<font color="#eaefec" face="International Playboy" size="36">È un semplice pezzo di carta.</font>
+
+1246
+00:08:16,580 --> 00:08:18,010
+<font color="#eaefec" face="International Playboy" size="36">Un semplice pezzo di carta?</font>
+
+1247
+00:08:18,030 --> 00:08:20,100
+<font color="#eaefec" face="International Playboy" size="36">Fammi vedere.</font>
+
+1248
+00:08:20,850 --> 00:08:23,270
+<font color="#eaefec" face="International Playboy" size="36">È davvero un semplice pezzo di carta.</font>
+
+1249
+00:08:23,270 --> 00:08:25,310
+<font color="#eaefec" face="International Playboy" size="36">Non ha nemmeno una nota.</font>
+
+1250
+00:08:27,420 --> 00:08:28,940
+<font color="#eaefec" face="International Playboy" size="36">E così?</font>
+
+1251
+00:08:30,430 --> 00:08:32,870
+<font color="#eaefec" face="International Playboy" size="36">non lo so neanche io...</font>
+
+1252
+00:08:36,680 --> 00:08:37,830
+<font color="#eaefec" face="International Playboy" size="36">Non mangiarlo!</font>
+
+1253
+00:08:39,000 --> 00:08:40,330
+<font color="#eaefec" face="International Playboy" size="36">Cieli...</font>
+
+1254
+00:08:40,330 --> 00:08:41,760
+<font color="#eaefec" face="International Playboy" size="36">Rufy, dammi il tuo cappello.</font>
+
+1255
+00:08:41,760 --> 00:08:42,790
+<font color="#eaefec" face="International Playboy" size="36">Questo?</font>
+
+1256
+00:08:42,790 --> 00:08:46,620
+<font color="#eaefec" face="International Playboy" size="36">Se è così importante, lo cucirò
+sul retro del nastro.</font>
+
+1257
+00:08:46,620 --> 00:08:48,090
+<font color="#eaefec" face="International Playboy" size="36">Oh per favore!</font>
+
+1258
+00:08:48,090 --> 00:08:48,760
+<font color="#eaefec" face="International Playboy" size="36">Cucilo bene.</font>
+
+1259
+00:08:48,760 --> 00:08:49,880
+<font color="#eaefec" face="International Playboy" size="36">Si si.</font>
+
+1260
+00:08:52,330 --> 00:08:53,760
+<font color="#eaefec" face="International Playboy" size="36">Ok, ho finito.</font>
+
+1261
+00:08:54,880 --> 00:08:55,720
+<font color="#eaefec" face="International Playboy" size="36">Ecco qua.</font>
+
+1262
+00:08:55,720 --> 00:08:56,970
+<font color="#eaefec" face="International Playboy" size="36">Grazie!</font>
+
+1263
+00:08:56,970 --> 00:08:58,680
+<font color="#eaefec" face="International Playboy" size="36">In questo modo sarò più tranquillo.</font>
+
+1264
+00:08:58,680 --> 00:09:00,470
+<font color="#eaefec" face="International Playboy" size="36">Non ha nulla di scritto.</font>
+
+1265
+00:09:00,470 --> 00:09:02,390
+<font color="#eaefec" face="International Playboy" size="36">A cosa serve se lo tieni?</font>
+
+1266
+00:09:02,900 --> 00:09:06,820
+<font color="#eaefec" face="International Playboy" size="36">Ace ha detto di salvarlo
+ed è quello che ho intenzione di fare!</font>
+
+1267
+00:09:06,820 --> 00:09:09,730
+<font color="#eaefec" face="International Playboy" size="36">La tua fiducia non ha basi.</font>
+
+1268
+00:09:09,730 --> 00:09:10,730
+<font color="#eaefec" face="International Playboy" size="36">E?</font>
+
+1269
+00:09:10,730 --> 00:09:11,610
+<font color="#eaefec" face="International Playboy" size="36">Di solito lo faccio bene.</font>
+
+1270
+00:09:11,610 --> 00:09:12,990
+<font color="#eaefec" face="International Playboy" size="36">Veramente?</font>
+
+1271
+00:09:11,610 --> 00:09:12,990
+<font color="#e5d1b9" face="International Playboy" size="36">Veramente?</font>
+
+1272
+00:09:12,990 --> 00:09:14,610
+<font color="#eaefec" face="International Playboy" size="36">Zoro, portami.</font>
+
+1273
+00:09:16,740 --> 00:09:18,660
+<font color="#eaefec" face="International Playboy" size="36">Ah...</font>
+
+1274
+00:09:18,660 --> 00:09:20,160
+<font color="#eaefec" face="International Playboy" size="36">La notte...</font>
+
+1275
+00:09:20,160 --> 00:09:21,710
+<font color="#eaefec" face="International Playboy" size="36">...cade a poco a poco...</font>
+
+1276
+00:09:22,540 --> 00:09:25,160
+<font color="#eaefec" face="International Playboy" size="36">È quasi l'orario concordato,
+ otto in punto.</font>
+
+1277
+00:09:34,830 --> 00:09:36,890
+<font color="#eaefec" face="International Playboy" size="36">Ah, non ho niente da fare!</font>
+
+1278
+00:09:39,340 --> 00:09:41,850
+<font color="#eaefec" face="International Playboy" size="36">Ho così tanto tempo libero
+farò un giro!</font>
+
+1279
+00:09:41,850 --> 00:09:45,040
+<font color="#eaefec" face="International Playboy" size="36">Penso che farò un giro!</font>
+
+1280
+00:09:45,040 --> 00:09:47,110
+<font color="#eaefec" face="International Playboy" size="36">Sei disgustoso, fermati!</font>
+
+1281
+00:09:47,110 --> 00:09:48,900
+<font color="#eaefec" face="International Playboy" size="36">Che cosa hai detto, vecchia?</font>
+
+1282
+00:09:48,900 --> 00:09:50,610
+<font color="#eaefec" face="International Playboy" size="36">Vuoi combattere?!</font>
+
+1283
+00:09:50,610 --> 00:09:52,190
+<font color="#eaefec" face="International Playboy" size="36">Se questo è quello che vuoi...</font>
+
+1284
+00:09:52,620 --> 00:09:53,570
+<font color="#eaefec" face="International Playboy" size="36">Aspettare!</font>
+
+1285
+00:09:53,570 --> 00:09:56,160
+<font color="#eaefec" face="International Playboy" size="36">Voi due dovreste calmarvi.</font>
+
+1286
+00:10:07,720 --> 00:10:10,210
+<font color="#eaefec" face="International Playboy" size="36">W-cosa vi è successo ragazzi?!</font>
+
+1287
+00:10:10,210 --> 00:10:12,370
+<font color="#eaefec" face="International Playboy" size="36">Perché hanno fatto irruzione nel bar?</font>
+
+1288
+00:10:12,370 --> 00:10:14,170
+<font color="#eaefec" face="International Playboy" size="36">N-No, quel ragazzo...</font>
+
+1289
+00:10:15,480 --> 00:10:16,550
+<font color="#eaefec" face="International Playboy" size="36">Quello?</font>
+
+1290
+00:10:16,550 --> 00:10:18,600
+<font color="#eaefec" face="International Playboy" size="36">Erano tuoi conoscenti?</font>
+
+1291
+00:10:20,980 --> 00:10:24,260
+<font color="#eaefec" face="International Playboy" size="36">Hanno fatto movimenti sospetti nel deserto.</font>
+
+1292
+00:10:24,910 --> 00:10:25,890
+<font color="#eaefec" face="International Playboy" size="36">Quello?</font>
+
+1293
+00:10:25,890 --> 00:10:27,800
+<font color="#eaefec" face="International Playboy" size="36">Non sono morti...</font>
+
+1294
+00:10:27,800 --> 00:10:31,310
+<font color="#eaefec" face="International Playboy" size="36">Sembra che vadano molto d'accordo,</font>
+
+1295
+00:10:31,310 --> 00:10:33,940
+<font color="#eaefec" face="International Playboy" size="36">{\an8}ma le relazioni assurde portano solo alla rovina.</font>
+
+1296
+00:10:34,860 --> 00:10:36,440
+<font color="#eaefec" face="International Playboy" size="36">Sono i miei uomini!</font>
+
+1297
+00:10:36,440 --> 00:10:38,310
+<font color="#eaefec" face="International Playboy" size="36">Fermati, signor 2!</font>
+
+1298
+00:10:38,740 --> 00:10:39,910
+<font color="#eaefec" face="International Playboy" size="36">Kura!</font>
+
+1299
+00:10:40,720 --> 00:10:42,700
+<font color="#eaefec" face="International Playboy" size="36">Un, Deux!</font>
+
+1300
+00:10:42,700 --> 00:10:43,320
+<font color="#eaefec" face="International Playboy" size="36">Kura!</font>
+
+1301
+00:10:44,950 --> 00:10:46,500
+<font color="#eaefec" face="International Playboy" size="36">Un, Deux!</font>
+
+1302
+00:10:46,500 --> 00:10:47,620
+<font color="#eaefec" face="International Playboy" size="36">Pregare!</font>
+
+1303
+00:10:51,450 --> 00:10:53,200
+<font color="#eaefec" face="International Playboy" size="36">Cambiamento audace!</font>
+
+1304
+00:10:51,450 --> 00:10:54,100
+<font face="OP_Skull" size="19">{\an7}Bello</font>
+
+1305
+00:10:51,450 --> 00:10:54,100
+<font face="OP_Skull" size="22">{\an7}Shi</font>
+
+1306
+00:10:51,450 --> 00:10:54,100
+<font color="#ff9800" face="OP_Skull" size="23">{\an7}Chibukai</font>
+
+1307
+00:10:51,450 --> 00:10:54,100
+<font color="#c61b0d" face="OP_Skull" size="23">{\an7}Fansub!</font>
+
+1308
+00:10:51,450 --> 00:10:54,100
+<font color="#000000" face="Nina" size="20">{\an8}Cambiamento intenso.</font>
+
+1309
+00:10:53,200 --> 00:10:54,670
+<font color="#eaefec" face="International Playboy" size="36">Un, Deux!</font>
+
+1310
+00:11:02,460 --> 00:11:04,050
+<font color="#eaefec" face="International Playboy" size="36">Quello?!</font>
+
+1311
+00:11:04,050 --> 00:11:06,010
+<font color="#eaefec" face="International Playboy" size="36">Ha attraversato il muro con facilità!</font>
+
+1312
+00:11:06,010 --> 00:11:08,180
+<font color="#eaefec" face="International Playboy" size="36">No, ha rotto il muro?!</font>
+
+1313
+00:11:10,830 --> 00:11:12,770
+<font color="#eaefec" face="International Playboy" size="36">Sembra che tu voglia morire...</font>
+
+1314
+00:11:13,940 --> 00:11:14,980
+<font color="#eaefec" face="International Playboy" size="36">Aspettare!</font>
+
+1315
+00:11:14,980 --> 00:11:17,100
+<font color="#eaefec" face="International Playboy" size="36">Basta, signor 1.</font>
+
+1316
+00:11:17,100 --> 00:11:19,860
+<font color="#eaefec" face="International Playboy" size="36">Non fermarmi, signorina Doublefinger.</font>
+
+1317
+00:11:19,860 --> 00:11:22,070
+<font color="#eaefec" face="International Playboy" size="36">Lo ucciderò.</font>
+
+1318
+00:11:22,520 --> 00:11:23,780
+<font color="#eaefec" face="International Playboy" size="36">Oh aspetta!</font>
+
+1319
+00:11:23,780 --> 00:11:25,080
+<font color="#eaefec" face="International Playboy" size="36">Fermati, lasciami andare!</font>
+
+1320
+00:11:25,080 --> 00:11:28,020
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}Grasso!</font>
+
+1321
+00:11:25,670 --> 00:11:28,020
+<font color="#eaefec" face="International Playboy" size="36">Signor 2, calmati anche tu.</font>
+
+1322
+00:11:28,550 --> 00:11:30,660
+<font color="#eaefec" face="International Playboy" size="36">Sono le otto in punto.</font>
+
+1323
+00:11:30,660 --> 00:11:33,790
+<font color="#eaefec" face="International Playboy" size="36">Tutti gli agenti
+i convocati si sono riuniti.</font>
+
+1324
+00:11:34,420 --> 00:11:39,050
+<font color="#eaefec" face="International Playboy" size="36">È già arrivata una lettera
+ con ordini allo Spiders Café.</font>
+
+1325
+00:11:41,530 --> 00:11:45,720
+<font color="#eaefec" face="International Playboy" size="36">Dobbiamo andare a Rainbase, la città dei sogni.</font>
+
+1326
+00:11:45,720 --> 00:11:51,060
+<font color="#eaefec" face="International Playboy" size="36">L'uomo che chiamiamo capo
+ e di cui non abbiamo mai visto il volto...</font>
+
+1327
+00:11:56,080 --> 00:11:57,870
+<font color="#eaefec" face="International Playboy" size="36">...ci aspetta lì.</font>
+
+1328
+00:12:05,470 --> 00:12:09,870
+<font color="#eaefec" face="International Playboy" size="36">Devono essere già in viaggio per questa città, Rainbase.</font>
+
+1329
+00:12:12,530 --> 00:12:14,790
+<font color="#eaefec" face="International Playboy" size="36">Ho mandato Banchi a prenderli,</font>
+
+1330
+00:12:14,790 --> 00:12:17,330
+<font color="#eaefec" face="International Playboy" size="36">quindi devono arrivare
+ durante la notte.</font>
+
+1331
+00:12:22,130 --> 00:12:26,810
+<font color="#eaefec" face="International Playboy" size="36">Chi l'avrebbe mai detto?
+Eri la signorina Doppiodito...</font>
+
+1332
+00:12:26,810 --> 00:12:32,680
+<font face="second breakfast" size="42">La signorina Doppiodito</font>
+
+1333
+00:12:26,810 --> 00:12:32,680
+<font face="second breakfast" size="42">La signorina Doppiodito</font>
+
+1334
+00:12:28,670 --> 00:12:32,680
+<font color="#eaefec" face="International Playboy" size="36">{\an8}Non ricordo di averti detto il contrario.</font>
+
+1335
+00:12:33,200 --> 00:12:37,650
+<font color="#eaefec" face="International Playboy" size="36">Sono i sostituti per il
+ miliardi che furono sconfitti a Nanohana?</font>
+
+1336
+00:12:38,350 --> 00:12:40,540
+<font color="#eaefec" face="International Playboy" size="36">Ho finito di assegnarli.</font>
+
+1337
+00:12:41,480 --> 00:12:47,370
+<font color="#eaefec" face="International Playboy" size="36">Ho inviato i Corridori Erimaki per contattare i nuovi miliardi.</font>
+
+1338
+00:12:53,670 --> 00:12:55,210
+<font color="#eaefec" face="International Playboy" size="36">Vedo...</font>
+
+1339
+00:12:55,210 --> 00:12:57,460
+<font color="#eaefec" face="International Playboy" size="36">Sta andando tutto bene.</font>
+
+1340
+00:13:01,920 --> 00:13:03,010
+<font color="#eaefec" face="International Playboy" size="36">Laggiù!</font>
+
+1341
+00:13:03,010 --> 00:13:04,850
+<font color="#eaefec" face="International Playboy" size="36">Vedo la luce!</font>
+
+1342
+00:13:04,850 --> 00:13:06,760
+<font color="#eaefec" face="International Playboy" size="36">Siamo già a Yuba?</font>
+
+1343
+00:13:06,760 --> 00:13:09,640
+<font color="#eaefec" face="International Playboy" size="36">Con così tanta sabbia è difficile dirlo.</font>
+
+1344
+00:13:10,270 --> 00:13:12,600
+<font color="#eaefec" face="International Playboy" size="36">Quale sarà questo suono?</font>
+
+1345
+00:13:14,590 --> 00:13:16,350
+<font color="#eaefec" face="International Playboy" size="36">Qualcosa di strano sta accadendo in città!</font>
+
+1346
+00:13:23,820 --> 00:13:25,200
+<font color="#eaefec" face="International Playboy" size="36">Una tempesta di sabbia!</font>
+
+1347
+00:13:28,410 --> 00:13:31,330
+<font color="#eaefec" face="International Playboy" size="36">Una tempesta di sabbia sta attaccando Yuba City!</font>
+
+1348
+00:13:46,720 --> 00:13:48,390
+<font color="#eaefec" face="International Playboy" size="36">Non può proprio essere...</font>
+
+1349
+00:13:48,770 --> 00:13:57,360
+<font face="second breakfast" size="42">Regno di Alabasta
+Yuba, Oasi</font>
+
+1350
+00:13:48,770 --> 00:13:57,360
+<font face="second breakfast" size="42">Regno di Alabasta
+Yuba, Oasi</font>
+
+1351
+00:13:51,400 --> 00:13:53,390
+<font color="#eaefec" face="International Playboy" size="36">{\an8}Quanto sembra brutto.</font>
+
+1352
+00:13:53,390 --> 00:13:56,240
+<font color="#eaefec" face="International Playboy" size="36">{\an8}Non c'è molta differenza con Erumalu.</font>
+
+1353
+00:13:58,500 --> 00:13:59,740
+<font color="#eaefec" face="International Playboy" size="36">E l'acqua?</font>
+
+1354
+00:14:00,460 --> 00:14:03,320
+<font color="#eaefec" face="International Playboy" size="36">Questa città non doveva essere un'oasi, Vivi-chan?</font>
+
+1355
+00:14:03,320 --> 00:14:06,400
+<font color="#eaefec" face="International Playboy" size="36">La sabbia ha alzato il livello del suolo...</font>
+
+1356
+00:14:06,400 --> 00:14:08,950
+<font color="#eaefec" face="International Playboy" size="36">...e l'oasi fu sepolta.</font>
+
+1357
+00:14:14,510 --> 00:14:16,500
+<font color="#eaefec" face="International Playboy" size="36">Viaggiatori, eh?</font>
+
+1358
+00:14:17,490 --> 00:14:21,790
+<font color="#eaefec" face="International Playboy" size="36">Devono essere stanchi
+ il suo viaggio attraverso il deserto.</font>
+
+1359
+00:14:23,190 --> 00:14:27,760
+<font color="#eaefec" face="International Playboy" size="36">Mi dispiace, ma questa città è un po' appassita.</font>
+
+1360
+00:14:28,980 --> 00:14:32,140
+<font color="#eaefec" face="International Playboy" size="36">Puoi riposarti qui se vuoi.</font>
+
+1361
+00:14:34,850 --> 00:14:37,350
+<font color="#eaefec" face="International Playboy" size="36">Ci sono molti posti dove stare.</font>
+
+1362
+00:14:34,850 --> 00:14:42,240
+<font face="second breakfast" size="42">Un uomo di Yuba, Toto</font>
+
+1363
+00:14:34,850 --> 00:14:42,240
+<font face="second breakfast" size="42">Un uomo di Yuba, Toto</font>
+
+1364
+00:14:37,350 --> 00:14:42,230
+<font color="#eaefec" face="International Playboy" size="36">{\an8}Dopotutto è proprio così
+ l'orgoglio di questa città.</font>
+
+1365
+00:14:42,740 --> 00:14:43,860
+<font color="#eaefec" face="International Playboy" size="36">Scusa...</font>
+
+1366
+00:14:43,860 --> 00:14:47,190
+<font color="#eaefec" face="International Playboy" size="36">Lo abbiamo sentito qui
+trova l'esercito ribelle...</font>
+
+1367
+00:14:47,770 --> 00:14:50,110
+<font color="#eaefec" face="International Playboy" size="36">Che importanza hai?
+ con l'esercito ribelle?!</font>
+
+1368
+00:14:50,110 --> 00:14:55,790
+<font color="#eaefec" face="International Playboy" size="36">Non pensare nemmeno di dirmelo
+che stanno pensando di unirsi a loro!</font>
+
+1369
+00:14:50,110 --> 00:14:55,790
+<font color="#e5d1b9" face="International Playboy" size="36">{\an8}H-Ehi, s-basta!</font>
+
+1370
+00:14:59,660 --> 00:15:04,420
+<font color="#eaefec" face="International Playboy" size="36">Non più quegli idioti.
+Sono in questa città.</font>
+
+1371
+00:15:04,420 --> 00:15:07,270
+<font color="#eaefec" face="International Playboy" size="36">Cos'hai detto?!</font>
+
+1372
+00:15:07,270 --> 00:15:08,920
+<font color="#eaefec" face="International Playboy" size="36">Non può essere!</font>
+
+1373
+00:15:09,680 --> 00:15:13,930
+<font color="#eaefec" face="International Playboy" size="36">una tempesta di sabbia
+ sono appena passato per la città,</font>
+
+1374
+00:15:13,930 --> 00:15:16,530
+<font color="#eaefec" face="International Playboy" size="36">ma non è il primo.</font>
+
+1375
+00:15:16,530 --> 00:15:21,320
+<font color="#eaefec" face="International Playboy" size="36">Questi tre anni di siccità
+ Hanno fatto seccare la sabbia.</font>
+
+1376
+00:15:21,320 --> 00:15:25,920
+<font color="#eaefec" face="International Playboy" size="36">E le tempeste di sabbia attaccano spesso questa città.</font>
+
+1377
+00:15:25,920 --> 00:15:33,280
+<font color="#eaefec" face="International Playboy" size="36">A poco a poco l'oasi del passato fu sepolta e finì così.</font>
+
+1378
+00:15:33,280 --> 00:15:37,000
+<font color="#eaefec" face="International Playboy" size="36">Ora che il flusso di rifornimenti della città è scomparso,</font>
+
+1379
+00:15:37,000 --> 00:15:40,620
+<font color="#eaefec" face="International Playboy" size="36">Né la guerra di logoramento dei ribelli poteva continuare.</font>
+
+1380
+00:15:40,620 --> 00:15:45,750
+<font color="#eaefec" face="International Playboy" size="36">Il quartier generale dell'Esercito Ribelle si trova ora a Katorea.</font>
+
+1381
+00:15:46,340 --> 00:15:48,180
+<font color="#eaefec" face="International Playboy" size="36">A Katorea?!</font>
+
+1382
+00:15:48,180 --> 00:15:49,460
+<font color="#eaefec" face="International Playboy" size="36">Dov'è, Vivi?!</font>
+
+1383
+00:15:49,460 --> 00:15:51,450
+<font color="#eaefec" face="International Playboy" size="36">Katorea è nelle vicinanze?</font>
+
+1384
+00:15:51,450 --> 00:15:54,130
+<font color="#eaefec" face="International Playboy" size="36">È l'oasi che è
+accanto a Nanohana.</font>
+
+1385
+00:15:54,660 --> 00:15:58,230
+<font color="#eaefec" face="International Playboy" size="36">Perché siamo venuti qui?</font>
+
+1386
+00:15:58,710 --> 00:16:00,120
+<font color="#eaefec" face="International Playboy" size="36">Vivere...</font>
+
+1387
+00:16:00,120 --> 00:16:01,770
+<font color="#eaefec" face="International Playboy" size="36">La chiamavi Vivi...</font>
+
+1388
+00:16:01,770 --> 00:16:03,270
+<font color="#eaefec" face="International Playboy" size="36">Ehi, vecchio!</font>
+
+1389
+00:16:03,270 --> 00:16:04,440
+<font color="#eaefec" face="International Playboy" size="36">Vivi non è la principessa!</font>
+
+1390
+00:16:04,440 --> 00:16:05,400
+<font color="#eaefec" face="International Playboy" size="36">Non dirlo, idiota!</font>
+
+1391
+00:16:07,720 --> 00:16:09,110
+<font color="#eaefec" face="International Playboy" size="36">Sei Vivi-chan?</font>
+
+1392
+00:16:09,110 --> 00:16:11,710
+<font color="#eaefec" face="International Playboy" size="36">Sei tu?</font>
+
+1393
+00:16:11,710 --> 00:16:13,320
+<font color="#eaefec" face="International Playboy" size="36">Sei vivo, eh?</font>
+
+1394
+00:16:13,320 --> 00:16:15,870
+<font color="#eaefec" face="International Playboy" size="36">Eccellente!</font>
+
+1395
+00:16:15,870 --> 00:16:17,280
+<font color="#eaefec" face="International Playboy" size="36">Sono io.</font>
+
+1396
+00:16:17,280 --> 00:16:19,380
+<font color="#eaefec" face="International Playboy" size="36">Non mi riconosci?</font>
+
+1397
+00:16:19,940 --> 00:16:21,960
+<font color="#eaefec" face="International Playboy" size="36">Non sono sorpreso...</font>
+
+1398
+00:16:21,960 --> 00:16:23,950
+<font color="#eaefec" face="International Playboy" size="36">Ho perso un po' di peso...</font>
+
+1399
+00:16:24,600 --> 00:16:26,220
+<font color="#eaefec" face="International Playboy" size="36">Zio Totò...</font>
+
+1400
+00:16:27,670 --> 00:16:29,420
+<font color="#eaefec" face="International Playboy" size="36">Sì.</font>
+
+1401
+00:16:29,420 --> 00:16:31,630
+<font color="#eaefec" face="International Playboy" size="36">Ecco com'è.</font>
+
+1402
+00:16:42,360 --> 00:16:43,890
+<font color="#212222" face="International Playboy" size="36">Ci vediamo, Vivi-chan.</font>
+
+1403
+00:16:43,890 --> 00:16:45,980
+<font color="#212222" face="International Playboy" size="36">Anche se non ci vedremo per un po'.</font>
+
+1404
+00:16:45,980 --> 00:16:49,560
+<font color="#212222" face="International Playboy" size="36">Vieni a trovarci quando
+la città ha preso forma!</font>
+
+1405
+00:16:49,560 --> 00:16:51,570
+<font color="#212222" face="International Playboy" size="36">Sì, zio Totò!</font>
+
+1406
+00:16:53,930 --> 00:16:57,900
+<font color="#212222" face="International Playboy" size="36">Yuba contribuirà sicuramente a rendere questo paese più ricco.</font>
+
+1407
+00:17:01,160 --> 00:17:02,160
+<font color="#212222" face="International Playboy" size="36">Certamente.</font>
+
+1408
+00:17:12,020 --> 00:17:14,290
+<font color="#eaefec" face="International Playboy" size="36">Zio Totò?</font>
+
+1409
+00:17:14,290 --> 00:17:17,260
+<font color="#eaefec" face="International Playboy" size="36">Vivi-chan, io...</font>
+
+1410
+00:17:17,260 --> 00:17:20,140
+<font color="#eaefec" face="International Playboy" size="36">...Io credo nel re.</font>
+
+1411
+00:17:22,600 --> 00:17:27,310
+<font color="#eaefec" face="International Playboy" size="36">Non tradirebbe mai questo Paese.</font>
+
+1412
+00:17:27,310 --> 00:17:28,850
+<font color="#eaefec" face="International Playboy" size="36">VERO?</font>
+
+1413
+00:17:58,910 --> 00:18:01,560
+<font color="#eaefec" face="International Playboy" size="36">Questa ribellione è una sciocchezza!</font>
+
+1414
+00:18:03,020 --> 00:18:05,340
+<font color="#eaefec" face="International Playboy" size="36">Quegli idioti...</font>
+
+1415
+00:18:05,870 --> 00:18:09,840
+<font color="#212222" face="International Playboy" size="36">Vivi, diventa una grande principessa!</font>
+
+1416
+00:18:20,370 --> 00:18:25,250
+<font face="second breakfast" size="42">Undici anni fa - Regno di Alabasta</font>
+
+1417
+00:18:20,370 --> 00:18:25,250
+<font face="second breakfast" size="42">Undici anni fa - Regno di Alabasta</font>
+
+1418
+00:18:42,940 --> 00:18:44,180
+<font color="#212222" face="International Playboy" size="36">Il nostro villaggio...</font>
+
+1419
+00:18:44,180 --> 00:18:45,890
+<font color="#212222" face="International Playboy" size="36">Il nostro villaggio è appassito.</font>
+
+1420
+00:18:45,310 --> 00:18:48,440
+<font face="second breakfast" size="42">Un ragazzo di provincia, Koza</font>
+
+1421
+00:18:45,310 --> 00:18:48,440
+<font face="second breakfast" size="42">Un ragazzo di provincia, Koza</font>
+
+1422
+00:18:45,890 --> 00:18:48,440
+<font color="#212222" face="International Playboy" size="36">Perché non è venuto a salvarla?!</font>
+
+1423
+00:18:48,900 --> 00:18:52,200
+<font color="#212222" face="International Playboy" size="36">Il tempo è qualcosa che
+ corrisponde a Dio.</font>
+
+1424
+00:18:52,200 --> 00:18:57,740
+<font color="#212222" face="International Playboy" size="36">Potrei essere re, ma non posso fare nulla contro il potere della natura.</font>
+
+1425
+00:18:58,240 --> 00:19:02,080
+<font color="#212222" face="International Playboy" size="36">Ma mio padre diceva che il re poteva fare qualsiasi cosa!</font>
+
+1426
+00:19:02,080 --> 00:19:06,460
+<font color="#212222" face="International Playboy" size="36">Posso fare solo ciò che può fare qualsiasi essere umano.</font>
+
+1427
+00:19:06,460 --> 00:19:07,330
+<font color="#212222" face="International Playboy" size="36">Sua Maestà!</font>
+
+1428
+00:19:07,330 --> 00:19:09,540
+<font color="#212222" face="International Playboy" size="36">Il padre di questo ragazzo
+è venuto al palazzo.</font>
+
+1429
+00:19:09,540 --> 00:19:11,370
+<font color="#212222" face="International Playboy" size="36">Ma che mancanza di educazione!</font>
+
+1430
+00:19:11,370 --> 00:19:16,340
+<font color="#212222" face="International Playboy" size="36">{\an8}Vostra Maestà, mi assumerò la responsabilità di ciò che ha fatto mio figlio!</font>
+
+1431
+00:19:12,550 --> 00:19:16,340
+<font face="second breakfast" size="42">Il padre del ragazzo, Totò
+ (L'uomo di Yuba)</font>
+
+1432
+00:19:12,550 --> 00:19:16,340
+<font face="second breakfast" size="42">Il padre del ragazzo, Totò
+ (L'uomo di Yuba)</font>
+
+1433
+00:19:16,340 --> 00:19:19,920
+<font color="#212222" face="International Playboy" size="36">Accetterò qualsiasi punizione!</font>
+
+1434
+00:19:19,920 --> 00:19:21,300
+<font color="#212222" face="International Playboy" size="36">Ti scongiuro!</font>
+
+1435
+00:19:21,300 --> 00:19:23,670
+<font color="#212222" face="International Playboy" size="36">Non posso credere a questo idiota...!</font>
+
+1436
+00:19:23,670 --> 00:19:29,230
+<font color="#212222" face="International Playboy" size="36">Ritardato mentale!</font>
+
+1437
+00:19:29,230 --> 00:19:32,440
+<font color="#212222" face="International Playboy" size="36">Il tuo nome è Totò, vero?</font>
+
+1438
+00:19:32,440 --> 00:19:33,480
+<font color="#212222" face="International Playboy" size="36">Sì!</font>
+
+1439
+00:19:33,480 --> 00:19:36,750
+<font color="#212222" face="International Playboy" size="36">Questa volta garantiremo temporaneamente il sostentamento degli abitanti del villaggio...</font>
+
+1440
+00:19:36,750 --> 00:19:39,450
+<font color="#212222" face="International Playboy" size="36">...colpito dalla siccità.</font>
+
+1441
+00:19:39,450 --> 00:19:44,910
+<font color="#212222" face="International Playboy" size="36">Rimarranno qui, ad Alubarna, e penseranno al loro futuro.</font>
+
+1442
+00:19:44,910 --> 00:19:46,740
+<font color="#212222" face="International Playboy" size="36">Che benevolenza!</font>
+
+1443
+00:19:46,740 --> 00:19:48,490
+<font color="#212222" face="International Playboy" size="36">Grazie mille!</font>
+
+1444
+00:19:48,490 --> 00:19:50,580
+<font color="#212222" face="International Playboy" size="36">Grazie!</font>
+
+1445
+00:19:51,500 --> 00:19:52,500
+<font color="#212222" face="International Playboy" size="36">Che diavolo?!</font>
+
+1446
+00:19:52,500 --> 00:19:55,290
+<font color="#212222" face="International Playboy" size="36">Non capisce affatto
+i sentimenti degli abitanti del villaggio!</font>
+
+1447
+00:19:55,810 --> 00:19:56,710
+<font color="#212222" face="International Playboy" size="36">Ehi Koza!</font>
+
+1448
+00:19:56,710 --> 00:19:58,300
+<font color="#212222" face="International Playboy" size="36">Aspettare!</font>
+
+1449
+00:20:00,470 --> 00:20:01,540
+<font color="#212222" face="International Playboy" size="36">Totò...</font>
+
+1450
+00:20:01,540 --> 00:20:02,680
+<font color="#212222" face="International Playboy" size="36">Sì!</font>
+
+1451
+00:20:03,800 --> 00:20:05,890
+<font color="#212222" face="International Playboy" size="36">E' un bravo ragazzo.</font>
+
+1452
+00:20:05,890 --> 00:20:08,640
+<font color="#212222" face="International Playboy" size="36">Ha parlato del
+sentimenti degli abitanti del villaggio...</font>
+
+1453
+00:20:08,640 --> 00:20:14,600
+<font color="#212222" face="International Playboy" size="36">È stato a causa loro
+ ha fatto irruzione in questo posto.</font>
+
+1454
+00:20:21,120 --> 00:20:22,780
+<font color="#212222" face="International Playboy" size="36">Cosa c'è che non va in te, piagnucolona?</font>
+
+1455
+00:20:26,160 --> 00:20:28,000
+<font color="#212222" face="International Playboy" size="36">Cosa vuoi, piccoletto?</font>
+
+1456
+00:20:28,360 --> 00:20:29,320
+<font color="#212222" face="International Playboy" size="36">Nano?</font>
+
+1457
+00:20:33,420 --> 00:20:34,580
+<font color="#212222" face="International Playboy" size="36">Cobra-sama...</font>
+
+1458
+00:20:34,960 --> 00:20:36,340
+<font color="#212222" face="International Playboy" size="36">Cosa c'è che non va, Igaram?</font>
+
+1459
+00:20:36,340 --> 00:20:37,540
+<font color="#212222" face="International Playboy" size="36">Se mi permetti...</font>
+
+1460
+00:20:37,900 --> 00:20:42,460
+<font color="#212222" face="International Playboy" size="36">Il nostro Paese non ne ha abbastanza
+risorse per sostenerli tutti.</font>
+
+1461
+00:20:42,460 --> 00:20:43,680
+<font color="#212222" face="International Playboy" size="36">Ritardato mentale!</font>
+
+1462
+00:20:43,680 --> 00:20:45,970
+<font color="#212222" face="International Playboy" size="36">Tiratelo fuori dal nostro
+ spese di base o dovunque!</font>
+
+1463
+00:20:45,970 --> 00:20:48,100
+<font color="#212222" face="International Playboy" size="36">Anche se devi
+comprimere il budget!</font>
+
+1464
+00:20:48,100 --> 00:20:50,840
+<font color="#212222" face="International Playboy" size="36">Capito, come ordinato.</font>
+
+1465
+00:20:51,420 --> 00:20:52,390
+<font color="#212222" face="International Playboy" size="36">Notizie terribili!</font>
+
+1466
+00:20:52,390 --> 00:20:53,560
+<font color="#212222" face="International Playboy" size="36">Sua Maestà!</font>
+
+1467
+00:20:53,560 --> 00:20:54,540
+<font color="#212222" face="International Playboy" size="36">Vivi-sama...!</font>
+
+1468
+00:20:59,590 --> 00:21:00,820
+<font color="#212222" face="International Playboy" size="36">Ho combattuto.</font>
+
+1469
+00:21:00,820 --> 00:21:01,900
+<font color="#212222" face="International Playboy" size="36">Ma ho perso.</font>
+
+1470
+00:21:01,900 --> 00:21:02,900
+<font color="#212222" face="International Playboy" size="36">Vivere!</font>
+
+1471
+00:21:02,900 --> 00:21:04,240
+<font color="#212222" face="International Playboy" size="36">Vivi-sama!</font>
+
+1472
+00:21:04,240 --> 00:21:06,030
+<font color="#212222" face="International Playboy" size="36">Quel maledetto moccioso...!</font>
+
+1473
+00:21:06,030 --> 00:21:07,440
+<font color="#212222" face="International Playboy" size="36">Come osi
+fare questo alla principessa?!</font>
+
+1474
+00:21:07,440 --> 00:21:11,200
+<font color="#212222" face="International Playboy" size="36">Lo picchierò!</font>
+
+1475
+00:21:09,120 --> 00:21:11,200
+<font color="#e5d1b9" face="International Playboy" size="36">Aspetta, aspetta, Igaram!</font>
+
+1476
+00:21:11,200 --> 00:21:14,160
+<font color="#212222" face="International Playboy" size="36">Molto dispiaciuto!</font>
+
+1477
+00:21:14,160 --> 00:21:16,880
+<font color="#212222" face="International Playboy" size="36">La mia morte servirà come scusa!</font>
+
+1478
+00:21:16,880 --> 00:21:20,290
+<font color="#212222" face="International Playboy" size="36">Fermare!</font>
+
+1479
+00:21:23,300 --> 00:21:27,260
+<font color="#212222" face="International Playboy" size="36">Idioti, è stata una lotta tra bambini!</font>
+
+1480
+00:21:27,560 --> 00:21:32,900
+<font face="second breakfast" size="42">Capitale dell'Alabasta</font>
+
+1481
+00:21:27,560 --> 00:21:32,900
+<font face="second breakfast" size="42">Capitale dell'Alabasta</font>
+
+1482
+00:21:35,490 --> 00:21:36,600
+<font color="#212222" face="International Playboy" size="36">C'è una rissa!</font>
+
+1483
+00:21:36,880 --> 00:21:38,350
+<font color="#212222" face="International Playboy" size="36">Benvenuto!</font>
+
+1484
+00:21:38,350 --> 00:21:39,480
+<font color="#212222" face="International Playboy" size="36">Fretta!</font>
+
+1485
+00:21:40,500 --> 00:21:42,500
+<font color="#212222" face="International Playboy" size="36">Non lasciare che ti picchi
+per essere la principessa!</font>
+
+1486
+00:21:42,500 --> 00:21:45,360
+<font color="#212222" face="International Playboy" size="36">Metti fine a quella principessa presuntuosa!</font>
+
+1487
+00:21:45,360 --> 00:21:47,740
+<font color="#212222" face="International Playboy" size="36">Vivi-chan, rallegrati!</font>
+
+1488
+00:21:45,360 --> 00:21:47,740
+<font color="#e5d1b9" face="International Playboy" size="36">Vivi-chan, rallegrati!</font>
+
+1489
+00:21:47,740 --> 00:21:51,240
+<font color="#212222" face="International Playboy" size="36">Ehi, il nostro leader è Koza!</font>
+
+1490
+00:21:54,950 --> 00:21:58,550
+<font color="#212222" face="International Playboy" size="36">Se vinco, il tuo leader sarò io.</font>
+
+1491
+00:21:59,600 --> 00:22:01,970
+<font color="#212222" face="International Playboy" size="36">Non perderò con te, piccoletto!</font>
+
+1492
+00:22:01,970 --> 00:22:05,180
+<font color="#212222" face="International Playboy" size="36">Sono sempre stato il capo del villaggio!</font>
+
+1493
+00:22:06,870 --> 00:22:08,240
+<font color="#212222" face="International Playboy" size="36">Ci vado!</font>
+
+1494
+00:22:24,400 --> 00:22:25,950
+<font color="#212222" face="International Playboy" size="36">Ascoltare!</font>
+
+1495
+00:22:26,300 --> 00:22:30,360
+<font color="#212222" face="International Playboy" size="36">Da questo giorno in poi, Vivi sarà il vice leader del Suna Suna Clan!</font>
+
+1496
+00:22:30,360 --> 00:22:31,950
+<font color="#212222" face="International Playboy" size="36">Qualche obiezione?</font>
+
+1497
+00:22:31,950 --> 00:22:33,880
+<font color="#212222" face="International Playboy" size="36">Nessuno!</font>
+
+1498
+00:22:31,950 --> 00:22:33,880
+<font color="#e5d1b9" face="International Playboy" size="36">Nessuno!</font>
+
+1499
+00:22:35,500 --> 00:22:37,910
+<font color="#212222" face="International Playboy" size="36">Guarda, Igaram.</font>
+
+1500
+00:22:37,910 --> 00:22:39,970
+<font color="#212222" face="International Playboy" size="36">Vivi ha stretto amicizia.</font>
+
+1501
+00:22:40,800 --> 00:22:41,870
+<font color="#212222" face="International Playboy" size="36">Sì.</font>
+
+1502
+00:22:41,870 --> 00:22:46,300
+<font color="#212222" face="International Playboy" size="36">In modo che possa
+ porta il peso di Alabasta,</font>
+
+1503
+00:22:46,300 --> 00:22:48,480
+<font color="#212222" face="International Playboy" size="36">Questa è la cosa più importante.</font>
+
+1504
+00:22:57,300 --> 00:22:59,190
+<font color="#212222" face="International Playboy" size="36">Signor Totò, signora!</font>
+
+1505
+00:22:59,190 --> 00:23:00,150
+<font color="#212222" face="International Playboy" size="36">Buongiorno!</font>
+
+1506
+00:23:00,150 --> 00:23:01,280
+<font color="#212222" face="International Playboy" size="36">Dov'è il leader?</font>
+
+1507
+00:23:01,280 --> 00:23:03,020
+<font color="#212222" face="International Playboy" size="36">Ciao buon giorno.</font>
+
+1508
+00:23:03,020 --> 00:23:05,270
+<font color="#212222" face="International Playboy" size="36">Se stai cercando Koza, se n'è già andato.</font>
+
+1509
+00:23:05,270 --> 00:23:07,460
+<font color="#212222" face="International Playboy" size="36">Dovrebbe essere dov'è sempre.</font>
+
+1510
+00:23:07,460 --> 00:23:09,070
+<font color="#212222" face="International Playboy" size="36">Arrivederci!</font>
+
+1511
+00:23:09,070 --> 00:23:10,910
+<font color="#212222" face="International Playboy" size="36">Oh, Vivi-chan!</font>
+
+1512
+00:23:10,910 --> 00:23:12,530
+<font color="#212222" face="International Playboy" size="36">E il pranzo?!</font>
+
+1513
+00:23:12,530 --> 00:23:14,740
+<font color="#212222" face="International Playboy" size="36">Mangerò con te, grazie!</font>
+
+1514
+00:23:15,640 --> 00:23:18,140
+<font color="#212222" face="International Playboy" size="36">Che strano paese.</font>
+
+1515
+00:23:18,140 --> 00:23:22,630
+<font color="#212222" face="International Playboy" size="36">La principessa di tutto il regno va e viene da questa casa.</font>
+
+1516
+00:23:22,630 --> 00:23:24,710
+<font color="#212222" face="International Playboy" size="36">È un segno di tempi pacifici.</font>
+
+1517
+00:23:25,710 --> 00:23:27,980
+<font color="#212222" face="International Playboy" size="36">Igaram-san, che mi dici del cibo?!</font>
+
+1518
+00:23:27,980 --> 00:23:29,510
+<font color="#212222" face="International Playboy" size="36">No, non sto bene.</font>
+
+1519
+00:23:29,510 --> 00:23:30,670
+<font color="#212222" face="International Playboy" size="36">Abito onigiri.</font>
+
+1520
+00:23:30,670 --> 00:23:31,760
+<font color="#212222" face="International Playboy" size="36">Mi scusi!</font>
+
+1521
+00:23:40,930 --> 00:23:42,270
+<font color="#212222" face="International Playboy" size="36">Sua Maestà!</font>
+
+1522
+00:23:42,270 --> 00:23:43,610
+<font color="#212222" face="International Playboy" size="36">Cosa stai facendo qui?!</font>
+
+1523
+00:23:44,400 --> 00:23:46,060
+<font color="#212222" face="International Playboy" size="36">Sua Maestà!</font>
+
+1524
+00:23:47,700 --> 00:23:50,110
+<font color="#212222" face="International Playboy" size="36">Mi ha seguito di nuovo?!</font>
+
+1525
+00:23:50,110 --> 00:23:51,200
+<font color="#212222" face="International Playboy" size="36">E-È solo che...</font>
+
+1526
+00:23:51,200 --> 00:23:55,070
+<font color="#212222" face="International Playboy" size="36">Sono preoccupato per Vivi-chan...</font>
+
+1527
+00:23:56,620 --> 00:23:57,870
+<font color="#212222" face="International Playboy" size="36">Ritorno!</font>
+
+1528
+00:23:57,870 --> 00:23:59,960
+<font color="#212222" face="International Playboy" size="36">Vuoi aumentare la mia responsabilità?!</font>
+
+1529
+00:23:59,960 --> 00:24:01,480
+<font color="#212222" face="International Playboy" size="36">Quello?!</font>
+
+1530
+00:24:01,480 --> 00:24:03,500
+<font color="#212222" face="International Playboy" size="36">Nessun "cosa"!</font>
+
+1531
+00:24:17,900 --> 00:24:20,040
+<font color="#212222" face="International Playboy" size="36">Ciao Principessa.</font>
+
+1532
+00:24:20,040 --> 00:24:21,770
+<font color="#212222" face="International Playboy" size="36">Sei fuori a fare una passeggiata?</font>
+
+1533
+00:24:21,770 --> 00:24:22,840
+<font color="#212222" face="International Playboy" size="36">Vuoi che ti accompagni?</font>
+
+1534
+00:24:25,990 --> 00:24:27,920
+<font color="#212222" face="International Playboy" size="36">Attacco, Suna Suna Clan!</font>
+
+1535
+00:24:27,920 --> 00:24:30,480
+<font color="#212222" face="International Playboy" size="36">Sì!</font>
+
+1536
+00:24:27,920 --> 00:24:30,480
+<font color="#e5d1b9" face="International Playboy" size="36">Sì!</font>
+
+1537
+00:24:30,480 --> 00:24:31,610
+<font color="#212222" face="International Playboy" size="36">E questi marmocchi?!</font>
+
+1538
+00:24:31,610 --> 00:24:33,740
+<font color="#212222" face="International Playboy" size="36">Non avevano ancora tirato le cuoia?!</font>
+
+1539
+00:24:34,470 --> 00:24:35,620
+<font color="#212222" face="International Playboy" size="36">Capo, ragazzi...</font>
+
+1540
+00:24:35,620 --> 00:24:37,200
+<font color="#212222" face="International Playboy" size="36">Vivi, corri!</font>
+
+1541
+00:24:37,200 --> 00:24:39,280
+<font color="#212222" face="International Playboy" size="36">Questi ragazzi ti stanno dando la caccia!</font>
+
+1542
+00:24:39,280 --> 00:24:41,340
+<font color="#212222" face="International Playboy" size="36">Presto, scappa, Vivi!</font>
+
+1543
+00:24:41,340 --> 00:24:42,660
+<font color="#212222" face="International Playboy" size="36">Ti uccideranno!</font>
+
+1544
+00:24:42,660 --> 00:24:44,550
+<font color="#212222" face="International Playboy" size="36">Ma, capo...!</font>
+
+1545
+00:24:46,940 --> 00:24:48,690
+<font color="#212222" face="International Playboy" size="36">Non la uccideremo.</font>
+
+1546
+00:24:48,690 --> 00:24:52,800
+<font color="#212222" face="International Playboy" size="36">A noi interessa solo chiedere un riscatto per lei!</font>
+
+1547
+00:24:54,400 --> 00:24:55,470
+<font color="#212222" face="International Playboy" size="36">Maledizione!</font>
+
+1548
+00:24:56,470 --> 00:24:59,300
+<font color="#212222" face="International Playboy" size="36">Allora vieni, principessa Vivi.</font>
+
+1549
+00:25:04,560 --> 00:25:06,020
+<font color="#212222" face="International Playboy" size="36">Non la consegnerò!</font>
+
+1550
+00:25:06,020 --> 00:25:08,520
+<font color="#212222" face="International Playboy" size="36">Proteggila anche se ti costa la vita, Suna Suna Clan!</font>
+
+1551
+00:25:08,520 --> 00:25:09,730
+<font color="#212222" face="International Playboy" size="36">Sì!</font>
+
+1552
+00:25:08,520 --> 00:25:09,730
+<font color="#e5d1b9" face="International Playboy" size="36">Sì!</font>

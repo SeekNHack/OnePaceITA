@@ -21,393 +21,351 @@ Style: Title-207-,M+ 1c,95,&H00FEFEFE,&H00002EFF,&H00000000,&H00000000,-1,0,0,0,
 
 [Events]
 Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
-Dialogue: 0,0:00:00.18,0:00:03.18,Credits,,0,0,0,,{\pos(100,922.13)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Video Editing
-Dialogue: 1,0:00:00.18,0:00:03.18,Credits,,0,0,0,,{\pos(100,922.13)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Video Editing
-Dialogue: 0,0:00:00.18,0:00:03.18,Credits,,0,0,0,,{\pos(150,983.33)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Galaxy 9000
-Dialogue: 1,0:00:00.18,0:00:03.18,Credits,,0,0,0,,{\pos(150,983.33)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Galaxy 9000
+Dialogue: 0,0:00:00.18,0:00:03.18,Credits,,0,0,0,,{\pos(100,922.13)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Montaggio video
+Dialogue: 1,0:00:00.18,0:00:03.18,Credits,,0,0,0,,{\pos(100,922.13)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Montaggio video
+Dialogue: 0,0:00:00.18,0:00:03.18,Credits,,0,0,0,,{\pos(150,983.33)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Galassia 9000
+Dialogue: 1,0:00:00.18,0:00:03.18,Credits,,0,0,0,,{\pos(150,983.33)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Galassia 9000
 Dialogue: 10,0:00:01.31,0:00:04.53,Narrator-207+,,0,0,0,,Ricchezza, fama, potere...
-Dialogue: 0,0:00:03.18,0:00:06.18,Credits,,0,0,0,,{\pos(100,921)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Graphics
-Dialogue: 1,0:00:03.18,0:00:06.18,Credits,,0,0,0,,{\pos(100,921)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Graphics
+Dialogue: 0,0:00:03.18,0:00:06.18,Credits,,0,0,0,,{\pos(100,921)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Grafica
+Dialogue: 1,0:00:03.18,0:00:06.18,Credits,,0,0,0,,{\pos(100,921)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Grafica
 Dialogue: 0,0:00:03.18,0:00:06.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Datenshi
 Dialogue: 1,0:00:03.18,0:00:06.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Datenshi
 Dialogue: 10,0:00:05.49,0:00:08.13,Narrator-207+,,0,0,0,,Gold Roger, il re dei pirati,
-Dialogue: 0,0:00:06.18,0:00:09.18,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Soundtracking
-Dialogue: 1,0:00:06.18,0:00:09.18,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Soundtracking
+Dialogue: 0,0:00:06.18,0:00:09.18,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Colonna sonora
+Dialogue: 1,0:00:06.18,0:00:09.18,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Colonna sonora
 Dialogue: 0,0:00:06.18,0:00:09.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Halee
-Dialogue: 1,0:00:06.18,0:00:09.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Halee
-Dialogue: 10,0:00:08.13,0:00:10.90,Narrator-207+,,0,0,0,,ha ottenuto tutto ciò che il mondo ha da offrire.
-Dialogue: 0,0:00:09.18,0:00:12.18,Credits,,0,0,0,,{\pos(100,801)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Quality Control
-Dialogue: 1,0:00:09.18,0:00:12.18,Credits,,0,0,0,,{\pos(100,801)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Quality Control
-Dialogue: 0,0:00:09.18,0:00:12.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}JT-421\NPepperjack\NTheFVGuy
-Dialogue: 1,0:00:09.18,0:00:12.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}JT-421\NPepperjack\NTheFVGuy
-Dialogue: 10,0:00:10.90,0:00:17.37,Narrator-207+,,0,0,0,,Le sue ultime parole attirarono\Nogni sorta di avventuriero verso il mare.
-Dialogue: 0,0:00:12.18,0:00:14.68,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2100,2145,\1a&HFF&)}Timing
-Dialogue: 1,0:00:12.18,0:00:14.68,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Timing
+Dialogue: 1,0:00:06.18,0:00:09.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Halee ha ottenuto tutto ciò
+Dialogue: 10,0:00:08.13,0:00:10.90,Narrator-207+,,0,0,0,,aveva ottenuto tutto ciò che il mondo ha da offrire.
+Dialogue: 0,0:00:09.18,0:00:12.18,Credits,,0,0,0,,{\pos(100,801)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Controllo di qualità
+Dialogue: 1,0:00:09.18,0:00:12.18,Credits,,0,0,0,,{\pos(100,801)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Controllo di qualità
+Dialogue: 0,0:00:09.18,0:00:12.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}JT-421 Pepperjack TheFVGuy
+Dialogue: 1,0:00:09.18,0:00:12.18,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}JT-421 Pepperjack TheFVGuy
+Dialogue: 10,0:00:10.90,0:00:17.37,Narrator-207+,,0,0,0,,Le parole che pronunciò poco prima della sua morte spinsero molte persone verso il mare.
+Dialogue: 0,0:00:12.18,0:00:14.68,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2100,2145,\1a&HFF&)}Tempistica
+Dialogue: 1,0:00:12.18,0:00:14.68,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Tempistica
 Dialogue: 0,0:00:12.18,0:00:14.68,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2100,2145,\1a&HFF&)}PhosCity
 Dialogue: 1,0:00:12.18,0:00:14.68,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}PhosCity
 Dialogue: 0,0:00:14.68,0:00:17.68,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Karaoke
 Dialogue: 1,0:00:14.68,0:00:17.68,Credits,,0,0,0,,{\pos(100,920)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Karaoke
-Dialogue: 0,0:00:14.68,0:00:17.68,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}KaitouYahiko
-Dialogue: 1,0:00:14.68,0:00:17.68,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}KaitouYahiko
-Dialogue: 10,0:00:17.37,0:00:23.31,Main-207+,,0,0,0,,Il mio tesoro? È vostro,\Nse riuscite a trovarlo.
-Dialogue: 0,0:00:17.68,0:00:20.68,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Subtitle Editing
-Dialogue: 1,0:00:17.68,0:00:20.68,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Subtitle Editing
-Dialogue: 0,0:00:17.68,0:00:20.68,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Feeso\NZenef
-Dialogue: 1,0:00:17.68,0:00:20.68,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Feeso\NZenef
-Dialogue: 0,0:00:20.68,0:00:23.68,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Translation
-Dialogue: 1,0:00:20.68,0:00:23.68,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Translation
-Dialogue: 0,0:00:20.68,0:00:23.68,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Crunchyroll\NDemonRin
-Dialogue: 1,0:00:20.68,0:00:23.68,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Crunchyroll\NDemonRin
-Dialogue: 10,0:00:23.31,0:00:26.33,Main-207+,,0,0,0,,Ho lasciato tutto in un certo posto.
-Dialogue: 0,0:00:23.68,0:00:26.38,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2300,2345,\1a&HFF&)}Special Thanks
-Dialogue: 1,0:00:23.68,0:00:26.38,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Special Thanks
-Dialogue: 0,0:00:23.68,0:00:26.38,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2300,2345,\1a&HFF&)}One Pace Team's\NBest Canadian\NCyberLariat
-Dialogue: 1,0:00:23.68,0:00:26.38,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}One Pace Team's\NBest Canadian\NCyberLariat
-Dialogue: 10,0:00:26.33,0:00:31.34,Narrator-207+,,0,0,0,,Ora i pirati si dirigono verso la Rotta\NMaggiore alla ricerca dei loro sogni!
-Dialogue: 10,0:00:31.93,0:00:34.02,Narrator-207+,,0,0,0,,Il mondo è entrato...
-Dialogue: 10,0:00:34.02,0:00:35.92,Narrator-207+,,0,0,0,,nella Grande Era dei Pirati!
+Dialogue: 0,0:00:14.68,0:00:17.68,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Kaito Yahiko
+Dialogue: 1,0:00:14.68,0:00:17.68,Credits,,0,0,0,,{\pos(150,980)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Kaito Yahiko
+Dialogue: 10,0:00:17.37,0:00:23.31,Main-207+,,0,0,0,,Il mio tesoro?\NPotete averlo, se volete.
+Dialogue: 0,0:00:17.68,0:00:20.68,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Modifica dei sottotitoli
+Dialogue: 1,0:00:17.68,0:00:20.68,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Modifica dei sottotitoli
+Dialogue: 0,0:00:17.68,0:00:20.68,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Feeso Zenef
+Dialogue: 1,0:00:17.68,0:00:20.68,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Feeso Zenef
+Dialogue: 0,0:00:20.68,0:00:23.68,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Traduzione
+Dialogue: 1,0:00:20.68,0:00:23.68,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Traduzione
+Dialogue: 0,0:00:20.68,0:00:23.68,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2600,2645,\1a&HFF&)}Crunchyroll DemonRin
+Dialogue: 1,0:00:20.68,0:00:23.68,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Crunchyroll DemonRin
+Dialogue: 10,0:00:23.31,0:00:26.33,Main-207+,,0,0,0,,Ho lasciato tutto in un certo posto!
+Dialogue: 0,0:00:23.68,0:00:26.38,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\fscx105\fscy110\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2300,2345,\1a&HFF&)}Ringraziamenti speciali
+Dialogue: 1,0:00:23.68,0:00:26.38,Credits,,0,0,0,,{\an7\pos(100,85)\fad(400,400)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Ringraziamenti speciali
+Dialogue: 0,0:00:23.68,0:00:26.38,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\fscx135\fscy140\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(2300,2345,\1a&HFF&)}Il miglior CyberLariat\Ncanadese di One Pace Team
+Dialogue: 1,0:00:23.68,0:00:26.38,Credits,,0,0,0,,{\an7\pos(150,125)\fad(400,400)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}Il miglior CyberLariat\Ncanadese di One Pace Team
+Dialogue: 10,0:00:26.33,0:00:31.34,Narrator-207+,,0,0,0,,Ora i pirati si dirigono verso la Grand Line inseguendo i loro sogni!
+Dialogue: 10,0:00:31.93,0:00:34.02,Narrator-207+,,0,0,0,,Fu così che iniziò...
+Dialogue: 10,0:00:34.02,0:00:35.92,Narrator-207+,,0,0,0,,La Grande Era della Pirateria!
 Dialogue: 0,0:00:37.93,0:00:42.18,Title-207-,,0,0,0,,{\pos(955,930)\fad(610,0)\blur0.8\bord3.2\c&H342D1B&\3c&H342D1B&\1a&HFF&\t(565,610,\1a&H00&)}L'alba di un'avventura
 Dialogue: 1,0:00:37.93,0:00:42.18,Title-207-,,0,0,0,,{\pos(955,930)\fad(610,0)\blur0.8\bord0\c&HE7E6E7&\4a&HFF&}L'alba di un'avventura
 Dialogue: 10,0:00:51.65,0:00:54.74,Main-207+,,0,0,0,,Ehi, Rufy!\NCosa stai cercando di fare?!
-Dialogue: 0,0:00:56.57,0:01:02.04,Captions,,0,0,0,,{\pos(1444.5,658.5)\fad(300,0)\blur0.8\bord2.25\fscx95\fscy100\c&H000000&\3c&H191920&\1a&HFF&\t(255,300,\1a&H00&)}Monkey D. Luffy{A }\N{\fscx85\fscy90}Ragazzo del villaggio
-Dialogue: 1,0:00:56.57,0:01:02.04,Captions,,0,0,0,,{\pos(1444.5,658.5)\fad(300,0)\blur0.8\bord0\fscx95\fscy100\4a&HFF&}Monkey D. Luffy{A }\N{\fscx85\fscy90}Ragazzo del villaggio
-Dialogue: 10,0:00:56.90,0:01:02.04,Main-207+,,0,0,8,,Faccio sul serio e sono incazzato!\NTe lo dimostrerò!
-Dialogue: 10,0:01:04.08,0:01:07.88,Main-207+,,0,0,0,,Vai avanti... qualunque\Ncosa tu stia facendo!
+Dialogue: 0,0:00:56.57,0:01:02.04,Captions,,0,0,0,,{\pos(1444.5,658.5)\fad(300,0)\blur0.8\bord2.25\fscx95\fscy100\c&H000000&\3c&H191920&\1a&HFF&\t(255,300,\1a&H00&)}Monkey D. Rufy{A }\N{scx85scy90}Ragazzo del villaggio
+Dialogue: 1,0:00:56.57,0:01:02.04,Captions,,0,0,0,,{\pos(1444.5,658.5)\fad(300,0)\blur0.8\bord0\fscx95\fscy100\4a&HFF&}Monkey D. Rufy{A }\N{scx85scy90}Ragazzo del villaggio
+Dialogue: 10,0:00:56.90,0:01:02.04,Main-207+,,0,0,8,,{Sono davvero serio!  Sono così incazzato!  Te lo\Ndimostrerò!} Non sto scherzando. Ora mi sono arrabbiato davvero!
+Dialogue: 10,0:01:04.08,0:01:07.88,Main-207+,,0,0,0,,{Sì, fallo!  Però non so cosa farai!} Va bene! Fallo pure.... qualunque cosa tu stia facendo!
 Dialogue: 10,0:01:10.38,0:01:12.00,Main-207+,,0,0,0,,Ahia!
-Dialogue: 10,0:01:12.00,0:01:14.38,Main-207+,,0,0,0,,Idiota!\NPerchè lo hai fatto?!
-Dialogue: 10,0:01:14.38,0:01:15.95,Main-207+,,0,0,0,,Ragazzi! Un brindisi!
-Dialogue: 10,0:01:17.79,0:01:22.56,Main-207+,,0,0,0,,Al coraggio di Rufy e ad\Nun altro viaggio di successo!
-Dialogue: 10,0:01:23.40,0:01:25.44,Main-207+,,0,0,0,,Ah, non ha fatto male per niente!
-Dialogue: 10,0:01:25.44,0:01:27.86,Main-207+,,0,0,0,,Bugiardo. Non puoi fare\Nstupidaggini del genere.
-Dialogue: 10,0:01:27.86,0:01:28.94,Main-207+,,0,0,0,,Non sto mentendo!
+Dialogue: 10,0:01:12.00,0:01:14.38,Main-207+,,0,0,0,,Idiota!\N{Cosa stai facendo}Ma che fai?!
+Dialogue: 10,0:01:14.38,0:01:15.95,Main-207+,,0,0,0,,{Salute, ragazzi!}Ragazzi! Un brindisi!
+Dialogue: 10,0:01:17.79,0:01:22.56,Main-207+,,0,0,0,,Al coraggio di Rufy e al nostro grande viaggio!
+Dialogue: 10,0:01:23.40,0:01:25.44,Main-207+,,0,0,0,,{Oh}{Uh}Ah, non ha fatto male {per niente}per niente!
+Dialogue: 10,0:01:25.44,0:01:27.86,Main-207+,,0,0,0,,Bugiardo! E non fare più idiozie.
+Dialogue: 10,0:01:27.86,0:01:28.94,Main-207+,,0,0,0,,{Non è una bugia!}Non sto mentendo!
 Dialogue: 10,0:01:28.94,0:01:31.77,Main-207+,,0,0,0,,Non ho paura di farmi male!
-Dialogue: 10,0:01:31.77,0:01:35.95,Main-207+,,0,0,0,,Quindi portami con te nel tuo prossimo\Nviaggio! Anch'io voglio essere un pirata!
-Dialogue: 10,0:01:37.52,0:01:39.95,Main-207+,,0,0,0,,Come se tu potessi mai essere un pirata
-Dialogue: 10,0:01:39.95,0:01:43.58,Main-207+,,0,0,8,,Com'è possibile che un pirata affondi come una palla di cannone?
-Dialogue: 0,0:01:40.20,0:01:43.58,Captions,,0,0,0,,{\pos(451.5,655.5)\fad(300,0)\blur0.8\bord2.25\fscx105\fscy110\c&H000000&\3c&H191920&\1a&HFF&\t(255,300,\1a&H00&)}Shanks "Il rosso"\N{\fscx95\fscy100}Capitano pirata
-Dialogue: 1,0:01:40.20,0:01:43.58,Captions,,0,0,0,,{\pos(451.5,655.5)\fad(300,0)\blur0.8\bord0\fscx105\fscy110\4a&HFF&}Shanks "Il rosso"\N{\fscx95\fscy100}Capitano pirata
-Dialogue: 10,0:01:43.58,0:01:46.52,Main-207+,,0,0,0,,Starò bene se non cado in mare!
-Dialogue: 10,0:01:46.52,0:01:48.71,Main-207+,,0,0,0,,E inoltre, sono un buon combattente!
-Dialogue: 10,0:01:48.71,0:01:53.46,Main-207+,,0,0,0,,Mi sono allenato, quindi i miei pugni sono come pistole!
+Dialogue: 10,0:01:31.77,0:01:35.95,Main-207+,,0,0,0,,{Take}Allora, portami nel tuo prossimo\Nviaggio! Anch'io voglio essere un pirata!
+Dialogue: 10,0:01:37.52,0:01:39.95,Main-207+,,0,0,0,,{Come se potessi mai essere un pirata}Come se potessi mai diventare un pirata!
+Dialogue: 10,0:01:39.95,0:01:43.58,Main-207+,,0,0,8,,Com'è possibile che un pirata affondi come una palla di cannone!
+Dialogue: 0,0:01:40.20,0:01:43.58,Captions,,0,0,0,,{\pos(451.5,655.5)\fad(300,0)\blur0.8\bord2.25\fscx105\fscy110\c&H000000&\3c&H191920&\1a&HFF&\t(255,300,\1a&H00&)}Shanks "dai capelli rossi"\N{scx95scy100}Capitano pirata
+Dialogue: 10,0:01:43.58,0:01:46.52,Main-207+,,0,0,0,,{Starò bene finché non cado dalla\Nnave!} Basta non cadere mai in acqua, no?!
+Dialogue: 10,0:01:46.52,0:01:48.71,Main-207+,,0,0,0,,{E sono anche bravo a combattere}E poi sono un bravo combattente!
+Dialogue: 10,0:01:48.71,0:01:53.46,Main-207+,,0,0,0,,{Sono ben allenato, quindi i miei pugni sono come pistole!}\NMi alleno sempre, quindi i miei pugni sono come pistole!
 Dialogue: 10,0:01:53.46,0:01:56.20,Main-207+,,0,0,0,,Pistole? Oh, {\i1}davvero{\i0}?
 Dialogue: 10,0:01:56.20,0:01:57.80,Main-207+,,0,0,0,,Cosa significa {\i1}quello{\i0}?!
 Dialogue: 10,0:01:57.80,0:01:59.18,Main-207+,,0,0,0,,Rufy!
-Dialogue: 10,0:01:59.18,0:02:01.72,Main-207+,,0,0,0,,Sei di pessimo umore!
-Dialogue: 10,0:02:01.72,0:02:04.14,Main-207+,,0,0,0,,Rilassati e divertiti!
-Dialogue: 10,0:02:04.14,0:02:06.93,Main-207+,,0,0,0,,Sì! Essere un pirata significa {\i1}divertirsi!{\i0}
-Dialogue: 10,0:02:06.93,0:02:09.10,Main-207+,,0,0,0,,Il mare è sconfinato!
-Dialogue: 10,0:02:09.10,0:02:11.56,Main-207+,,0,0,0,,Ci sono tantissime isole da esplorare!
-Dialogue: 10,0:02:11.56,0:02:13.19,Main-207+,,0,0,0,,Soprattutto, siamo liberi!
-Dialogue: 10,0:02:14.65,0:02:18.03,Main-207+,,0,0,0,,Ragazzi, smettetela di riempirgli la testa di sciocchezze.
-Dialogue: 10,0:02:18.03,0:02:20.03,Main-207+,,0,0,0,,Ma è tutto vero! Giusto?!
-Dialogue: 10,0:02:20.03,0:02:23.45,Main-207+,,0,0,0,,Andiamo, capo, perché non\Nportarlo a fare un solo viaggio?
+Dialogue: 10,0:01:59.18,0:02:01.72,Main-207+,,0,0,0,,{Sei di pessimo umore!}Sembri proprio arrabbiato!
+Dialogue: 10,0:02:01.72,0:02:04.14,Main-207+,,0,0,0,,{Divertiti in qualunque cosa tu stia facendo!} Rilassati e divertiti!
+Dialogue: 10,0:02:04.14,0:02:06.93,Main-207+,,0,0,0,,{Sì}Sì! Essere un pirata significa {\i1}{divertimento}{\i0}divertirsi!
+Dialogue: 10,0:02:06.93,0:02:09.10,Main-207+,,0,0,0,,Il mare è {ampio e vasto}sconfinato!
+Dialogue: 10,0:02:09.10,0:02:11.56,Main-207+,,0,0,0,,{Stiamo viaggiando per varie isole}Ci sono tantissime isole da esplorare!
+Dialogue: 10,0:02:11.56,0:02:13.19,Main-207+,,0,0,0,,{Soprattutto, siamo liberi!}E poi, siamo liberi!
+Dialogue: 10,0:02:14.65,0:02:18.03,Main-207+,,0,0,0,,Ragazzi, {non insegnategli queste sciocchezze}smettetela di riempirgli la testa di sciocchezze.
+Dialogue: 10,0:02:18.03,0:02:20.03,Main-207+,,0,0,0,,Ma è tutto vero, Giusto?!
+Dialogue: 10,0:02:20.03,0:02:23.45,Main-207+,,0,0,0,,Andiamo, capo, perché non lo\Nportiamo con noi in un solo viaggio?
 Dialogue: 10,0:02:23.45,0:02:25.78,Main-207+,,0,0,0,,Lo penso anch'io.
-Dialogue: 10,0:02:25.78,0:02:28.25,Main-207+,,0,0,0,,Certo, ma uno di voi deve occuparsene.
-Dialogue: 10,0:02:28.25,0:02:31.36,Main-207+,,0,0,0,,Bella chiacchierata, ragazzo!  Beviamo!
-Dialogue: 10,0:02:31.36,0:02:32.96,Main-207+,,0,0,0,,Non eravate dalla mia parte?!
-Dialogue: 10,0:02:32.96,0:02:35.58,Main-207+,,0,0,0,,Davvero, sei semplicemente\Ntroppo giovane, ragazzo.
-Dialogue: 10,0:02:35.60,0:02:38.93,Main-207+,,0,0,0,,Forse tra 10\Nanni ti darò una possibilità.
-Dialogue: 10,0:02:38.93,0:02:41.68,Main-207+,,0,0,0,,Shanks, brutto idiota!\NNon sono un ragazzino!
-Dialogue: 10,0:02:41.68,0:02:44.30,Main-207+,,0,0,0,,Dai, calmo.  Non arrabbiarti così tanto. \NPrendi un po' di succo!
-Dialogue: 10,0:02:44.30,0:02:46.36,Main-207+,,0,0,0,,Oh! Grazie!
-Dialogue: 10,0:02:47.56,0:02:51.48,Main-207+,,0,0,0,,- Vedi{,}?!  {y}{\i1}Sei{\i0} solo un ragazzino!{\NAh!} – Non è giusto, Shanks!
-Dialogue: 10,0:02:52.48,0:02:54.50,Main-207+,,0,0,0,,Sono così stufo di tutto questo!
-Dialogue: 10,0:02:54.50,0:02:58.22,Main-207+,,0,0,0,,Rufy, cerca di capire il capo.
+Dialogue: 10,0:02:25.78,0:02:28.25,Main-207+,,0,0,0,,{Allora qualcuno scambi il posto con lui.} OK, ma uno di voi resta indietro.
+Dialogue: 10,0:02:28.25,0:02:31.36,Main-207+,,0,0,0,,{Okay, abbiamo finito di parlare!  Beviamo!}Bene... chiuso il discorso, ragazzo! Beviamo!
+Dialogue: 10,0:02:31.36,0:02:32.96,Main-207+,,0,0,0,,{Non eri dalla mia parte?!}Non eravate dalla mia parte?!
+Dialogue: 10,0:02:32.96,0:02:38.93,Main-207+,,0,0,0,,{In breve, sei troppo ragazzino.  Lo prenderò in considerazione quando avrai 10 anni in più!}\NSei ancora troppo piccolo, ragazzo.  Forse tra 10 anni ti darò una possibilità.
+Dialogue: 10,0:02:38.93,0:02:41.68,Main-207+,,0,0,0,,{Stupido Shanks!  Non sono un bambino!}{Dai,\NShanks}Shanks, grande idiota! Non sono un ragazzino!
+Dialogue: 10,0:02:41.68,0:02:44.30,Main-207+,,0,0,0,,{Adesso adesso.  Non arrabbiarti così tanto.  Prendi un po'\Ndi succo!}Dai, calmati e prendi un po' di succo.
+Dialogue: 10,0:02:44.30,0:02:46.36,Main-207+,,0,0,0,,Wow! Grazie!
+Dialogue: 10,0:02:47.56,0:02:51.48,Main-207+,,0,0,0,,- Visto{,}?!{y} {\i1}Sei{\i0} solo un moccioso!{\NAh!} – {Non era giusto}Non è giusto, Shanks!
+Dialogue: 10,0:02:52.48,0:02:54.50,Main-207+,,0,0,0,,{Adesso sono stanco!} Sono così stufo di tutto questo!
+Dialogue: 10,0:02:54.50,0:02:58.22,Main-207+,,0,0,0,,Rufy, devi cercare di capire come \Nsi sente il capo.
 Dialogue: 10,0:02:58.22,0:02:58.99,Main-207+,,0,0,0,,Primo ufficiale!
-Dialogue: 10,0:02:59.92,0:03:03.42,Main-207+,,0,0,0,,È il capo di una ciurma di pirati.
-Dialogue: 10,0:03:03.42,0:03:07.37,Main-207+,,0,0,0,,Sa meglio di chiunque altro quanto possa essere duro e pericoloso il mondo dei pirati.
-Dialogue: 10,0:03:07.37,0:03:11.92,Main-207+,,0,0,0,,L'hai capito? Non sta cercando di smorzare il tuo entusiasmo.
-Dialogue: 10,0:03:11.92,0:03:16.63,Main-207+,,0,0,0,,No,{\i1} non{\i0} capisco!  A Shanks piace semplicemente prendermi in giro!
-Dialogue: 10,0:03:16.63,0:03:17.91,Main-207+,,0,0,0,,Ancora!
+Dialogue: 10,0:02:59.92,0:03:03.42,Main-207+,,0,0,0,,{Non si può negare che sia il capo di un gruppo di\Npirati.} La realtà è che è il capo di una ciurma di pirati.
+Dialogue: 10,0:03:03.42,0:03:07.37,Main-207+,,0,0,0,,{Sa quanto sia duro e pericoloso essere un pirata più di chiunque altro.} Sa meglio di chiunque altro quanto possa essere dura e pericolosa la pirateria.
+Dialogue: 10,0:03:07.37,0:03:11.92,Main-207+,,0,0,0,,L'hai capito? \NNon è che voglia spezzare il tuo spirito.
+Dialogue: 10,0:03:11.92,0:03:16.63,Main-207+,,0,0,0,,{No, non lo faccio!  Shanks mi sta prendendo in giro!}No, {\i1}non{\i0} capisco!  A Shanks piace semplicemente prendermi in giro!
+Dialogue: 10,0:03:16.63,0:03:17.91,Main-207+,,0,0,0,,Palla di cannone!
 Dialogue: 10,0:03:17.91,0:03:18.63,Main-207+,,0,0,0,,Vedi?!
-Dialogue: 10,0:03:18.63,0:03:20.99,Main-207+,,0,0,0,,vedo che ti stai divertendo come al solito.
-Dialogue: 10,0:03:20.99,0:03:24.80,Main-207+,,0,0,0,,Sì, adoro prendere in giro questo ragazzo.
-Dialogue: 10,0:03:24.80,0:03:27.81,Main-207+,,0,0,0,,Rufy, vorresti qualcosa da mangiare anche tu?
-Dialogue: 10,0:03:27.81,0:03:30.39,Main-207+,,0,0,0,,Sì!  Mettilo nella mia scheda del tesoro!
-Dialogue: 10,0:03:30.39,0:03:34.47,Main-207+,,0,0,0,,Di nuovo la scheda del tesoro?\NQuesta è una frode, sai?
-Dialogue: 10,0:03:34.47,0:03:36.90,Main-207+,,0,0,0,,No, non lo è!  La ripagherò una volta che sarò
-Dialogue: 10,0:03:36.90,0:03:39.07,Main-207+,,0,0,0,,diventato un pirata e trovato un tesoro!
+Dialogue: 10,0:03:18.63,0:03:20.99,Main-207+,,0,0,0,,{Immagino} vedo che ti stai divertendo come al solito.
+Dialogue: 10,0:03:20.99,0:03:24.80,Main-207+,,0,0,0,,{Sì, mi piace prenderlo in giro.} Sì, adoro prendere in giro questo ragazzo.
+Dialogue: 10,0:03:24.80,0:03:27.81,Main-207+,,0,0,0,,Rufy, {vuoi mangiare qualcosa anche tu}vorresti qualcosa da mangiare anche tu?
+Dialogue: 10,0:03:27.81,0:03:30.39,Main-207+,,0,0,0,,{Uh-uh} Sì! Fammi credito, pagherò con la mia quota di tesoro!
+Dialogue: 10,0:03:30.39,0:03:34.47,Main-207+,,0,0,0,,Di nuovo la storia del tesoro?\NQuesta è una frode, sai?
+Dialogue: 10,0:03:34.47,0:03:36.90,Main-207+,,0,0,0,,{No non lo è!  Una volta diventato un pirata}Non lo è! La ripagherò una volta che sarò
+Dialogue: 10,0:03:36.90,0:03:39.07,Main-207+,,0,0,0,,{e trova un tesoro, lo pagherò io!}diventato un pirata e trovato un tesoro!
 Dialogue: 10,0:03:39.94,0:03:41.68,Main-207+,,0,0,0,,Ci conto.
 Dialogue: 10,0:03:43.30,0:03:44.37,Main-207+,,0,0,0,,Shanks.
-Dialogue: 10,0:03:44.37,0:03:45.29,Main-207+,,0,0,0,,Che succede?
+Dialogue: 10,0:03:44.37,0:03:45.29,Main-207+,,0,0,0,,{Cosa?}Che succede?
 Dialogue: 10,0:03:45.29,0:03:47.98,Main-207+,,0,0,0,,Per quanto tempo rimarrai in questo villaggio?
-Dialogue: 10,0:03:47.98,0:03:51.40,Main-207+,,0,0,0,,Vediamo... Dopo un altro paio di viaggi,
-Dialogue: 10,0:03:51.40,0:03:55.11,Main-207+,,0,0,0,,lasceremo questo villaggio definitivamente per dirigerci a nord.
+Dialogue: 10,0:03:47.98,0:03:51.40,Main-207+,,0,0,0,,Vediamo... {Faremo un paio di\Nviaggi...}Un altro paio di viaggi,
+Dialogue: 10,0:03:51.40,0:03:55.11,Main-207+,,0,0,0,,poi lasceremo questo villaggio per dirigerci a nord.
 Dialogue: 10,0:03:57.00,0:03:59.01,Main-207+,,0,0,0,,Ancora un paio di viaggi, eh?
-Dialogue: 10,0:04:02.51,0:04:05.39,Main-207+,,0,0,0,,Quindi devo imparare a nuotare prima che tu parta!
-Dialogue: 10,0:04:05.39,0:04:08.31,Main-207+,,0,0,0,,Certo. Metticela tutta.
+Dialogue: 10,0:04:02.51,0:04:05.39,Main-207+,,0,0,0,,{Farò pratica di nuoto mentre sei qui!} Quindi devo imparare a nuotare prima che tu parta!
+Dialogue: 10,0:04:05.39,0:04:08.31,Main-207+,,0,0,0,,{Va bene} Certo. Metticela tutta.
 Dialogue: 10,0:04:13.08,0:04:14.85,Main-207+,,0,0,0,,Ci perdoni.
-Dialogue: 10,0:04:14.85,0:04:19.40,Main-207+,,0,0,0,,Quindi, {\i1}questi{\i0} sono "pirati".  Mi sembra un gruppo di idioti.
-Dialogue: 10,0:04:28.62,0:04:33.99,Main-207+,,0,0,0,,Siamo banditi di montagna.  Ma non siamo\Nqui per depredare questo posto.
-Dialogue: 10,0:04:33.99,0:04:35.29,Main-207+,,0,0,0,,Vorremmo un po' di alcol.
-Dialogue: 10,0:04:35.29,0:04:38.92,Main-207+,,0,0,0,,Le mie scuse.\NHo appena finito l'alcol.
-Dialogue: 10,0:04:39.99,0:04:44.01,Main-207+,,0,0,0,,Allora cosa stanno bevendo questi pirati? Acqua?
-Dialogue: 10,0:04:44.01,0:04:47.64,Main-207+,,0,0,0,,Temo di aver servito loro l'ultimo.
+Dialogue: 10,0:04:14.85,0:04:19.40,Main-207+,,0,0,0,,{Quindi questi sono "pirati". Sembra davvero stupido.}Quindi, {\i1}questi{\i0} sono "pirati". Mi sembrano degli idioti.
+Dialogue: 10,0:04:28.62,0:04:33.99,Main-207+,,0,0,0,,Siamo banditi di montagna. Ma non siamo\Nqui per {fare}smantellare questo posto.
+Dialogue: 10,0:04:33.99,0:04:35.29,Main-207+,,0,0,0,,{Vendici}Vogliamo un po' di alcol.
+Dialogue: 10,0:04:35.29,0:04:38.92,Main-207+,,0,0,0,,{Mi dispiace}Le mie scuse.\NHo appena finito l'alcol.
+Dialogue: 10,0:04:39.99,0:04:44.01,Main-207+,,0,0,0,,{Sembra che questi pirati stiano bevendo qualcosa... Cos'è,\Nacqua?}Allora cosa stanno bevendo questi pirati? Acqua?
+Dialogue: 10,0:04:44.01,0:04:47.64,Main-207+,,0,0,0,,No, stanno bevendo quel poco che è rimasto.
 Dialogue: 10,0:04:47.64,0:04:53.70,Main-207+,,0,0,0,,Le mie scuse. Sembra che\Nabbiamo prosciugato tutto il posto.
 Dialogue: 10,0:04:53.70,0:04:54.60,Main-207+,,0,0,0,,Scusa!
-Dialogue: 10,0:04:55.49,0:04:58.86,Main-207+,,0,0,0,,Puoi avere questa.\NNon è stata ancora aperta.
-Dialogue: 10,0:05:06.78,0:05:11.39,Main-207+,,0,0,0,,Ehi, bastardo!  Chi pensi che io\Nsia?
+Dialogue: 10,0:04:55.49,0:04:58.86,Main-207+,,0,0,0,,Puoi avere questo.\NNon è stato ancora aperto.
+Dialogue: 10,0:05:06.78,0:05:11.39,Main-207+,,0,0,0,,{Ehi, bastardo!  Chi pensi che io\Nsia?}Ehi, imbecille. Chi pensi che io sia?
 Dialogue: 10,0:05:11.39,0:05:14.71,Main-207+,,0,0,0,,Una bottiglia non è nemmeno sufficiente\Nper un drink prima di andare a dormire!
 Dialogue: 10,0:05:16.72,0:05:18.25,Main-207+,,0,0,0,,Il pavimento è tutto bagnato!
-Dialogue: 10,0:05:18.25,0:05:19.49,Main-207+,,0,0,0,,Dai un'occhiata.
-Dialogue: 10,0:05:19.49,0:05:22.38,Main-207+,,0,0,0,,La mia testa vale otto milioni di belly.
-Dialogue: 10,0:05:23.00,0:05:27.72,Main-207+,,0,0,0,,Ho ucciso 56 persone, tutti buffoni come te.
-Dialogue: 10,0:05:27.72,0:05:30.19,Main-207+,,0,0,0,,Faresti meglio a stare attento.
-Dialogue: 10,0:05:30.19,0:05:34.08,Main-207+,,0,0,0,,Ma noi siamo di montagna e voi siete gente di mare;  Dubito che ci rivedremo.
-Dialogue: 10,0:05:36.27,0:05:39.80,Main-207+,,0,0,0,,Mi dispiace per il disordine,\NMakino-{\i1}san{\i0}. Hai uno straccio?
-Dialogue: 10,0:05:39.94,0:05:42.99,Main-207+,,0,0,0,,No! Lascia fare a me!
-Dialogue: 10,0:05:50.07,0:05:54.95,Main-207+,,0,0,0,,Sembra che ti piaccia pulire. Forse troverai {\i1}questo{\i} più appagante.
-Dialogue: 10,0:06:08.90,0:06:11.30,Main-207+,,0,0,0,,A dopo, codardi!
-Dialogue: 10,0:06:17.94,0:06:20.10,Main-207+,,0,0,0,,Capitano, tutto bene?
-Dialogue: 10,0:06:20.10,0:06:21.98,Main-207+,,0,0,0,,Oh. Nessun problema.
-Dialogue: 10,0:06:26.50,0:06:30.53,Main-207+,,0,0,0,,– Parlando di codardi, Capo!\N– Ti ha conciato per le feste!
+Dialogue: 10,0:05:18.25,0:05:19.49,Main-207+,,0,0,0,,{Guarda questo.}Dai un'occhiata.
+Dialogue: 10,0:05:19.49,0:05:22.38,Main-207+,,0,0,0,,{C'è una taglia di pancia di otto milioni sulla mia\Ntesta.} La mia testa vale otto milioni di Berry.
+Dialogue: 10,0:05:23.00,0:05:27.72,Main-207+,,0,0,0,,Ho ucciso 56 persone{.}, {Erano tutti\Nsfacciati come te.}tutti idioti come te.
+Dialogue: 10,0:05:27.72,0:05:30.19,Main-207+,,0,0,0,,{Quindi fai attenzione da qui in poi.}Faresti meglio a stare attento.
+Dialogue: 10,0:05:30.19,0:05:34.08,Main-207+,,0,0,0,,{Ma siccome noi siamo in montagna e tu al mare, non credo che ci rivedremo.}\NMa noi siamo montanari e voi siete gente di mare. Dubito che ci rivedremo.
+Dialogue: 10,0:05:36.27,0:05:39.80,Main-207+,,0,0,0,,Mi dispiace per {quello}il disordine,\NMakino-{\i1}san{\i0}. Hai uno straccio?
+Dialogue: 10,0:05:39.80,0:05:42.85,Main-207+,,0,0,0,,{Oh, lo farò!}No! Lascia fare a me!
+Dialogue: 10,0:05:50.07,0:05:54.95,Main-207+,,0,0,0,,Sembra che ti piaccia pulire.  {Allora\Nm}Adesso hai più da divertirti.
+Dialogue: 10,0:06:08.90,0:06:11.30,Main-207+,,0,0,0,,{A dopo, idioti!}Vi saluto, codardi!
+Dialogue: 10,0:06:17.94,0:06:20.10,Main-207+,,0,0,0,,Capitano{-san}, tutto bene?
+Dialogue: 10,0:06:20.10,0:06:21.98,Main-207+,,0,0,0,,Oh{,}. {nessun problema}Nessun problema.
+Dialogue: 10,0:06:26.50,0:06:30.53,Main-207+,,0,0,0,,– Che vergogna, capo!\N– Sei tutto bagnato!
 Dialogue: 10,0:06:32.49,0:06:34.99,Main-207+,,0,0,0,,Perché ridi?!
-Dialogue: 10,0:06:34.99,0:06:39.01,Main-207+,,0,0,0,,È stato così patetico!\NPerché non li hai affrontati?!
-Dialogue: 10,0:06:39.01,0:06:44.09,Main-207+,,0,0,0,,Non puoi definirti un pirata, e nemmeno un uomo, se ridi dopo una cosa del genere!
-Dialogue: 10,0:06:45.42,0:06:50.72,Main-207+,,0,0,0,,Posso capire come ti senti,\Nma ha solo rovesciato dell'alcol.
-Dialogue: 10,0:06:50.72,0:06:53.13,Main-207+,,0,0,0,,Non c'è bisogno di arrabbiarsi.
+Dialogue: 10,0:06:34.99,0:06:39.01,Main-207+,,0,0,0,,Sei un vigliacco!\NPerché non li hai respinti?!
+Dialogue: 10,0:06:39.01,0:06:44.09,Main-207+,,0,0,0,,{Non siete uomini - né pirati - se ridete dopo una cosa del genere!\N-OG}Non puoi definirti un pirata, e nemmeno un uomo, se ridi dopo una cosa del genere!
+Dialogue: 10,0:06:45.42,0:06:50.72,Main-207+,,0,0,0,,{Posso capire come ti senti} Capisco cosa dici,\Nma mi ha solo rovesciato dell'alcol addosso.
+Dialogue: 10,0:06:50.72,0:06:53.13,Main-207+,,0,0,0,,{Non c'è niente per cui valga la pena arrabbiarsi.} Non c'è bisogno di arrabiarsi, no?.
 Dialogue: 10,0:06:55.39,0:06:57.22,Main-207+,,0,0,0,,Ehi, aspetta, Rufy.
 Dialogue: 10,0:06:57.22,0:06:59.69,Main-207+,,0,0,0,,Ne ho abbastanza!\NNon voglio essere un codardo come te!
 Dialogue: 10,0:07:07.78,0:07:09.28,Main-207+,,0,0,0,,Il suo braccio si allunga!
-Dialogue: 10,0:07:09.28,0:07:10.95,Main-207+,,0,0,0,,Non dirmi che tu...!
+Dialogue: 10,0:07:09.28,0:07:10.95,Main-207+,,0,0,0,,{Non dirmelo tu...!}Non dirmi che...!
 Dialogue: 10,0:07:10.95,0:07:12.53,Main-207+,,0,0,0,,Cosa sta succedendo?!
-Dialogue: 10,0:07:12.53,0:07:14.58,Main-207+,,0,0,0,,È scomparso!
+Dialogue: 10,0:07:12.53,0:07:14.58,Main-207+,,0,0,0,,È andato!
 Dialogue: 10,0:07:13.32,0:07:14.58,Secondary-207+,,0,0,0,,Che cosa?!
-Dialogue: 10,0:07:14.58,0:07:17.04,Main-207+,,0,0,0,,Il frutto Gum-Gum che abbiamo\N rubato al nostro nemico!
-Dialogue: 10,0:07:17.04,0:07:21.21,Main-207+,,0,0,0,,Rufy!\NPer favore dimmi... non hai mangiato un frutto come questo.
-Dialogue: 10,0:07:21.21,0:07:23.79,Main-207+,,0,0,0,,L'ho fatto... Aveva un sapore piuttosto cattivo.
-Dialogue: 10,0:07:23.79,0:07:25.25,Main-207+,,0,0,0,,Quello era il frutto Gum-Gum!
-Dialogue: 10,0:07:25.25,0:07:28.30,Main-207+,,0,0,0,,È un raro tesoro\Ndel mare conosciuto come il frutto del diavolo!
-Dialogue: 10,0:07:28.30,0:07:33.18,Main-207+,,0,0,0,,Trasforma il tuo corpo in gomma e ti fa perdere la capacità di nuotare per il resto della tua vita!
-Dialogue: 10,0:07:33.18,0:07:35.66,Main-207+,,0,0,0,,Cosa?! Non è possibile!
+Dialogue: 10,0:07:14.58,0:07:17.04,Main-207+,,0,0,0,,Il frutto Gum-Gum che abbiamo\N{derubato} rubato al nostro nemico!
+Dialogue: 10,0:07:17.04,0:07:21.21,Main-207+,,0,0,0,,Rufy, non dirmi che hai mangiato un frutto come questo!
+Dialogue: 10,0:07:21.21,0:07:23.79,Main-207+,,0,0,0,,L'ho fatto... Aveva un sapore{così pessimo} piuttosto pessimo.
+Dialogue: 10,0:07:23.79,0:07:25.25,Main-207+,,0,0,0,,{Il frutto Gum-Gum è}Quello era il frutto Gum-Gum!
+Dialogue: 10,0:07:25.25,0:07:28.30,Main-207+,,0,0,0,,{un tesoro nascosto del mare} È un raro tesoro del mare conosciuto come il frutto del diavolo!
+Dialogue: 10,0:07:28.30,0:07:30.73,Main-207+,,0,0,0,,Se uno lo mangia, gli diventa\Ntutto il corpo di gomma!
+Dialogue: 10,0:07:30.75,0:07:33.18,Main-207+,,0,0,0,,E come se non bastasse non\Npuò nuotare per tutta la vita!
+Dialogue: 10,0:07:33.18,0:07:35.66,Main-207+,,0,0,0,,Che cosa?! Non è possibile!
 Dialogue: 10,0:07:35.66,0:07:38.11,Main-207+,,0,0,0,,Idiota!
 Dialogue: 10,0:07:41.98,0:07:44.15,Main-207+,,0,0,0,,Dammi un pesce, vecchio pescivendolo!
-Dialogue: 10,0:07:44.15,0:07:48.91,Main-207+,,0,0,0,,Ehi, Rufy! Ho sentito che sono salpati di nuovo senza di te!
-Dialogue: 10,0:07:48.91,0:07:49.78,Main-207+,,0,0,0,,Non c'è problema!
-Dialogue: 10,0:07:49.78,0:07:56.19,Main-207+,,0,0,0,,Diventare un uomo di gomma è molto più bello che intraprendere uno stupido viaggio.
-Dialogue: 10,0:07:58.29,0:08:01.66,Main-207+,,0,0,0,,È passato un po' di tempo dall'ultima volta che il capitano e il\Nsuo equipaggio sono partiti per il mare.
-Dialogue: 10,0:08:01.66,0:08:03.70,Main-207+,,0,0,0,,Scommetto che ti mancano.
-Dialogue: 10,0:08:03.70,0:08:06.54,Main-207+,,0,0,0,,Assolutamente no! Non li ho\Nancora perdonati!
-Dialogue: 10,0:08:06.54,0:08:10.59,Main-207+,,0,0,0,,Non posso credere di aver pensato che Shanks e il suo\N equipaggio fossero pirati fantastici.
-Dialogue: 10,0:08:10.59,0:08:13.52,Main-207+,,0,0,0,,Davvero?\NPenso che sia molto più bello scrollarsi di dosso la cosa
-Dialogue: 10,0:08:13.52,0:08:16.39,Main-207+,,0,0,0,,e ridere dopo che qualcuno\Nti tratta in quel modo.
-Dialogue: 10,0:08:16.39,0:08:18.53,Main-207+,,0,0,0,,Makino, semplicemente non capisci.
-Dialogue: 10,0:08:18.53,0:08:21.10,Main-207+,,0,0,0,,Ci sono momenti in cui un uomo deve combattere.
-Dialogue: 10,0:08:21.10,0:08:23.14,Main-207+,,0,0,0,,Forse non capisco.
-Dialogue: 10,0:08:23.14,0:08:25.31,Main-207+,,0,0,0,,Fate largo!
+Dialogue: 10,0:07:44.15,0:07:48.91,Main-207+,,0,0,0,,Ehi, Rufy! Ho sentito che {che non hai potuto fare di\Nnuovo un viaggio} sono salpati di nuovo senza di te!
+Dialogue: 10,0:07:48.91,0:07:49.78,Main-207+,,0,0,0,,{Va bene} Non mi dispiace!
+Dialogue: 10,0:07:49.78,0:07:56.19,Main-207+,,0,0,0,,{Perché devo diventare un uomo di gomma!  Mi rende molto più felice di un\Nviaggio!}Diventare un uomo di gomma è molto più bello che intraprendere uno stupido viaggio.
+Dialogue: 10,0:07:58.29,0:07:59.96,Main-207+,,0,0,0,,È passato un po' di tempo dall'ultima\Nvolta che il capitano {-san}e il
+Dialogue: 10,0:07:59.99,0:08:01.66,Main-207+,,0,0,0,,suo equipaggio{sono partiti per\Nun viaggio} sono partiti per il mare.
+Dialogue: 10,0:08:01.66,0:08:03.70,Main-207+,,0,0,0,,Scommetto che ti mancano, vero?.
+Dialogue: 10,0:08:03.70,0:08:06.54,Main-207+,,0,0,0,,{Per niente} Assolutamente no! Non li ho\Nancora perdonati!
+Dialogue: 10,0:08:06.54,0:08:10.59,Main-207+,,0,0,0,,Non posso credere di aver pensato che Shanks e il suo {altro}equipaggio fossero pirati {più fighi}fantastici.
+Dialogue: 10,0:08:10.59,0:08:13.52,Main-207+,,0,0,0,,{Sì?  Penso che sia più bello non farci\Ncaso}Davvero? Penso che sia molto più bello alzare le spalle e ridere
+Dialogue: 10,0:08:13.52,0:08:16.39,Main-207+,,0,0,0,,dopo che qualcuno ti umilia in quel modo.
+Dialogue: 10,0:08:16.39,0:08:18.53,Main-207+,,0,0,0,,{Non capisci.}Makino, semplicemente non capisci.
+Dialogue: 10,0:08:18.53,0:08:21.10,Main-207+,,0,0,0,,{Ci sono momenti in cui gli uomini devono alzarsi e\Ncombattere.} Ci sono momenti in cui un uomo deve combattere.
+Dialogue: 10,0:08:21.10,0:08:23.14,Main-207+,,0,0,0,,{Credo di non capire} Forse non capisco.
+Dialogue: 10,0:08:23.14,0:08:25.31,Main-207+,,0,0,0,,Fate largo{a noi}!
 Dialogue: 10,0:08:26.19,0:08:28.98,Main-207+,,0,0,0,,Quei dannati pirati {non ci sono}non sono qui oggi, eh?
-Dialogue: 10,0:08:28.98,0:08:32.11,Main-207+,,0,0,0,,Eravamo in zona, quindi abbiamo deciso di passare.
-Dialogue: 10,0:08:37.88,0:08:41.16,Main-207+,,0,0,0,,Non stare li impalata{?}!\NPortateci dell'alcol!
+Dialogue: 10,0:08:28.98,0:08:32.11,Main-207+,,0,0,0,,{Stavamo camminando di nuovo, quindi siamo entrati.}\NEravamo in zona, quindi abbiamo deciso di passare.
+Dialogue: 10,0:08:37.88,0:08:41.16,Main-207+,,0,0,0,,{Perché}Non stare{stando}\Nlì impalata{?}! {Portateci dell'alcol!}Alcool! Ora!
 Dialogue: 10,0:08:45.04,0:08:46.06,Main-207+,,0,0,0,,Sindaco, abbiamo un problema!
-Dialogue: 10,0:08:46.06,0:08:47.84,Main-207+,,0,0,0,,Cosa c'è che non va, Makino?
-Dialogue: 10,0:08:47.84,0:08:50.67,Main-207+,,0,0,0,,Rufy è nei guai con i banditi di montagna!
-Dialogue: 10,0:08:51.84,0:08:54.13,Main-207+,,0,0,0,,Lasciami andare! Maledizione!
-Dialogue: 10,0:08:52.55,0:08:54.13,Secondary-207+,,0,0,0,,Che strano corpo...
-Dialogue: 10,0:08:56.26,0:08:57.43,Main-207+,,0,0,0,,Chiedi scusa!
-Dialogue: 10,0:08:57.43,0:08:59.89,Main-207+,,0,0,0,,– Che tipo di animale è?\N– Bastardo!
-Dialogue: 10,0:09:03.27,0:09:06.02,Main-207+,,0,0,0,,Dannazione! La pagherai!
-Dialogue: 10,0:09:06.02,0:09:09.07,Main-207+,,0,0,0,,Possiamo venderlo a buon prezzo
-Dialogue: 10,0:09:11.32,0:09:12.78,Main-207+,,0,0,0,,Che testardo.
-Dialogue: 10,0:09:12.78,0:09:13.80,Main-207+,,0,0,0,,Monello!
-Dialogue: 10,0:09:15.53,0:09:18.70,Main-207+,,0,0,0,,Ho detto qualcosa che ti offende?
+Dialogue: 10,0:08:46.06,0:08:47.84,Main-207+,,0,0,0,,{Cosa c'è, Makino?}Cosa c'è che non va, Makino?
+Dialogue: 10,0:08:47.84,0:08:50.67,Main-207+,,0,0,0,,Rufy è nei guai con i banditi della montagna!
+Dialogue: 10,0:08:51.84,0:08:54.13,Main-207+,,0,0,0,,Lasciami andare! {Lasciarsi andare!  Maledizione}Maledizione!
+Dialogue: 10,0:08:52.55,0:08:54.13,Secondary-207+,,0,0,0,,{Che corpo interessante...} Che strano corpo che hai qui...
+Dialogue: 10,0:08:56.26,0:08:57.43,Main-207+,,0,0,0,,{Di' che ti dispiace} Chiedi scusa!
+Dialogue: 10,0:08:57.43,0:08:59.89,Main-207+,,0,0,0,,– Che tipo di creatura {\animale}è?\N- Bastardo!
+Dialogue: 10,0:09:03.27,0:09:06.02,Main-207+,,0,0,0,,{Dannazione}Dannazione!{Ti farò pagare} Te la farò pagare!
+Dialogue: 10,0:09:06.02,0:09:09.07,Main-207+,,0,0,0,,Possiamo venderlo a buon prezzo.
+Dialogue: 10,0:09:11.32,0:09:12.78,Main-207+,,0,0,0,,{Sei così persistente.} Che testardo.
+Dialogue: 10,0:09:12.78,0:09:13.80,Main-207+,,0,0,0,,Ragazzino!
+Dialogue: 10,0:09:15.53,0:09:18.70,Main-207+,,0,0,0,,Ho detto qualcosa che ti ha offeso?
 Dialogue: 10,0:09:18.70,0:09:22.62,Main-207+,,0,0,0,,L'hai fatto! Adesso scusati!\NToglimi il piede di dosso!
 Dialogue: 10,0:09:22.62,0:09:24.79,Main-207+,,0,0,0,,Lascia andare il ragazzo!
-Dialogue: 10,0:09:25.70,0:09:26.67,Main-207+,,0,0,0,,Per favore ti prego!
-Dialogue: 10,0:09:27.51,0:09:31.55,Main-207+,,0,0,0,,Non ho intenzione di combatterti, ma sono disposto a pagare.
+Dialogue: 10,0:09:25.70,0:09:26.67,Main-207+,,0,0,0,,Per favore, ti prego!
+Dialogue: 10,0:09:27.51,0:09:31.55,Main-207+,,0,0,0,,{Non ho intenzione di litigare con te!  Se me lo permetti ti pagherò\Nanche!}Non ho intenzione di combatterti, ma sono disposto a pagare.
 Dialogue: 10,0:09:31.55,0:09:34.72,Main-207+,,0,0,0,,Risparmia la vita del ragazzo!
-Dialogue: 10,0:09:34.72,0:09:38.89,Main-207+,,0,0,0,,Lascia che se ne occupi un cittadino anziano che conosce come funziona il mondo
+Dialogue: 10,0:09:34.72,0:09:38.89,Main-207+,,0,0,0,,Si vede che sei saggio, capisci come funziona questo mondo.
 Dialogue: 10,0:09:40.18,0:09:42.14,Main-207+,,0,0,0,,Ma no.
-Dialogue: 10,0:09:42.14,0:09:46.94,Main-207+,,0,0,0,,È troppo tardi.\NDopotutto, mi ha fatto arrabbiare...
-Dialogue: 10,0:09:46.94,0:09:48.06,Main-207+,,0,0,0,,No...
-Dialogue: 10,0:09:48.06,0:09:52.98,Main-207+,,0,0,0,,Ne ho abbastanza di questo stronzo di gomma!
-Dialogue: 10,0:09:52.98,0:09:57.15,Main-207+,,0,0,0,,Qui i cattivi siete voi, scimmie di montagna!
-Dialogue: 10,0:09:57.86,0:10:01.62,Main-207+,,0,0,0,,Dimentica di venderlo.\NUccidiamolo e basta!
+Dialogue: 10,0:09:42.14,0:09:46.94,Main-207+,,0,0,0,,Adesso è troppo tardi per lui.  Dopotutto, mi ha fatto incazzare.
+Dialogue: 10,0:09:46.94,0:09:48.06,Main-207+,,0,0,0,,{Oh, per favore}No...
+Dialogue: 10,0:09:48.06,0:09:52.98,Main-207+,,0,0,0,,{Sono irritato per essere stato preso in giro da questo\Nschizzo di gomma!} Ne ho abbastanza di questo stronzetto di gomma!
+Dialogue: 10,0:09:52.98,0:09:57.15,Main-207+,,0,0,0,,{Voi siete i cattivi!  Scimmie di montagna!}Qui i cattivi siete voi, scimmie di montagna!
+Dialogue: 10,0:09:57.86,0:10:01.62,Main-207+,,0,0,0,,Non lo venderemo. Uccidiamolo e basta!
 Dialogue: 10,0:10:02.58,0:10:05.12,Main-207+,,0,0,0,,– Rufy!\N- Per favore! Lascialo andare!
-Dialogue: 10,0:10:11.79,0:10:14.47,Main-207+,,0,0,0,,Nessuno è venuto ad accoglierci al porto.
-Dialogue: 10,0:10:16.69,0:10:18.51,Main-207+,,0,0,0,,Quindi, {\i1}questo{\i0} è il motivo.
+Dialogue: 10,0:10:11.79,0:10:14.47,Main-207+,,0,0,0,,Nessuno è venuto ad accoglierci al porto{...}.
+Dialogue: 10,0:10:16.69,0:10:18.51,Main-207+,,0,0,0,,{Quindi mi sono chiesto perché...}Quindi, {\i1}questo{\i0} è il motivo.
 Dialogue: 10,0:10:19.68,0:10:22.93,Main-207+,,0,0,0,,Sono i banditi di montagna di prima.
-Dialogue: 10,0:10:21.72,0:10:22.93,Secondary-207+,,0,0,0,,Capitano!
-Dialogue: 10,0:10:22.93,0:10:27.81,Main-207+,,0,0,0,,Rufy, pensavo che i tuoi\Npugni fossero come pistole.
+Dialogue: 10,0:10:21.72,0:10:22.93,Secondary-207+,,0,0,0,,Capitano{-san}!
+Dialogue: 10,0:10:22.93,0:10:27.81,Main-207+,,0,0,0,,Rufy{!}, pensavo che i tuoi\Npugni fossero forti come pistole{?}.
 Dialogue: 10,0:10:29.00,0:10:29.98,Main-207+,,0,0,0,,Stai zitto!
 Dialogue: 10,0:10:29.98,0:10:32.61,Main-207+,,0,0,0,,Quindi voi pirati {\i1}siete{\i0} ancora qui, eh?
 Dialogue: 10,0:10:35.32,0:10:38.24,Main-207+,,0,0,0,,Faresti meglio ad andartene prima di farti male.
-Dialogue: 10,0:10:38.24,0:10:41.95,Main-207+,,0,0,0,,Avvicinati e ti faremo saltare la testa, codardo.
-Dialogue: 10,0:10:43.91,0:10:47.79,Main-207+,,0,0,0,,Ha detto di non avvicinarsi! Non costringermi a\N a premere il grilletto!
-Dialogue: 10,0:10:52.37,0:10:55.90,Main-207+,,0,0,0,,Ora che hai estratto la pistola, hai messo in gioco la tua vita.
-Dialogue: 10,0:10:55.90,0:10:57.63,Main-207+,,0,0,0,,Di cosa diavolo stai parlando?
-Dialogue: 10,0:10:57.63,0:11:01.64,Main-207+,,0,0,0,,Sto dicendo che non servono\Nper minacciare le persone.
-Dialogue: 10,0:11:15.29,0:11:17.15,Main-207+,,0,0,0,,L-L'hai fatta grossa!
+Dialogue: 10,0:10:38.24,0:10:41.95,Main-207+,,0,0,0,,Avvicinati ancora e ti faremo saltare la testa, codardo.
+Dialogue: 10,0:10:43.91,0:10:47.79,Main-207+,,0,0,0,,Ha detto di non avvicinarsi! Non costringermi a farti saltare la testa!
+Dialogue: 10,0:10:52.37,0:10:55.90,Main-207+,,0,0,0,,Ora che hai estratto la pistola, {metti in gioco\Nla tua vita.} hai messo in gioco la tua vita.
+Dialogue: 10,0:10:55.90,0:10:57.63,Main-207+,,0,0,0,,Di che diavolo stai parlando?
+Dialogue: 10,0:10:57.63,0:11:01.64,Main-207+,,0,0,0,,Sto dicendo che queste non servono\Nper minacciare le persone.
+Dialogue: 10,0:11:15.29,0:11:17.15,Main-207+,,0,0,0,,L'ha fatto!
 Dialogue: 10,0:11:17.15,0:11:19.07,Main-207+,,0,0,0,,Questi bastardi giocano sporco!
 Dialogue: 10,0:11:19.07,0:11:20.40,Main-207+,,0,0,0,,"Sporco"?
 Dialogue: 10,0:11:20.40,0:11:22.34,Main-207+,,0,0,0,,Basta con le stronzate.
-Dialogue: 10,0:11:22.34,0:11:24.55,Main-207+,,0,0,0,,Pensi di avere a che fare con santi o qualcosa del genere?
-Dialogue: 10,0:11:25.59,0:11:29.00,Main-207+,,0,0,0,,Stai fissando una ciurma di pirati!
-Dialogue: 10,0:11:29.00,0:11:32.46,Main-207+,,0,0,0,,Stai zitto! Questi non sono affari tuoi!
+Dialogue: 10,0:11:22.34,0:11:24.55,Main-207+,,0,0,0,,{Pensi di avere a che fare con santi o qualcosa del genere?} Pensi di avere a che fare con santi o qualcosa del genere?
+Dialogue: 10,0:11:25.59,0:11:29.00,Main-207+,,0,0,0,,Davanti a voi ci sono dei pirati!
+Dialogue: 10,0:11:29.00,0:11:32.46,Main-207+,,0,0,0,,Stai zitto! Comunque, questi non sono affari tuoi!
 Dialogue: 10,0:11:33.21,0:11:34.90,Main-207+,,0,0,0,,Ascoltate, banditi.
-Dialogue: 10,0:11:34.90,0:11:38.71,Main-207+,,0,0,0,,Non importa se sono inzuppato\Ndi alcol o coperto di cibo,
-Dialogue: 10,0:11:38.71,0:11:41.68,Main-207+,,0,0,0,,la maggior parte delle volte \Nsemplicemente rido e dimentico.
-Dialogue: 10,0:11:42.50,0:11:43.59,Main-207+,,0,0,0,,Ma sappi questo!
-Dialogue: 10,0:11:44.48,0:11:51.44,Main-207+,,0,0,0,,Ferisci un mio amico per qualsiasi motivo e tu ne risponderai a me.
-Dialogue: 10,0:11:52.44,0:11:53.98,Main-207+,,0,0,0,,Shanks
-Dialogue: 10,0:11:55.29,0:11:56.82,Main-207+,,0,0,0,,Rispondere a te, eh?!
+Dialogue: 10,0:11:34.90,0:11:38.71,Main-207+,,0,0,0,,{Se} Non importa se mi {schizzato}\Ninzuppate di alcol o coprite di cibo,
+Dialogue: 10,0:11:38.71,0:11:41.68,Main-207+,,0,0,0,,la maggior parte delle volte {vorrei}\Nla prendo a ridere{e dimenticarmene}.
+Dialogue: 10,0:11:42.50,0:11:43.59,Main-207+,,0,0,0,,{Ma...!}Ma sappi questo!
+Dialogue: 10,0:11:44.48,0:11:51.44,Main-207+,,0,0,0,,{Non importa quale sia il motivo, chiunque ferisce i miei amici deve\Npagare!} Ferisci un mio amico per qualsiasi motivo e ne risponderai a me.
+Dialogue: 10,0:11:52.44,0:11:53.98,Main-207+,,0,0,0,,Shanks{...}.
+Dialogue: 10,0:11:55.29,0:11:56.82,Main-207+,,0,0,0,,{Deve pagare, eh?!} Risponderne a te, eh?!
 Dialogue: 10,0:11:56.82,0:11:59.94,Main-207+,,0,0,0,,Pirati schifosi! Uccideteli, uomini!
-Dialogue: 10,0:12:04.82,0:12:06.99,Main-207+,,0,0,0,,Me ne occupo io. Non dovrebbe essere un problema.
+Dialogue: 10,0:12:04.82,0:12:06.99,Main-207+,,0,0,0,,Me ne occupo io. {Dovrebbe essere\Nabbastanza facile.}Non dovrebbe essere un problema.
 Dialogue: 10,0:12:08.33,0:12:10.31,Main-207+,,0,0,0,,Dai! Avanti!
-Dialogue: 10,0:12:11.04,0:12:12.12,Main-207+,,0,0,0,,Brucia!
+Dialogue: 10,0:12:11.04,0:12:12.12,Main-207+,,0,0,0,,{Ahi} Brucia!
 Dialogue: 10,0:12:19.41,0:12:22.38,Main-207+,,0,0,0,,Non fare l'arrogante, bandito.
-Dialogue: 10,0:12:23.50,0:12:27.26,Main-207+,,0,0,0,,Avrai bisogno di un'intera corazzata se vuoi sfidarci.
-Dialogue: 10,0:12:28.23,0:12:29.60,Main-207+,,0,0,0,,Che forza!
-Dialogue: 10,0:12:30.40,0:12:31.52,Main-207+,,0,0,0,,Incredibile....
-Dialogue: 10,0:12:31.52,0:12:35.23,Main-207+,,0,0,0,,A-Aspetta!\NIl ragazzo ci ha attaccato!
-Dialogue: 10,0:12:35.23,0:12:37.61,Main-207+,,0,0,0,,Comunque sei un ricercato.
+Dialogue: 10,0:12:23.50,0:12:27.26,Main-207+,,0,0,0,,{Se vuoi combatterci, allora trascina qui una nave da guerra o qualcosa\Ndel genere.} Avrai bisogno di un'intera corazzata se vuoi sfidarci.
+Dialogue: 10,0:12:28.23,0:12:29.60,Main-207+,,0,0,0,,Fortissimo!
+Dialogue: 10,0:12:30.40,0:12:31.52,Main-207+,,0,0,0,,Incredibile{...}.
+Dialogue: 10,0:12:31.52,0:12:35.23,Main-207+,,0,0,0,,A-Aspetta! E' Il ragazzo che ha attaccato {\i1}noi{\i0}!
+Dialogue: 10,0:12:35.23,0:12:37.61,Main-207+,,0,0,0,,{Sei comunque un uomo ricercato.} Però sei un ricercato.
 Dialogue: 10,0:12:40.17,0:12:41.20,Main-207+,,0,0,0,,Una cortina di fumo!
-Dialogue: 10,0:12:41.20,0:12:44.03,Main-207+,,0,0,0,,– Vieni con me, moccioso!\N-Lasciami andare! Lasciami andare!
+Dialogue: 10,0:12:41.20,0:12:44.03,Main-207+,,0,0,0,,– Vieni con me, moccioso!\N- {Lasciarsi andare!  Lasciami andare!}Lasciami andare!  Lasciami andare!
 Dialogue: 10,0:12:46.20,0:12:47.07,Main-207+,,0,0,0,,Rufy!
-Dialogue: 10,0:12:47.07,0:12:50.24,Main-207+,,0,0,0,,Merda! Ho abbassato la guardia! Rufy\Nse è scomparso! Cosa facciamo, ragazzi?!
+Dialogue: 10,0:12:47.07,0:12:50.24,Main-207+,,0,0,0,,Merda! Ho abbassato la guardia!  Rufy\Nse n'è andato!  Cosa facciamo, ragazzi?!
 Dialogue: 10,0:12:50.24,0:12:54.69,Main-207+,,0,0,0,,Smettila di dare di matto, capo!\NNon ci vorrà molto per trovarli!
-Dialogue: 10,0:12:54.69,0:12:57.42,Main-207+,,0,0,0,,Non posso credere che questo ragazzo...
-Dialogue: 10,0:12:59.20,0:13:01.26,Main-207+,,0,0,0,,Ho fatto una fuga perfetta!
-Dialogue: 10,0:13:01.26,0:13:04.22,Main-207+,,0,0,0,,Non so più che farmene di te!
+Dialogue: 10,0:12:54.69,0:12:57.42,Main-207+,,0,0,0,,Non ci posso credere...
+Dialogue: 10,0:12:59.20,0:13:01.26,Main-207+,,0,0,0,,Sono riuscito a scappare!
+Dialogue: 10,0:13:01.26,0:13:04.22,Main-207+,,0,0,0,,Non so più che farne di te!
 Dialogue: 10,0:13:05.01,0:13:06.59,Main-207+,,0,0,0,,Bastardo!
 Dialogue: 10,0:13:07.18,0:13:08.64,Main-207+,,0,0,0,,Addio!
 Dialogue: 10,0:13:09.15,0:13:10.81,Main-207+,,0,0,0,,Dannazione! Dannazione!
-Dialogue: 10,0:13:10.81,0:13:12.18,Main-207+,,0,0,0,,Quelli sono feccia,
-Dialogue: 10,0:13:12.18,0:13:14.94,Main-207+,,0,0,0,,ma non sono riuscito a colpirli nemmeno una volta!
+Dialogue: 10,0:13:10.81,0:13:12.18,Main-207+,,0,0,0,,Questi tizi sono feccia,{Non sono riuscito a colpire quei ciarlatani nemmeno una volta!}
+Dialogue: 10,0:13:12.18,0:13:14.94,Main-207+,,0,0,0,,ma non sono riuscito a colpirli nemmeno una volta!{Non sono riuscito a colpire quei bastardi nemmeno una volta!}
 Dialogue: 10,0:13:14.94,0:13:17.42,Main-207+,,0,0,0,,Dannazione! Dannazione!
-Dialogue: 10,0:13:19.70,0:13:22.36,Flashbacks-207+,,0,0,0,,Vedi gli sguardi sui\Nvolti di quei pirati?!
-Dialogue: 10,0:13:22.36,0:13:24.90,Flashbacks-207+,,0,0,0,,I pirati non sono altro che codardi.
-Dialogue: 10,0:13:24.90,0:13:27.90,Flashbacks-207+,,0,0,0,,Dacci un taglio! Smettila\Ndi prendere in giro Shanks e il suo equipaggio!
-Dialogue: 10,0:13:27.90,0:13:28.99,Flashbacks-207+,,0,0,0,,Calmati, Rufy!
-Dialogue: 10,0:13:30.45,0:13:33.91,Flashbacks-207+,,0,0,0,,Smettila di prendere in giro Shanks e il suo equipaggio!
-Dialogue: 10,0:13:41.31,0:13:42.61,Main-207+,,0,0,0,,Stupido ragazzo.
+Dialogue: 10,0:13:19.70,0:13:22.36,Flashbacks-207+,,0,0,0,,Hai visto gli sguardi sui volti di quei pirati?!
+Dialogue: 10,0:13:22.36,0:13:24.90,Flashbacks-207+,,0,0,0,,I pirati{sono solo un mucchio di fifoni} non sono altro che codardi.
+Dialogue: 10,0:13:24.90,0:13:27.90,Flashbacks-207+,,0,0,0,,{Smettila} Dacci un taglio! {Smettila di prendere in giro}Smettila\Ndi prendere in giro Shanks e {gli altri}il suo equipaggio!
+Dialogue: 10,0:13:27.90,0:13:28.99,Flashbacks-207+,,0,0,0,,Fermati, Rufy!
+Dialogue: 10,0:13:30.45,0:13:33.91,Flashbacks-207+,,0,0,0,,{\t(1040,3460,\4a&HFF&\3a&HFF&)}Smettila di prendere in giro Shanks e{gli altri} il suo equipaggio!
+Dialogue: 10,0:13:41.31,0:13:42.61,Main-207+,,0,0,0,,{Stupido monello.} Stupido ragazzino.
 Dialogue: 10,0:13:48.47,0:13:49.64,Main-207+,,0,0,0,,C-Che diavolo?!
 Dialogue: 10,0:13:52.79,0:13:53.89,Main-207+,,0,0,0,,Aiuto...!
 Dialogue: 10,0:13:57.56,0:13:58.81,Main-207+,,0,0,0,,Mi mangerà!
 Dialogue: 10,0:14:00.23,0:14:01.23,Main-207+,,0,0,0,,Aiuto!
 Dialogue: 10,0:14:15.89,0:14:17.21,Main-207+,,0,0,0,,Shanks...
-Dialogue: 10,0:14:25.81,0:14:27.72,Main-207+,,0,0,0,,Vattene!
+Dialogue: 10,0:14:25.81,0:14:27.72,Main-207+,,0,0,0,,Va al diavolo!
 Dialogue: 10,0:14:49.90,0:14:55.06,Main-207+,,0,0,0,,Ti sono debitore, Rufy...\NMakino-{\i1}san{\i} mi ha detto tutto.
-Dialogue: 10,0:14:55.06,0:14:58.21,Main-207+,,0,0,0,,Ci hai difeso.
-Dialogue: 10,0:14:58.94,0:15:02.17,Main-207+,,0,0,0,,Dai, non piangere!\NSei un uomo, vero?
+Dialogue: 10,0:14:55.06,0:14:58.21,Main-207+,,0,0,0,,Hai combattuto per noi.
+Dialogue: 10,0:14:58.94,0:15:02.17,Main-207+,,0,0,0,,{Ehi} Dai, non piangere!\NSei un uomo, vero?
 Dialogue: 10,0:15:03.56,0:15:06.17,Main-207+,,0,0,0,,Ma... Shanks...!
 Dialogue: 10,0:15:07.44,0:15:09.41,Main-207+,,0,0,0,,Il tuo braccio!
 Dialogue: 10,0:15:12.20,0:15:15.14,Main-207+,,0,0,0,,È solo un braccio.\NNon è un grosso problema.
-Dialogue: 10,0:15:15.90,0:15:17.76,Main-207+,,0,0,0,,Sono solo felice che tu non sia ferito.
-Dialogue: 10,0:15:27.90,0:15:31.49,Narrator-207+,,0,0,0,,Rufy ha finalmente capito il\Nmotivo per cui Shanks non lo ha mai portato in viaggio:
-Dialogue: 10,0:15:31.49,0:15:34.80,Narrator-207+,,0,0,0,,il mare era impetuoso e lui era impotente.
-Dialogue: 10,0:15:34.80,0:15:38.85,Narrator-207+,,0,0,0,,Ma cosa ancora più importante, ha scoperto la grandezza di Shanks.
-Dialogue: 10,0:15:38.85,0:15:43.42,Narrator-207+,,0,0,0,,Aspirava a diventare un uomo come lui un giorno.
-Dialogue: 10,0:15:46.40,0:15:49.67,Main-207+,,0,0,0,,Shanks, non tornerai?
-Dialogue: 10,0:15:49.67,0:15:54.01,Main-207+,,0,0,0,,No. Siamo riusciti a restare per un po', ma è ora di separarci.
-Dialogue: 10,0:15:54.01,0:15:58.00,Main-207+,,0,0,0,,Giusto. Non ti chiederò di portarmi con te questa volta.
-Dialogue: 10,0:15:58.00,0:16:01.48,Main-207+,,0,0,0,,Ho deciso di diventare un pirata da solo!
+Dialogue: 10,0:15:15.90,0:15:17.76,Main-207+,,0,0,0,,Sono solo felice che tu stia bene.
+Dialogue: 10,0:15:27.90,0:15:31.49,Narrator-207+,,0,0,0,,Rufy {ha scoperto il motivo per cui} ha finalmente capito {perché}il\Nmotivo per cui Shanks {non l'ha preso}non lo ha mai portato in viaggio:
+Dialogue: 10,0:15:31.49,0:15:34.80,Narrator-207+,,0,0,0,,{l'asprezza del mare, la sua impotenza,}la vita di mare era aspra e lui non era ancora abbastanza forte.
+Dialogue: 10,0:15:34.80,0:15:38.85,Narrator-207+,,0,0,0,,{e soprattutto}Ma cosa ancora più importante, {l'uomo chiamato\Nla grandezza di Shanks.}ha scoperto la grandezza di Shanks.
+Dialogue: 10,0:15:38.85,0:15:43.42,Narrator-207+,,0,0,0,,{Pensava davvero che un giorno avrebbe voluto diventare un uomo\Ncome lui.}Tanto che decise di diventare un uomo come lui un giorno.
+Dialogue: 10,0:15:46.40,0:15:49.67,Main-207+,,0,0,0,,Shanks,{non tornerai?} non tornerai?
+Dialogue: 10,0:15:49.67,0:15:54.01,Main-207+,,0,0,0,,{No}No.{È stato un lungo soggiorno, ma ora le nostre strade si\Nseparano.} Siamo riusciti a restare per un po', ma è ora di separarci.
+Dialogue: 10,0:15:54.01,0:15:58.00,Main-207+,,0,0,0,,{Sì, non ti chiederò più di portarmi con te.} Si. Non ti chiederò di portarmi con me questa volta.
+Dialogue: 10,0:15:58.00,0:16:01.48,Main-207+,,0,0,0,,Ho deciso di diventare un pirata da solo{ adesso}!
 Dialogue: 10,0:16:01.48,0:16:03.52,Main-207+,,0,0,0,,Non ti avrei portato comunque!
-Dialogue: 10,0:16:04.30,0:16:06.77,Main-207+,,0,0,0,,Non diventeresti mai un pirata!
+Dialogue: 10,0:16:04.30,0:16:06.77,Main-207+,,0,0,0,,{Non sarai mai un pirata!}Non diventerai mai un pirata!
 Dialogue: 10,0:16:06.77,0:16:08.00,Main-207+,,0,0,0,,Lo diventerò!
-Dialogue: 10,0:16:08.00,0:16:12.02,Main-207+,,0,0,0,,Un giorno riunirò un equipaggio\Naltrettanto bravo quanto il tuo,
-Dialogue: 10,0:16:12.02,0:16:14.11,Main-207+,,0,0,0,,e troveremo il più grande tesoro del mondo,
-Dialogue: 10,0:16:14.11,0:16:17.45,Main-207+,,0,0,0,,allora diventerò re dei pirati!
-Dialogue: 10,0:16:18.37,0:16:22.27,Main-207+,,0,0,0,,Oh?\N Ci supererai, eh?
-Dialogue: 10,0:16:24.11,0:16:25.58,Main-207+,,0,0,0,,In quel caso...
-Dialogue: 10,0:16:28.50,0:16:31.45,Main-207+,,0,0,0,,Ti lascerò questo cappello.
+Dialogue: 10,0:16:08.00,0:16:12.02,Main-207+,,0,0,0,,Un giorno, troverò dei compagni più in gamba di voi,
+Dialogue: 10,0:16:12.02,0:16:14.11,Main-207+,,0,0,0,,e troverò{più grande tesoro del\Nmondo} il più grande tesoro del mondo,
+Dialogue: 10,0:16:14.11,0:16:17.45,Main-207+,,0,0,0,,{e} allora diventerò {il}re dei pirati!
+Dialogue: 10,0:16:18.37,0:16:22.27,Main-207+,,0,0,0,,O? Ci supererai, eh?
+Dialogue: 10,0:16:24.11,0:16:25.58,Main-207+,,0,0,0,,In questo caso...
+Dialogue: 10,0:16:28.50,0:16:31.45,Main-207+,,0,0,0,,Lascerò questo cappello con te.
 Dialogue: 10,0:16:37.79,0:16:40.51,Main-207+,,0,0,0,,Mi è molto caro.
 Dialogue: 10,0:16:42.85,0:16:47.81,Main-207+,,0,0,0,,Vieni a riportarmelo un giorno,\Nquando sarai diventato un grande pirata!
 Dialogue: 10,0:16:50.53,0:16:52.69,Main-207+,,0,0,0,,Ha un bel futuro.
-Dialogue: 10,0:16:52.69,0:16:56.62,Main-207+,,0,0,0,,Sì, è molto simile\Na me da ragazzo.
-Dialogue: 10,0:16:57.46,0:16:59.66,Main-207+,,0,0,0,,Salpiamo!
-Dialogue: 10,0:17:01.01,0:17:06.50,Narrator-207+,,0,0,0,,{\fad(0,1500)}L'avventura del ragazzo sarebbe iniziata 10 anni dopo proprio da questo porto.
+Dialogue: 10,0:16:52.69,0:16:56.62,Main-207+,,0,0,0,,Sì, assomiglia a me quando ero piccolo.
+Dialogue: 10,0:16:57.46,0:16:59.66,Main-207+,,0,0,0,,Salpare!
+Dialogue: 10,0:17:01.01,0:17:06.50,Narrator-207+,,0,0,0,,{\fad(0,1500)}{Poi un decennio dopo, l'avventura del ragazzo iniziò nello stesso porto.}\NL'avventura del ragazzo sarebbe iniziata 10 anni dopo proprio da questo porto.
 Dialogue: 0,0:17:08.67,0:17:11.76,Captions,,0,0,0,,{\pos(991.5,891)\fad(350,0)\blur0.8\bord2.7\fscx135\fscy140\c&H000000&\3c&H191920&\1a&HFF&\t(305,350,\1a&H00&)}10 anni dopo
 Dialogue: 1,0:17:08.67,0:17:11.76,Captions,,0,0,0,,{\pos(991.5,891)\fad(350,0)\blur0.8\bord0\fscx135\fscy140\4a&HFF&}10 anni dopo
-Dialogue: 10,0:17:11.76,0:17:14.50,Main-207+,,0,0,0,,Bene, finalmente se ne va.
-Dialogue: 10,0:17:14.50,0:17:17.97,Main-207+,,0,0,0,,Sta disonorando il nostro villaggio diventando un pirata!
-Dialogue: 10,0:17:18.60,0:17:21.56,Main-207+,,0,0,0,,Che bella giornata per salpare!
+Dialogue: 10,0:17:11.76,0:17:14.50,Main-207+,,0,0,0,,{Finalmente se ne va, sindaco.} Bene, sindaco, finalmente se ne va.
+Dialogue: 10,0:17:14.50,0:17:17.97,Main-207+,,0,0,0,,{È un disonore per il villaggio diventare un pirata!}Sta disonorando il nostro villaggio diventando un pirata!
+Dialogue: 10,0:17:18.60,0:17:21.56,Main-207+,,0,0,0,,{Che bella giornata per salpare!}Che bella giornata per salpare!
 Dialogue: 10,0:17:27.44,0:17:28.86,Main-207+,,0,0,0,,Che diavolo...?
-Dialogue: 10,0:17:30.40,0:17:34.15,Main-207+,,0,0,0,,Ecco il nostro mostro marino locale! Non sai con chi stai scherzando.
-Dialogue: 10,0:17:34.15,0:17:37.03,Main-207+,,0,0,0,,Ecco una tecnica in lavorazione da 10 anni!
-Dialogue: 10,0:17:40.28,0:17:42.91,Main-207+,,0,0,0,,{\fad(150,150)}Gum-Gum...
+Dialogue: 10,0:17:30.40,0:17:34.15,Main-207+,,0,0,0,,Ecco il padrone della scogliera.  Non sai con chi stai scherzando.
+Dialogue: 10,0:17:34.15,0:17:37.03,Main-207+,,0,0,0,,{Guarda questa tecnica che alleno da 10 anni!}\NEcco una tecnica in lavorazione da 10 anni!
+Dialogue: 10,0:17:40.28,0:17:42.91,Main-207+,,0,0,0,,{\fad(150,150)}Gomu-Gomu no...
 Dialogue: 10,0:17:44.08,0:17:46.12,Main-207+,,0,0,0,,{\fad(150,150)}Pistol!
-Dialogue: 0,0:17:45.68,0:17:50.62,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(72,125)\fad(300,0)}We'
-Dialogue: 1,0:17:45.68,0:17:46.11,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(48,45)\fad(300,0)}A
-Dialogue: 1,0:17:45.73,0:17:50.67,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(166,125)\fad(300,0)}re go
 Dialogue: 1,0:17:45.73,0:17:46.20,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(85,45)\fad(300,0)}ri
-Dialogue: 1,0:17:45.78,0:17:50.72,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(251,125)\fad(300,0)}ing
 Dialogue: 1,0:17:45.78,0:17:46.29,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(130,45)\fad(300,0)}tta
-Dialogue: 1,0:17:45.83,0:17:50.77,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(317,125)\fad(300,0)} to
 Dialogue: 1,0:17:45.83,0:17:46.48,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(182,45)\fad(300,0)}ke
-Dialogue: 1,0:17:45.88,0:17:50.82,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(371,125)\fad(300,0)} ga
 Dialogue: 1,0:17:45.88,0:17:46.68,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(248,45)\fad(300,0)}no
-Dialogue: 1,0:17:45.93,0:17:50.87,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(416,125)\fad(300,0)}th
 Dialogue: 1,0:17:45.93,0:17:47.20,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(313,45)\fad(300,0)}yu
-Dialogue: 1,0:17:45.98,0:17:50.92,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(460,125)\fad(300,0)}er
-Dialogue: 1,0:17:45.98,0:17:47.54,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(371,45)\fad(300,0)}me
-Dialogue: 1,0:17:46.03,0:17:50.97,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(521,125)\fad(300,0)}up
+Dialogue: 1,0:17:45.98,0:17:47.54,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(371,45)\fad(300,0)}Me
 Dialogue: 1,0:17:46.03,0:17:47.74,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(447,45)\fad(300,0)}wo
-Dialogue: 1,0:17:46.08,0:17:51.02,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(586,125)\fad(300,0)}all
 Dialogue: 2,0:17:46.11,0:17:46.45,Karaoke,,0,0,0,fx,{\an5\blur0\pos(48,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}A
-Dialogue: 1,0:17:46.13,0:17:51.07,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(661,125)\fad(300,0)}our
 Dialogue: 1,0:17:46.13,0:17:49.01,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(518,45)\fad(300,0)}ka
-Dialogue: 1,0:17:46.18,0:17:51.12,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(733,125)\fad(300,0)} dr
 Dialogue: 1,0:17:46.18,0:17:49.15,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(567,45)\fad(300,0)}ki
 Dialogue: 2,0:17:46.20,0:17:46.54,Karaoke,,0,0,0,fx,{\an5\blur0\pos(85,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,90,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ri
-Dialogue: 1,0:17:46.23,0:17:51.17,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(779,125)\fad(300,0)}ea
 Dialogue: 1,0:17:46.23,0:17:49.34,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(614,45)\fad(300,0)}a
-Dialogue: 1,0:17:46.28,0:17:51.22,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(833,125)\fad(300,0)}ms
 Dialogue: 1,0:17:46.28,0:17:49.62,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(656,45)\fad(300,0)}tsu
 Dialogue: 2,0:17:46.29,0:17:46.73,Karaoke,,0,0,0,fx,{\an5\blur0\pos(130,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tta
 Dialogue: 1,0:17:46.33,0:17:49.84,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(719,45)\fad(300,0)}me
 Dialogue: 2,0:17:46.48,0:17:46.93,Karaoke,,0,0,0,fx,{\an5\blur0\pos(182,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ke
-Dialogue: 2,0:17:46.68,0:17:47.45,Karaoke,,0,0,0,fx,{\an5\blur0\pos(248,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,520,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
+Dialogue: 2,0:17:46.68,0:17:47.45,Karaoke,,0,0,0,fx,{\an5\blur0\pos(248,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,520,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}NO
 Dialogue: 2,0:17:47.20,0:17:47.79,Karaoke,,0,0,0,fx,{\an5\blur0\pos(313,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,340,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}yu
-Dialogue: 2,0:17:47.54,0:17:47.99,Karaoke,,0,0,0,fx,{\an5\blur0\pos(371,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}me
+Dialogue: 2,0:17:47.54,0:17:47.99,Karaoke,,0,0,0,fx,{\an5\blur0\pos(371,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Me
 Dialogue: 2,0:17:47.74,0:17:48.95,Karaoke,,0,0,0,fx,{\an5\blur0\pos(447,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,960,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wo
 Dialogue: 2,0:17:49.01,0:17:49.40,Karaoke,,0,0,0,fx,{\an5\blur0\pos(518,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,140,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ka
 Dialogue: 2,0:17:49.15,0:17:49.59,Karaoke,,0,0,0,fx,{\an5\blur0\pos(567,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,190,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ki
 Dialogue: 2,0:17:49.34,0:17:49.87,Karaoke,,0,0,0,fx,{\an5\blur0\pos(614,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,280,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}a
 Dialogue: 2,0:17:49.62,0:17:50.09,Karaoke,,0,0,0,fx,{\an5\blur0\pos(656,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}tsu
 Dialogue: 2,0:17:49.84,0:17:51.52,Karaoke,,0,0,0,fx,{\an5\blur0\pos(719,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1430,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}me
-Dialogue: 2,0:17:50.62,0:17:50.92,Lyrics,,0,0,0,fx,{\an5\blur0\pos(72,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\)\fad(0,200)}We'
-Dialogue: 2,0:17:50.67,0:17:50.97,Lyrics,,0,0,0,fx,{\an5\blur0\pos(166,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}re go
-Dialogue: 2,0:17:50.72,0:17:51.02,Lyrics,,0,0,0,fx,{\an5\blur0\pos(251,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ing
-Dialogue: 2,0:17:50.77,0:17:51.07,Lyrics,,0,0,0,fx,{\an5\blur0\pos(317,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)} to
-Dialogue: 2,0:17:50.82,0:17:51.12,Lyrics,,0,0,0,fx,{\an5\blur0\pos(371,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)} ga
-Dialogue: 2,0:17:50.87,0:17:51.17,Lyrics,,0,0,0,fx,{\an5\blur0\pos(416,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}th
-Dialogue: 2,0:17:50.92,0:17:51.22,Lyrics,,0,0,0,fx,{\an5\blur0\pos(460,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}er
-Dialogue: 2,0:17:50.97,0:17:51.27,Lyrics,,0,0,0,fx,{\an5\blur0\pos(521,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}up
-Dialogue: 2,0:17:51.02,0:17:51.32,Lyrics,,0,0,0,fx,{\an5\blur0\pos(586,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}all
-Dialogue: 2,0:17:51.07,0:17:51.37,Lyrics,,0,0,0,fx,{\an5\blur0\pos(661,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}our
-Dialogue: 2,0:17:51.12,0:17:51.42,Lyrics,,0,0,0,fx,{\an5\blur0\pos(733,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)} dr
-Dialogue: 1,0:17:51.14,0:17:56.45,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(69,125)\fad(300,0)}and
 Dialogue: 1,0:17:51.14,0:17:51.62,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(56,45)\fad(300,0)}Sa
-Dialogue: 2,0:17:51.17,0:17:51.47,Lyrics,,0,0,0,fx,{\an5\blur0\pos(779,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ea
-Dialogue: 1,0:17:51.19,0:17:56.50,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(149,125)\fad(300,0)}set
 Dialogue: 1,0:17:51.19,0:17:51.84,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(105,45)\fad(300,0)}ga
-Dialogue: 2,0:17:51.22,0:17:51.52,Lyrics,,0,0,0,fx,{\an5\blur0\pos(833,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ms
-Dialogue: 1,0:17:51.24,0:17:56.55,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(223,125)\fad(300,0)}out
 Dialogue: 1,0:17:51.24,0:17:51.97,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(161,45)\fad(300,0)}shi
-Dialogue: 1,0:17:51.29,0:17:56.60,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(290,125)\fad(300,0)}in
 Dialogue: 1,0:17:51.29,0:17:52.20,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(240,45)\fad(300,0)}mo
-Dialogue: 1,0:17:51.34,0:17:56.65,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(348,125)\fad(300,0)}se
-Dialogue: 1,0:17:51.34,0:17:52.42,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(299,45)\fad(300,0)}no
-Dialogue: 1,0:17:51.39,0:17:56.70,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(392,125)\fad(300,0)}ar
+Dialogue: 1,0:17:51.34,0:17:52.42,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(299,45)\fad(300,0)}NO
 Dialogue: 1,0:17:51.39,0:17:52.57,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(369,45)\fad(300,0)}wo
-Dialogue: 1,0:17:51.44,0:17:56.75,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(440,125)\fad(300,0)}ch
 Dialogue: 1,0:17:51.44,0:17:52.86,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(435,45)\fad(300,0)}sa
-Dialogue: 1,0:17:51.49,0:17:56.80,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(500,125)\fad(300,0)}of
 Dialogue: 1,0:17:51.49,0:17:53.28,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(479,45)\fad(300,0)}ga
-Dialogue: 1,0:17:51.54,0:17:56.85,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(556,125)\fad(300,0)}so
 Dialogue: 1,0:17:51.54,0:17:53.37,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(535,45)\fad(300,0)}shi
-Dialogue: 1,0:17:51.59,0:17:56.90,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(610,125)\fad(300,0)}me
 Dialogue: 1,0:17:51.59,0:17:53.99,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(604,45)\fad(300,0)}ni
 Dialogue: 2,0:17:51.62,0:17:52.09,Karaoke,,0,0,0,fx,{\an5\blur0\pos(56,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Sa
-Dialogue: 1,0:17:51.64,0:17:56.95,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(665,125)\fad(300,0)}th
 Dialogue: 1,0:17:51.64,0:17:54.35,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(666,45)\fad(300,0)}yu
-Dialogue: 1,0:17:51.69,0:17:57.00,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(721,125)\fad(300,0)}ing
 Dialogue: 1,0:17:51.69,0:17:54.71,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(720,45)\fad(300,0)}ku
-Dialogue: 1,0:17:51.74,0:17:57.05,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(786,125)\fad(300,0)}to
 Dialogue: 1,0:17:51.74,0:17:55.04,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(787,45)\fad(300,0)}no
-Dialogue: 1,0:17:51.79,0:17:57.10,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(836,125)\fad(300,0)}fi
 Dialogue: 1,0:17:51.79,0:17:55.30,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(848,45)\fad(300,0)}sa
-Dialogue: 1,0:17:51.84,0:17:57.15,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(881,125)\fad(300,0)}nd
 Dialogue: 2,0:17:51.84,0:17:52.22,Karaoke,,0,0,0,fx,{\an5\blur0\pos(105,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,130,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ga
 Dialogue: 2,0:17:51.97,0:17:52.45,Karaoke,,0,0,0,fx,{\an5\blur0\pos(161,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,230,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}shi
 Dialogue: 2,0:17:52.20,0:17:52.67,Karaoke,,0,0,0,fx,{\an5\blur0\pos(240,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,220,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}mo
@@ -421,69 +379,28 @@ Dialogue: 2,0:17:54.35,0:17:54.96,Karaoke,,0,0,0,fx,{\an5\blur0\pos(666,45)\bord
 Dialogue: 2,0:17:54.71,0:17:55.29,Karaoke,,0,0,0,fx,{\an5\blur0\pos(720,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,330,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ku
 Dialogue: 2,0:17:55.04,0:17:55.55,Karaoke,,0,0,0,fx,{\an5\blur0\pos(787,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,260,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
 Dialogue: 2,0:17:55.30,0:17:57.35,Karaoke,,0,0,0,fx,{\an5\blur0\pos(848,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1800,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}sa
-Dialogue: 10,0:17:56.09,0:17:58.55,Main-207+,,0,0,0,,Che ti sia di lezione, dannato pesce!
-Dialogue: 2,0:17:56.45,0:17:56.75,Lyrics,,0,0,0,fx,{\an5\blur0\pos(69,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}and
-Dialogue: 2,0:17:56.50,0:17:56.80,Lyrics,,0,0,0,fx,{\an5\blur0\pos(149,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}set
-Dialogue: 2,0:17:56.55,0:17:56.85,Lyrics,,0,0,0,fx,{\an5\blur0\pos(223,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}out
-Dialogue: 2,0:17:56.60,0:17:56.90,Lyrics,,0,0,0,fx,{\an5\blur0\pos(290,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}in
-Dialogue: 2,0:17:56.65,0:17:56.95,Lyrics,,0,0,0,fx,{\an5\blur0\pos(348,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}se
-Dialogue: 2,0:17:56.70,0:17:57.00,Lyrics,,0,0,0,fx,{\an5\blur0\pos(392,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ar
-Dialogue: 2,0:17:56.75,0:17:57.05,Lyrics,,0,0,0,fx,{\an5\blur0\pos(440,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ch
-Dialogue: 2,0:17:56.80,0:17:57.10,Lyrics,,0,0,0,fx,{\an5\blur0\pos(500,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}of
-Dialogue: 2,0:17:56.85,0:17:57.15,Lyrics,,0,0,0,fx,{\an5\blur0\pos(556,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}so
-Dialogue: 2,0:17:56.90,0:17:57.20,Lyrics,,0,0,0,fx,{\an5\blur0\pos(610,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}me
-Dialogue: 1,0:17:56.92,0:17:59.60,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(48,125)\fad(300,0)}A
+Dialogue: 10,0:17:56.09,0:17:58.55,Main-207+,,0,0,0,,Così impari, stupido pesce!
 Dialogue: 1,0:17:56.92,0:17:57.36,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(61,45)\fad(300,0)}PO
-Dialogue: 2,0:17:56.95,0:17:57.25,Lyrics,,0,0,0,fx,{\an5\blur0\pos(665,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}th
-Dialogue: 1,0:17:56.97,0:17:59.65,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(102,125)\fad(300,0)}co
 Dialogue: 1,0:17:56.97,0:17:57.54,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(126,45)\fad(300,0)}KE
-Dialogue: 2,0:17:57.00,0:17:57.30,Lyrics,,0,0,0,fx,{\an5\blur0\pos(721,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ing
-Dialogue: 1,0:17:57.02,0:17:59.70,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(147,125)\fad(300,0)}in
 Dialogue: 1,0:17:57.02,0:17:57.91,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(206,45)\fad(300,0)}TTO
-Dialogue: 2,0:17:57.05,0:17:57.35,Lyrics,,0,0,0,fx,{\an5\blur0\pos(786,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}to
-Dialogue: 1,0:17:57.07,0:17:59.75,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(205,125)\fad(300,0)}in
 Dialogue: 1,0:17:57.07,0:17:58.48,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(292,45)\fad(300,0)}no
-Dialogue: 2,0:17:57.10,0:17:57.40,Lyrics,,0,0,0,fx,{\an5\blur0\pos(836,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}fi
-Dialogue: 1,0:17:57.12,0:17:59.80,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(275,125)\fad(300,0)}my
 Dialogue: 1,0:17:57.12,0:17:59.00,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(365,45)\fad(300,0)}KO
-Dialogue: 2,0:17:57.15,0:17:57.45,Lyrics,,0,0,0,fx,{\an5\blur0\pos(881,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}nd
-Dialogue: 1,0:17:57.17,0:17:59.85,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(346,125)\fad(300,0)}po
 Dialogue: 1,0:17:57.17,0:17:59.28,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(428,45)\fad(300,0)}IN
-Dialogue: 1,0:17:57.22,0:17:59.90,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(396,125)\fad(300,0)}ck
-Dialogue: 1,0:17:57.27,0:17:59.95,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(447,125)\fad(300,0)}et,
 Dialogue: 2,0:17:57.36,0:17:57.79,Karaoke,,0,0,0,fx,{\an5\blur0\pos(61,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,180,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}PO
 Dialogue: 2,0:17:57.54,0:17:58.16,Karaoke,,0,0,0,fx,{\an5\blur0\pos(126,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,370,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}KE
 Dialogue: 2,0:17:57.91,0:17:58.73,Karaoke,,0,0,0,fx,{\an5\blur0\pos(206,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,570,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}TTO
 Dialogue: 2,0:17:58.48,0:17:59.25,Karaoke,,0,0,0,fx,{\an5\blur0\pos(292,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,520,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}no
 Dialogue: 2,0:17:59.00,0:17:59.53,Karaoke,,0,0,0,fx,{\an5\blur0\pos(365,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,280,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}KO
 Dialogue: 2,0:17:59.28,0:18:00.25,Karaoke,,0,0,0,fx,{\an5\blur0\pos(428,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,720,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}IN
-Dialogue: 2,0:17:59.60,0:17:59.90,Lyrics,,0,0,0,fx,{\an5\blur0\pos(48,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}A
-Dialogue: 1,0:17:59.64,0:18:02.68,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(69,125)\fad(300,0)}and
 Dialogue: 1,0:17:59.64,0:18:00.19,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(56,45)\fad(300,0)}So
-Dialogue: 2,0:17:59.65,0:17:59.95,Lyrics,,0,0,0,fx,{\an5\blur0\pos(102,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}co
-Dialogue: 1,0:17:59.69,0:18:02.73,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(144,125)\fad(300,0)}do
 Dialogue: 1,0:17:59.69,0:18:00.43,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(105,45)\fad(300,0)}re
-Dialogue: 2,0:17:59.70,0:18:00.00,Lyrics,,0,0,0,fx,{\an5\blur0\pos(147,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}in
-Dialogue: 1,0:17:59.74,0:18:02.78,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(218,125)\fad(300,0)}you
 Dialogue: 1,0:17:59.74,0:18:00.61,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(146,45)\fad(300,0)}to
-Dialogue: 2,0:17:59.75,0:18:00.05,Lyrics,,0,0,0,fx,{\an5\blur0\pos(205,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}in
-Dialogue: 1,0:17:59.79,0:18:02.83,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(300,125)\fad(300,0)}wa
 Dialogue: 1,0:17:59.79,0:18:00.72,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(220,45)\fad(300,0)}You
-Dialogue: 2,0:17:59.80,0:18:00.10,Lyrics,,0,0,0,fx,{\an5\blur0\pos(275,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}my
-Dialogue: 1,0:17:59.84,0:18:02.88,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(372,125)\fad(300,0)}nna
 Dialogue: 1,0:17:59.84,0:18:00.98,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(321,45)\fad(300,0)}wan
-Dialogue: 2,0:17:59.85,0:18:00.15,Lyrics,,0,0,0,fx,{\an5\blur0\pos(346,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}po
-Dialogue: 1,0:17:59.89,0:18:02.93,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(450,125)\fad(300,0)}be
 Dialogue: 1,0:17:59.89,0:18:01.12,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(393,45)\fad(300,0)}na
-Dialogue: 2,0:17:59.90,0:18:00.20,Lyrics,,0,0,0,fx,{\an5\blur0\pos(396,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ck
-Dialogue: 1,0:17:59.94,0:18:02.98,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(521,125)\fad(300,0)}my
 Dialogue: 1,0:17:59.94,0:18:01.31,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(456,45)\fad(300,0)}be
-Dialogue: 2,0:17:59.95,0:18:00.25,Lyrics,,0,0,0,fx,{\an5\blur0\pos(447,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}et,
-Dialogue: 1,0:17:59.99,0:18:03.03,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(589,125)\fad(300,0)}fr
 Dialogue: 1,0:17:59.99,0:18:01.67,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(527,45)\fad(300,0)}my
-Dialogue: 1,0:18:00.04,0:18:03.08,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(629,125)\fad(300,0)}ie
 Dialogue: 1,0:18:00.04,0:18:01.97,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(661,45)\fad(300,0)}Friend?
-Dialogue: 1,0:18:00.09,0:18:03.13,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(690,125)\fad(300,0)}nd?
 Dialogue: 2,0:18:00.19,0:18:00.68,Karaoke,,0,0,0,fx,{\an5\blur0\pos(56,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,240,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}So
 Dialogue: 2,0:18:00.43,0:18:00.86,Karaoke,,0,0,0,fx,{\an5\blur0\pos(105,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,180,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}re
 Dialogue: 2,0:18:00.61,0:18:00.97,Karaoke,,0,0,0,fx,{\an5\blur0\pos(146,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,110,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}to
@@ -493,16 +410,6 @@ Dialogue: 2,0:18:01.12,0:18:01.56,Karaoke,,0,0,0,fx,{\an5\blur0\pos(393,45)\bord
 Dialogue: 2,0:18:01.31,0:18:01.92,Karaoke,,0,0,0,fx,{\an5\blur0\pos(456,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,360,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}be
 Dialogue: 2,0:18:01.67,0:18:02.22,Karaoke,,0,0,0,fx,{\an5\blur0\pos(527,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,300,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}my
 Dialogue: 2,0:18:01.97,0:18:03.43,Karaoke,,0,0,0,fx,{\an5\blur0\pos(661,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1210,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}Friend?
-Dialogue: 2,0:18:02.68,0:18:02.98,Lyrics,,0,0,0,fx,{\an5\blur0\pos(69,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}and
-Dialogue: 2,0:18:02.73,0:18:03.03,Lyrics,,0,0,0,fx,{\an5\blur0\pos(144,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}do
-Dialogue: 2,0:18:02.78,0:18:03.08,Lyrics,,0,0,0,fx,{\an5\blur0\pos(218,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}you
-Dialogue: 2,0:18:02.83,0:18:03.13,Lyrics,,0,0,0,fx,{\an5\blur0\pos(300,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}wa
-Dialogue: 2,0:18:02.88,0:18:03.18,Lyrics,,0,0,0,fx,{\an5\blur0\pos(372,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}nna
-Dialogue: 2,0:18:02.93,0:18:03.23,Lyrics,,0,0,0,fx,{\an5\blur0\pos(450,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}be
-Dialogue: 2,0:18:02.98,0:18:03.28,Lyrics,,0,0,0,fx,{\an5\blur0\pos(521,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}my
-Dialogue: 2,0:18:03.03,0:18:03.33,Lyrics,,0,0,0,fx,{\an5\blur0\pos(589,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}fr
-Dialogue: 2,0:18:03.08,0:18:03.38,Lyrics,,0,0,0,fx,{\an5\blur0\pos(629,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}ie
-Dialogue: 2,0:18:03.13,0:18:03.43,Lyrics,,0,0,0,fx,{\an5\blur0\pos(690,125)\bord2.6\t(0,100,\1c&HD8933F&\3c&HFFFFFF&\fscx100\fscy100)\t(100,50,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}nd?
 Dialogue: 1,0:18:03.15,0:18:03.62,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(67,45)\fad(300,0)}We
 Dialogue: 1,0:18:03.20,0:18:04.16,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(158,45)\fad(300,0)}are,
 Dialogue: 1,0:18:03.25,0:18:05.07,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(248,45)\fad(300,0)}We
@@ -513,16 +420,16 @@ Dialogue: 1,0:18:03.45,0:18:06.47,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(596,
 Dialogue: 2,0:18:03.62,0:18:04.41,Karaoke,,0,0,0,fx,{\an5\blur0\pos(67,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,540,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}We
 Dialogue: 2,0:18:04.16,0:18:05.32,Karaoke,,0,0,0,fx,{\an5\blur0\pos(158,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,910,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}are,
 Dialogue: 2,0:18:05.07,0:18:05.85,Karaoke,,0,0,0,fx,{\an5\blur0\pos(248,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,530,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}We
-Dialogue: 10,0:18:05.24,0:18:06.73,Main-207+,,0,0,0,,Bene!  Andiamo!
+Dialogue: 10,0:18:05.24,0:18:06.73,Main-207+,,0,0,0,,Bene! Andiamo!
 Dialogue: 2,0:18:05.60,0:18:06.35,Karaoke,,0,0,0,fx,{\an5\blur0\pos(332,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,500,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}are
 Dialogue: 2,0:18:06.10,0:18:06.55,Karaoke,,0,0,0,fx,{\an5\blur0\pos(404,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,200,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}on
 Dialogue: 2,0:18:06.30,0:18:06.72,Karaoke,,0,0,0,fx,{\an5\blur0\pos(477,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,170,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}the
 Dialogue: 2,0:18:06.47,0:18:08.32,Karaoke,,0,0,0,fx,{\an5\blur0\pos(596,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,1600,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}cruise!
-Dialogue: 10,0:18:07.48,0:18:09.06,Main-207+,,0,0,0,,Diventerò...
+Dialogue: 10,0:18:07.48,0:18:09.06,Main-207+,,0,0,0,,Diventerò{venirò}...
 Dialogue: 1,0:18:08.50,0:18:09.02,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(67,45)\fad(300,0)}We
 Dialogue: 1,0:18:08.55,0:18:09.32,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(159,45)\fad(300,0)}are!
 Dialogue: 2,0:18:09.02,0:18:09.57,Karaoke,,0,0,0,fx,{\an5\blur0\pos(67,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,300,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}We
-Dialogue: 10,0:18:09.06,0:18:11.88,Main-207+,,0,0,0,,Re dei pirati!
+Dialogue: 10,0:18:09.06,0:18:11.88,Main-207+,,0,0,0,,il re dei pirati!
 Dialogue: 2,0:18:09.32,0:18:09.95,Karaoke,,0,0,0,fx,{\an5\blur0\pos(159,45)\bord3\t(0,100,\1c&HF8D4A1&\3c&HFFFFFF&\fscx130\fscy130)\t(100,380,\fscx100\fscy100\3c&H00FFFFFF&)\fad(0,200)}are!
 Dialogue: 1,0:18:11.30,0:18:11.82,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(67,45)\fad(300,0)}We
 Dialogue: 1,0:18:11.35,0:18:12.12,Karaoke,,0,0,0,fx,{\an5\bord2.6\blur0\pos(159,45)\fad(300,0)}are!

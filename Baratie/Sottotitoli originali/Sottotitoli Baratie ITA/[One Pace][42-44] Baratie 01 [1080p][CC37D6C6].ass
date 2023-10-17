@@ -66,7 +66,7 @@ Dialogue: 0,0:00:17.49,0:00:19.29,Credits-207-,,0,0,0,,{\blur0.6\pos(90,90)\bord
 Dialogue: 1,0:00:17.49,0:00:19.29,Credits-207-,,0,0,0,,{\blur0.6\pos(90,90)\bord0\fad(600,600)\4a&HFF&}Raws
 Dialogue: 0,0:00:17.49,0:00:19.29,Credits-207-,,0,0,0,,{\blur0.6\pos(130,136)\fscx120\fscy125\bord3\fad(600,600)\c&H000000&\1a&HFF&\t(555,600,\1a&H00&)\t(1200,1245,\1a&HFF&)}df68
 Dialogue: 1,0:00:17.49,0:00:19.29,Credits-207-,,0,0,0,,{\blur0.6\pos(130,136)\fscx120\fscy125\bord0\fad(600,600)\4a&HFF&}df68
-Dialogue: 0,0:00:21.09,0:00:26.13,Main-480p,,0,0,0,,{\i1}Ora i pirati si dirigono verso la Rotta Maggiore\Ninseguendo i loro sogni!
+Dialogue: 0,0:00:21.76,0:00:26.13,Main-480p,,0,0,0,,{\i1}Ora i pirati si dirigono verso la Rotta Maggiore\Ninseguendo i loro sogni!
 Dialogue: 0,0:00:26.13,0:00:27.76,Main-480p,,0,0,0,,{\i1}Il mondo è entrato...
 Dialogue: 0,0:00:27.76,0:00:29.72,Main-480p,,0,0,0,,{\i1}Nella Grande Era dei pirati!
 Dialogue: 1,0:00:30.03,0:00:34.97,Lyrics,,0,0,0,fx,{\an5\bord2.6\blur0\pos(301,1010)\fad(300,0)}We'
@@ -1158,7 +1158,7 @@ Dialogue: 10,0:03:41.14,0:03:43.07,Main-207-,,0,0,0,,Che cosa intendi, "amico"?!
 Dialogue: 10,0:03:43.07,0:03:48.18,Main-207-,,0,0,0,,Non so cosa sta succedendo, ma smettila di rompere la nostra nave!
 Dialogue: 10,0:03:49.47,0:03:53.41,Main-207-,,0,0,0,, S-Sconfitto da un novellino...
 Dialogue: 10,0:03:54.40,0:03:56.04,Main-207-,,0,0,0,,Che succede?
-Dialogue: 10,0:03:57.59,0:04:00.14,Main-207-,,0,0,0,,Eh? sei tu, Johnny?
+Dialogue: 10,0:03:57.59,0:04:00.14,Main-207-,,0,0,0,,Eh? Sei tu, Johnny?
 Dialogue: 10,0:04:00.17,0:04:03.44,Main-207-,,0,0,0,,Come osi pronunciare il mio nome?!
 Dialogue: 10,0:04:05.89,0:04:07.91,Main-207-,,0,0,0,,Zoro?!
 Dialogue: 10,0:04:07.91,0:04:09.35,Main-207-,,0,0,0,, {\i1}Sei{\i} tu, Johnny!
@@ -1175,14 +1175,14 @@ Dialogue: 10,0:04:43.83,0:04:45.97,Main-207-,,0,0,0,,E non so quale sia la causa
 Dialogue: 10,0:04:48.13,0:04:53.13,Main-207-,,0,0,0,,{In the end, his teeth fell out}Poi gli sono caduti i denti e una vecchia ferita si è riaperta.
 Dialogue: 10,0:04:53.13,0:04:55.89,Main-207-,,0,0,0,,Non sapevo più cosa fare.
 Dialogue: 10,0:04:56.51,0:05:00.53,Main-207-,,0,0,0,,{so we were on a rocky island\Nletting him rest quietly. But then...}Cosi l'ho portato su un isolotto roccioso per farlo riposare, ma poi...
-Dialogue: 10,0:05:07.74,0:05:10.13,Main-207-,,0,0,0,,una palla di cannone è arrivata da questa nave...
-Dialogue: 10,0:05:21.17,0:05:23.35,Main-207-,,0,0,0,,– S - Scusa!\N– S - Scusa!
+Dialogue: 10,0:05:07.74,0:05:10.13,Main-207-,,0,0,0,,Una palla di cannone è arrivata da questa nave...
+Dialogue: 10,0:05:21.17,0:05:23.35,Main-207-,,0,0,0,,– S-Scusa!\N– S-Scusa!
 Dialogue: 10,0:05:25.75,0:05:28.01,Main-207-,,0,0,0,,Le scuse non bastano.
 Dialogue: 10,0:05:30.21,0:05:33.51,Main-207-,,0,0,0,,Stai bene, amico?
 Dialogue: 10,0:05:35.41,0:05:39.40,Main-207-,,0,0,0,,Fratello, credi che morirà?
 Dialogue: 10,0:05:44.67,0:05:45.74,Main-207-,,0,0,0,,Ma siete stupidi o cosa?
 Dialogue: 10,0:05:45.74,0:05:46.74,Main-207-,,0,0,0,,Cosa hai detto?!
-Dialogue: 10,0:05:52.75,0:05:54.65,Main-207-,,0,0,0,,C- Cosa stai facendo?!
+Dialogue: 10,0:05:52.75,0:05:54.65,Main-207-,,0,0,0,,C-Cosa stai facendo?!
 Dialogue: 10,0:05:53.30,0:05:54.65,Secondary-207-,,0,0,0,,Ahi!
 Dialogue: 10,0:05:54.65,0:05:58.21,Main-207-,,0,0,0,,Se ti stai prendendo gioco della morte del mio amico la pagherai!–
 Dialogue: 10,0:05:58.81,0:06:00.15,Main-207-,,0,0,0,,Luffy! Usopp!
@@ -1193,7 +1193,7 @@ Dialogue: 10,0:06:07.35,0:06:09.57,Main-207-,,0,0,0,,– Fuori dai piedi!\N– F
 Dialogue: 10,0:06:19.17,0:06:20.52,Main-207-,,0,0,0,,È scorbuto.
 Dialogue: 10,0:06:21.33,0:06:22.70,Main-207-,,0,0,0,,Scorbuto?
 Dialogue: 10,0:06:22.70,0:06:25.74,Main-207-,,0,0,0,,{If we weren't too late,\Nhe'll be fine in just a few days.}Se non siamo arrivati troppo tardi, si rimetterà nel giro di qualche giorno.
-Dialogue: 10,0:06:25.74,0:06:28.32,Main-207-,,0,0,0,,D- Davvero, sorella?!
+Dialogue: 10,0:06:25.74,0:06:28.32,Main-207-,,0,0,0,,D-Davvero, sorella?!
 Dialogue: 10,0:06:28.32,0:06:30.53,Main-207-,,0,0,0,,Sorella, davvero lui è...
 Dialogue: 10,0:06:31.09,0:06:34.16,Main-207-,,0,0,0,,Smettila di chiamarmi cosi!
 Dialogue: 10,0:06:35.11,0:06:39.61,Main-207-,,0,0,0,,In passato, era una malattia che prendeva i naviganti alla quale non c'era cura.
@@ -1203,18 +1203,18 @@ Dialogue: 10,0:06:48.26,0:06:53.18,Main-207-,,0,0,0,,{Ships in the past didn't c
 Dialogue: 10,0:06:54.05,0:06:55.81,Main-207-,,0,0,0,,Sei incredibile!
 Dialogue: 10,0:06:55.82,0:06:57.53,Main-207-,,0,0,0,,Sei come un dottore!
 Dialogue: 10,0:06:57.53,0:07:02.69,Main-207-,,0,0,0,,Beh, ho sempre pensato che fossi una ragazza in gamba.
-Dialogue: 10,0:07:03.12,0:07:04.77,Main-207-,,0,0,0,,{You should know at least that much!}Dovresti sapere queste cose!
-Dialogue: 10,0:07:04.77,0:07:07.49,Main-207-,,0,0,0,,Un giorno potrebbe ucciderti!
+Dialogue: 10,0:07:03.12,0:07:04.77,Main-207-,,0,0,0,,{You should know at least that much!}Dovreste sapere queste cose!
+Dialogue: 10,0:07:04.77,0:07:07.49,Main-207-,,0,0,0,,Un giorno potrebbe uccidervi!
 Dialogue: 10,0:07:12.03,0:07:12.91,Main-207-,,0,0,0,,Cos...
 Dialogue: 10,0:07:12.91,0:07:18.15,Main-207-,,0,0,0,,– Evviva! Evviva! Evviva!\N– Evviva! Evviva! Evviva!
 Dialogue: 10,0:07:18.15,0:07:20.41,Main-207-,,0,0,0,,Questi nutrienti mi hanno salvato!
 Dialogue: 10,0:07:20.41,0:07:21.83,Main-207-,,0,0,0,,Evviva, amico!
-Dialogue: 10,0:07:22.09,0:07:24.79,Main-207-,,0,0,0,,Non è possibile che ti sei ripreso così presto!
+Dialogue: 10,0:07:22.09,0:07:24.79,Main-207-,,0,0,0,,Non è possibile che ti sia ripreso così presto!
 Dialogue: 10,0:07:28.19,0:07:29.97,Main-207-,,0,0,0,,{Sorry for not introducing ourselves first.}Scusateci se ci presentiamo in ritardo
 Dialogue: 10,0:07:30.81,0:07:32.29,Main-207-,,0,0,0,,Mi chiamo Johnny.
 Dialogue: 10,0:07:33.01,0:07:34.43,Main-207-,,0,0,0,,E io Yosaku.
-Dialogue: 0,0:07:35.01,0:07:39.35,Captions_v2-207-,,0,0,468,,{\blur0.3\bord1.7\fad(450,0)\pos(720,701.142)\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}Johnny and Yosaku\NCacciatori di taglie
-Dialogue: 1,0:07:35.01,0:07:39.35,Captions_v2-207-,,0,0,468,,{\blur0.3\c&HE5E5E5&\bord0\fad(450,0)\pos(720,701.142)\4a&HFF&}Johnny and Yosaku\NCacciatori di taglie
+Dialogue: 0,0:07:35.01,0:07:39.35,Captions_v2-207-,,0,0,468,,{\blur0.3\bord1.7\fad(450,0)\pos(720,701.142)\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}Johnny e Yosaku\NCacciatori di taglie
+Dialogue: 1,0:07:35.01,0:07:39.35,Captions_v2-207-,,0,0,468,,{\blur0.3\c&HE5E5E5&\bord0\fad(450,0)\pos(720,701.142)\4a&HFF&}Johnny e Yosaku\NCacciatori di taglie
 Dialogue: 10,0:07:35.29,0:07:39.35,Main-207-,,0,0,2,,Siamo cacciatori di pirati!
 Dialogue: 10,0:07:39.35,0:07:42.19,Main-207-,,0,0,0,,Lavoravamo con Zoro.
 Dialogue: 10,0:07:42.19,0:07:44.55,Main-207-,,0,0,0,,Piacere di fare la vostra conoscenza.
@@ -1225,20 +1225,20 @@ Dialogue: 10,0:07:56.96,0:07:57.62,Main-207-,,0,0,0,,Si, lo so.
 Dialogue: 10,0:07:58.73,0:07:59.73,Main-207-,,0,0,0,,Fratello!
 Dialogue: 10,0:08:06.65,0:08:08.30,Main-207-,,0,0,0,,Hei, amico?!
 Dialogue: 10,0:08:19.37,0:08:21.60,Main-207-,,0,0,0,,Ci serva di lezione.
-Dialogue: 10,0:08:21.60,0:08:26.31,Main-207-,,0,0,0,,{Yeah. There're pitfalls like this when you travel on the sea for a long time...}Si. Ci sono insidie come queste nei viaggi lunghi.
-Dialogue: 10,0:08:26.31,0:08:29.90,Main-207-,,0,0,0,,{Which means on the ship,\Nwe have to consider}Il che signica che, sulla nave, dobbiamo considerare
-Dialogue: 10,0:08:29.90,0:08:32.57,Main-207-,,0,0,0,,{the distribution of nutrients\Nusing limited kinds of food...}come nutrirsi in modo equilibrato avendo cibo limitato
+Dialogue: 10,0:08:21.60,0:08:26.31,Main-207-,,0,0,0,,{Yeah. There're pitfalls like this when you travel on the sea for a long time...}Si. Ci sono insidie come queste nei lunghi viaggi.
+Dialogue: 10,0:08:26.31,0:08:29.90,Main-207-,,0,0,0,,{Which means on the ship,\Nwe have to consider}Ciò signica che, sulla nave, dobbiamo considerare
+Dialogue: 10,0:08:29.90,0:08:32.57,Main-207-,,0,0,0,,{the distribution of nutrients\Nusing limited kinds of food...}come nutrirci in modo equilibrato avendo cibo limitato
 Dialogue: 10,0:08:32.57,0:08:36.78,Main-207-,,0,0,0,,{When we think about it carefully,\Nit's a necessary ability...}Se ci pensi, questo richiede una serie di abilità
 Dialogue: 10,0:08:39.42,0:08:41.35,Main-207-,,0,0,0,,{A necessary ability, huh?}Una serie di abilità, dici?
 Dialogue: 10,0:08:42.53,0:08:44.38,Main-207-,,0,0,0,,Ci sono! Un cuoco!
 Dialogue: 10,0:08:44.38,0:08:45.37,Main-207-,,0,0,0,,– Cosa?\N– Cosa?
 Dialogue: 10,0:08:45.37,0:08:47.57,Main-207-,,0,0,0,,Andiamo a cercare un cuoco!
-Dialogue: 10,0:08:47.57,0:08:51.96,Main-207-,,0,0,0,,Giusto! Così potremo mangiare mangiare buon cibo anche sulla nave!
+Dialogue: 10,0:08:47.57,0:08:51.96,Main-207-,,0,0,0,,Giusto! Così potremo mangiare buon cibo anche sulla nave!
 Dialogue: 10,0:08:51.96,0:08:54.93,Main-207-,,0,0,0,,Esatto!
 Dialogue: 10,0:08:56.11,0:09:00.01,Main-207-,,0,0,0,,{If you're looking for a cook like that,\Nthere's a perfect place for that.}Se stai cercando un cuoco del genere conosco il posto giusto.
-Dialogue: 10,0:09:00.61,0:09:06.52,Main-207-,,0,0,0,,Ma questo posto è vicino alla Rotta Maggiore
-Dialogue: 10,0:09:06.52,0:09:08.06,Main-207-,,0,0,0,,Si dice che si trovi dove
-Dialogue: 10,0:09:08.06,0:09:11.10,Main-207-,,0,0,0,,troverai l'uomo con gli occhi di falco che stavi cercando.
+Dialogue: 10,0:09:00.61,0:09:06.52,Main-207-,,0,0,0,,Ma questo posto è vicino alla Rotta Maggiore.
+Dialogue: 10,0:09:06.52,0:09:08.06,Main-207-,,0,0,0,,Il posto in cui si dice che si trovi
+Dialogue: 10,0:09:08.06,0:09:11.10,Main-207-,,0,0,0,,l'uomo con gli occhi di falco che stavi cercando.
 Dialogue: 10,0:09:12.86,0:09:14.27,Main-207-,,0,0,0,,Rotta a...
 Dialogue: 10,0:09:15.11,0:09:16.99,Main-207-,,0,0,0,,nord-nordest
 Dialogue: 10,0:09:16.99,0:09:18.16,Main-207-,,0,0,0,,Uhm!
@@ -1262,10 +1262,10 @@ Dialogue: 10,0:10:16.67,0:10:18.25,Main-207-,,0,0,0,,Q-Quando è comparsa?!
 Dialogue: 10,0:10:21.59,0:10:23.56,Main-207-,,0,0,0,,Non ho mai visto quella bandiera pirata.
 Dialogue: 10,0:10:24.71,0:10:25.61,Main-207-,,0,0,0,,Maledizione!
 Dialogue: 10,0:10:26.69,0:10:29.17,Main-207-,,0,0,0,,Non siamo pirati!
-Dialogue: 0,0:10:30.35,0:10:36.90,Captions_v2-207-,,0,0,447,,{\blur0.3\bord1.7\fad(400,0)\fscx86\fscy95\pos(722.286,694.714)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}Tenente Fullbody "pugno di ferro" Quartier Generale della Marina
-Dialogue: 1,0:10:30.35,0:10:36.90,Captions_v2-207-,,0,0,447,,{\blur0.3\c&HE7E6E6&\bord0\fad(400,0)\fscx86\fscy95\pos(722.286,694.714)\4a&HFF&}Tenente Fullbody "pugno di ferro" Quartier Generale della Marina
+Dialogue: 0,0:10:30.35,0:10:36.90,Captions_v2-207-,,0,0,447,,{\blur0.3\bord1.7\fad(400,0)\fscx86\fscy95\pos(722.286,694.714)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}Tenente Fullbody "Pugno di ferro" Quartier Generale della Marina
+Dialogue: 1,0:10:30.35,0:10:36.90,Captions_v2-207-,,0,0,447,,{\blur0.3\c&HE7E6E6&\bord0\fad(400,0)\fscx86\fscy95\pos(722.286,694.714)\4a&HFF&}Tenente Fullbody "Pugno di ferro" Quartier Generale della Marina
 Dialogue: 10,0:10:31.73,0:10:34.44,Main-207-,,0,0,2,,Sono del Quartier Generale della Marina!
-Dialogue: 10,0:10:34.44,0:10:36.91,Main-207-,,0,0,2,,Tenente Fullbody "pugno di ferro"!
+Dialogue: 10,0:10:34.44,0:10:36.91,Main-207-,,0,0,2,,Tenente Fullbody "Pugno di ferro"!
 Dialogue: 10,0:10:36.91,0:10:40.59,Main-207-,,0,0,0,,Chi è il vostro capitano?!\NFatti avanti e dimmi il tuo nome!
 Dialogue: 10,0:10:41.33,0:10:42.95,Main-207-,,0,0,0,,Sono Luffy!
 Dialogue: 10,0:10:42.95,0:10:45.20,Main-207-,,0,0,0,,Sono Usopp!
@@ -1291,16 +1291,16 @@ Dialogue: 10,0:11:42.70,0:11:44.87,Main-207-,,0,0,0,,{Next time we see him,\Nwe'
 Dialogue: 10,0:11:44.87,0:11:47.22,Main-207-,,0,0,0,,Che cos'è?
 Dialogue: 10,0:11:47.77,0:11:51.18,Main-207-,,0,0,0,,Sono pirati ricercati, \NSorella Nami–
 Dialogue: 10,0:11:54.47,0:11:57.93,Main-207-,,0,0,0,,In altre parole, se li catturiamo,\Navremo i soldi della ricompensa.
-Dialogue: 10,0:11:58.45,0:12:00.67,Main-207-,,0,0,0,,{A very profitable business,\Ndon't you think, Big Sis?}Un business redditizio,\NNon è vero, sorella?
+Dialogue: 10,0:11:58.45,0:12:00.67,Main-207-,,0,0,0,,{A very profitable business,\Ndon't you think, Big Sis?}Un business redditizio,\Nnon è vero, sorella?
 Dialogue: 10,0:12:07.99,0:12:11.41,Main-207-,,0,0,0,,S-Siamo nei guai.\NStanno puntando su di noi!
 Dialogue: 10,0:12:16.54,0:12:17.50,Main-207-,,0,0,0,,Ci penso io!
 Dialogue: 10,0:12:17.92,0:12:21.13,Main-207-,,0,0,0,,{\fad(150,150)}Gum-Gum...
-Dialogue: 10,0:12:23.68,0:12:25.22,Main-207-,,0,0,0,,{\fad(150,150)}Catapulta!
+Dialogue: 10,0:12:23.68,0:12:25.22,Main-207-,,0,0,0,,{\fad(150,150)}Fionda!
 Dialogue: 10,0:12:43.45,0:12:46.28,Main-207-,,0,0,0,,Ahia...
 Dialogue: 10,0:12:54.00,0:12:55.25,Main-207-,,0,0,0,,Signore!
-Dialogue: 10,0:12:55.25,0:12:57.16,Main-207-,,0,0,0,,Va tutto bene, Chef Zeff?!
+Dialogue: 10,0:12:55.25,0:12:57.16,Main-207-,,0,0,0,,Va tutto bene, Chef Zef?!
 Dialogue: 10,0:12:57.16,0:12:58.92,Main-207-,,0,0,0,,Signore, si sente bene?!
-Dialogue: 10,0:13:02.42,0:13:04.43,Main-207-,,0,0,0,,Chef Zeff, davvero sta bene?
+Dialogue: 10,0:13:02.42,0:13:04.43,Main-207-,,0,0,0,,Chef Zef, davvero sta bene?
 Dialogue: 10,0:13:04.43,0:13:06.93,Main-207-,,0,0,0,,Ho detto che non sto bene!
 Dialogue: 10,0:13:08.60,0:13:11.81,Main-207-,,0,0,0,,Non importa, tornate al ristorante!\Nmettetevi al lavoro!
 Dialogue: 10,0:13:12.63,0:13:14.81,Main-207-,,0,0,0,,M-Ma Signore, lei è...
@@ -1313,8 +1313,8 @@ Dialogue: 10,0:13:38.25,0:13:40.81,Main-207-,,0,0,0,,M-M-Mi dispiace!
 Dialogue: 10,0:13:44.17,0:13:46.12,Main-207-,,0,0,0,,Ahhh! La tua gamba...
 Dialogue: 10,0:13:46.12,0:13:47.72,Main-207-,,0,0,0,,Idiota!
 Dialogue: 10,0:13:48.21,0:13:50.33,Main-207-,,0,0,0,,{O-Oh, then it was like that from the beginning...}O-Oh, allora era già così.
-Dialogue: 0,0:13:54.18,0:13:57.90,Captions_v2-207-,,0,0,447,,{\blur0.3\bord1.7\fad(450,0)\pos(720,706.143)\fscx101\fscy108\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}Zeff Capo cuoco & Proprietario\Ndel Ristorante sul mare
-Dialogue: 1,0:13:54.18,0:13:57.90,Captions_v2-207-,,0,0,447,,{\blur0.3\bord0\fad(450,0)\c&HE5E6E6&\pos(720,706.143)\fscx101\fscy108\4a&HFF&}Zeff Capo cuoco & Proprietario\Ndel Ristorante sul mare
+Dialogue: 0,0:13:54.18,0:13:57.90,Captions_v2-207-,,0,0,447,,{\blur0.3\bord1.7\fad(450,0)\pos(720,706.143)\fscx101\fscy108\c&H000000&\1a&HFF&\t(405,450,\1a&H00&)}Zef Capo cuoco & Proprietario\Ndel Ristorante sul mare
+Dialogue: 1,0:13:54.18,0:13:57.90,Captions_v2-207-,,0,0,447,,{\blur0.3\bord0\fad(450,0)\c&HE5E6E6&\pos(720,706.143)\fscx101\fscy108\4a&HFF&}Zef Capo cuoco & Proprietario\Ndel Ristorante sul mare
 Dialogue: 10,0:13:54.83,0:13:57.90,Main-207-,,0,0,2,,Sono pieno di lividi.
 Dialogue: 10,0:13:58.39,0:14:02.22,Main-207-,,0,0,0,,{The medical fees and the repair}{charges for the ship will cost you a lot!}Le spese mediche e le riparazioni\Nper la nave ti costeranno una fortuna!
 Dialogue: 10,0:14:05.31,0:14:07.27,Main-207-,,0,0,0,,Non ti chiederò di ridurre le spese.
@@ -1325,7 +1325,7 @@ Dialogue: 10,0:14:14.75,0:14:16.62,Main-207-,,0,0,0,,Stai scherzando, vero?
 Dialogue: 10,0:14:17.49,0:14:19.45,Main-207-,,0,0,0,,Beh, se non hai soldi,
 Dialogue: 10,0:14:19.45,0:14:21.47,Main-207-,,0,0,0,,{you have no other choice but to work here.}vuol dire che lavorerai qui.
 Dialogue: 10,0:14:21.47,0:14:23.55,Main-207-,,0,0,0,,Va bene, sono sicuro che ti ripagherò.
-Dialogue: 10,0:14:23.55,0:14:26.38,Main-207-,,0,0,0,,Farai lo sguattero gratis, per un anno
+Dialogue: 10,0:14:23.55,0:14:26.38,Main-207-,,0,0,0,,Farai lo sguattero gratis, per un anno.
 Dialogue: 10,0:14:26.38,0:14:29.11,Main-207-,,0,0,0,,Ok! Sguattero gratis, per un anno!
 Dialogue: 10,0:14:29.11,0:14:30.91,Main-207-,,0,0,0,,Bene, ti lascio in pace allora.
 Dialogue: 10,0:14:31.75,0:14:35.41,Main-207-,,0,0,0,,U-Un anno?! U-Un anno...
@@ -1333,7 +1333,7 @@ Dialogue: 10,0:14:35.41,0:14:37.48,Main-207-,,0,0,0,,Intendi, un anno?!
 Dialogue: 10,0:14:49.05,0:14:51.07,Main-207-,,0,0,0,,Perchè Luffy ci mette tanto?
 Dialogue: 10,0:14:51.07,0:14:52.43,Main-207-,,0,0,0,,Già.
 Dialogue: 10,0:14:52.43,0:14:56.29,Main-207-,,0,0,0,,Forse gli faranno fare lo sguattero per un mese o due.
-Dialogue: 10,0:14:56.29,0:15:00.35,Main-207-,,0,0,0,,Avrebbe dovuto dare la colpa alla Marina.\NChe stupido sempliciotto onesto.
+Dialogue: 10,0:14:56.29,0:15:00.35,Main-207-,,0,0,0,,Avrebbe dovuto incolpare la Marina.\NChe stupido sempliciotto onesto.
 Dialogue: 10,0:15:18.14,0:15:19.39,Main-207-,,0,0,0,,Hei, guarda.
 Dialogue: 10,0:15:19.39,0:15:23.11,Main-207-,,0,0,0,,Proprio come pensavo, l'uomo seduto laggiù è il tenente Fullbody.
 Dialogue: 10,0:15:23.11,0:15:25.52,Main-207-,,0,0,0,,È il tenente del Quartier Generale della Marina.
@@ -1351,12 +1351,12 @@ Dialogue: 10,0:15:58.89,0:16:01.35,Main-207-,,0,0,0,,Ithürzburger Stein!
 Dialogue: 10,0:16:02.73,0:16:06.15,Main-207-,,0,0,0,,Ho ragione, cameriere?!
 Dialogue: 10,0:16:06.15,0:16:07.40,Main-207-,,0,0,0,,Assolutamente...
 Dialogue: 10,0:16:07.40,0:16:10.32,Main-207-,,0,0,0,,No, signore.
-Dialogue: 10,0:16:11.99,0:16:13.57,Main-207-,,0,0,0,,La sua zuppa si sta facendo fredda.
+Dialogue: 10,0:16:11.99,0:16:13.57,Main-207-,,0,0,0,,La sua zuppa si sta freddando.
 Dialogue: 10,0:16:13.57,0:16:15.03,Main-207-,,0,0,0,,La prego di mangiarla finchè è calda.
 Dialogue: 10,0:16:19.79,0:16:23.08,Main-207-,,0,0,2,,A proposito, Sono Sanji, Sous chef.
-Dialogue: 0,0:16:19.79,0:16:24.29,Captions_v2-207-,,0,0,447,,{\blur0.3\bord1.7\fad(400,0)\pos(720,694.714)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}Sanji Sous Chef\Ndel Ristorante sul mare
-Dialogue: 1,0:16:19.79,0:16:24.29,Captions_v2-207-,,0,0,447,,{\blur0.3\bord0\fad(400,0)\pos(720,694.714)\c&HE6E6E6&\4a&HFF&}Sanji Sous Chef\Ndel Ristorante sul mare
-Dialogue: 10,0:16:24.75,0:16:27.54,Main-207-,,0,0,0,,{All the waiters ran off as of yesterday.}Tutti camerieri sono fuggiti ieri.
+Dialogue: 0,0:16:19.79,0:16:24.29,Captions_v2-207-,,0,0,447,,{\blur0.3\bord1.7\fad(400,0)\pos(720,694.714)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)}Sanji, Sous Chef\Ndel Ristorante sul mare
+Dialogue: 1,0:16:19.79,0:16:24.29,Captions_v2-207-,,0,0,447,,{\blur0.3\bord0\fad(400,0)\pos(720,694.714)\c&HE6E6E6&\4a&HFF&}Sanji, Sous Chef\Ndel Ristorante sul mare
+Dialogue: 10,0:16:24.75,0:16:27.54,Main-207-,,0,0,0,,{All the waiters ran off as of yesterday.}Tutti i camerieri sono fuggiti ieri.
 Dialogue: 10,0:16:34.22,0:16:36.05,Main-207-,,0,0,0,,Non dovresti ridere.
 Dialogue: 10,0:16:36.05,0:16:38.56,Main-207-,,0,0,0,,Ma era cosi sicuro di sè!
 Dialogue: 10,0:16:40.14,0:16:41.14,Main-207-,,0,0,0,,Ne sai molto...
@@ -1370,7 +1370,7 @@ Dialogue: 10,0:17:03.00,0:17:04.50,Main-207-,,0,0,0,,Che significa quello?
 Dialogue: 10,0:17:04.50,0:17:07.13,Main-207-,,0,0,0,,Una riduzione a una settimana.
 Dialogue: 10,0:17:09.09,0:17:10.71,Main-207-,,0,0,0,,Stai scherzando, vero?
 Dialogue: 10,0:17:12.05,0:17:13.26,Main-207-,,0,0,0,,Due settimane!
-Dialogue: 10,0:17:13.26,0:17:18.22,Main-207-,,0,0,0,,{Hey! You wrecked my restaurant and\Ninjured me, the Head Chef, seriously.}Hei! Hai ditrutto il ristorante e ferito seriamente me, il capo cuoco.
+Dialogue: 10,0:17:13.26,0:17:18.22,Main-207-,,0,0,0,,{Hey! You wrecked my restaurant and\Ninjured me, the Head Chef, seriously.}Hei! Hai distrutto il ristorante e ferito seriamente me, il capo cuoco.
 Dialogue: 10,0:17:18.22,0:17:22.98,Main-207-,,0,0,0,,Non puoi cavartela solo con una o due settimane di lavoro gratis.
 Dialogue: 10,0:17:22.98,0:17:24.73,Main-207-,,0,0,0,,Ho deciso! Tre settimane!
 Dialogue: 10,0:17:26.27,0:17:28.06,Main-207-,,0,0,0,,Basta...
@@ -1380,7 +1380,7 @@ Dialogue: 10,0:17:42.95,0:17:43.95,Main-207-,,0,0,0,,Eh?
 Dialogue: 10,0:17:44.45,0:17:47.96,Main-207-,,0,0,0,,Ho aspettato con pazienza 10 anni per diventare un pirata.
 Dialogue: 10,0:17:48.88,0:17:52.17,Main-207-,,0,0,0,,Non voglio rimanere bloccato qui per un altro anno!
 Dialogue: 10,0:17:52.17,0:17:53.05,Main-207-,,0,0,0,,Hmm?
-Dialogue: 10,0:17:53.05,0:17:54.80,Main-207-,,0,0,0,,Ok, Ho deciso.
+Dialogue: 10,0:17:53.05,0:17:54.80,Main-207-,,0,0,0,,Ok, ho deciso.
 Dialogue: 10,0:17:54.80,0:17:56.93,Main-207-,,0,0,0,,Tra una settimana mi lascerai andare da qui.
 Dialogue: 10,0:17:56.93,0:17:58.59,Main-207-,,0,0,0,,Questa è la mia decisione.
 Dialogue: 10,0:17:58.59,0:18:02.01,Main-207-,,0,0,0,,Oh? Se dai così tanta importanza al tempo
@@ -1391,7 +1391,7 @@ Dialogue: 10,0:18:13.98,0:18:15.40,Main-207-,,0,0,0,,No!
 Dialogue: 10,0:18:15.82,0:18:18.61,Main-207-,,0,0,0,,Ha! Mi prendi in giro?!
 Dialogue: 10,0:18:26.12,0:18:27.58,Main-207-,,0,0,0,,Cameriere!
 Dialogue: 10,0:18:28.21,0:18:29.00,Main-207-,,0,0,0,,Hmm?
-Dialogue: 10,0:18:33.42,0:18:36.26,Main-207-,,0,0,0,,Gliel l'ho detto, non sono un cameriere!
+Dialogue: 10,0:18:33.42,0:18:36.26,Main-207-,,0,0,0,,Gliel'ho detto, non sono un cameriere!
 Dialogue: 10,0:18:39.38,0:18:42.51,Main-207-,,0,0,0,,Ma lei è uno splendore!
 Dialogue: 10,0:18:43.85,0:18:48.02,Main-207-,,0,0,0,,Signorina, le andrebbe di bere un po' di vino con me?
 Dialogue: 10,0:18:48.73,0:18:49.73,Main-207-,,0,0,0,,Eh?
@@ -1402,9 +1402,9 @@ Dialogue: 10,0:18:59.78,0:19:03.20,Thoughts-207-,,0,0,0,,Hmph! Questo rovinerà 
 Dialogue: 10,0:19:03.91,0:19:07.08,Main-207-,,0,0,0,,Mi scusi signore, ma non lo so.
 Dialogue: 10,0:19:07.83,0:19:12.13,Main-207-,,0,0,0,,Non so molto sugli insetti.
 Dialogue: 10,0:19:24.26,0:19:25.81,Main-207-,,0,0,0,,Non prendermi in giro!
-Dialogue: 10,0:19:43.03,0:19:46.95,Main-207-,,0,0,0,,Avrebbe potuto mangiarla, se avesse tolto l'insetto, vero?
-Dialogue: 10,0:19:47.33,0:19:52.37,Main-207-,,0,0,0,,Ci ho messo tre giorni e tre notti a fare questa zuppa, a togliere la schiuma
-Dialogue: 10,0:19:53.21,0:19:57.75,Main-207-,,0,0,0,,Non crede di stare esagerando un pò?
+Dialogue: 10,0:19:43.03,0:19:46.95,Main-207-,,0,0,0,,Avrebbe potuto mangiarla, se avesse tolto l'insetto, no?
+Dialogue: 10,0:19:47.33,0:19:52.37,Main-207-,,0,0,0,,Ci ho messo tre giorni e tre notti a fare questa zuppa, togliendo la schiuma.
+Dialogue: 10,0:19:53.21,0:19:57.75,Main-207-,,0,0,0,,Non credi di stare esagerando un pò?
 Dialogue: 10,0:20:00.30,0:20:04.26,Main-207-,,0,0,0,,Sono un cliente! Io pago!
 Dialogue: 10,0:20:04.26,0:20:06.05,Main-207-,,0,0,0,,Per favore basta, Fullbody!
 Dialogue: 10,0:20:06.05,0:20:06.89,Main-207-,,0,0,0,,Sta zitta!
@@ -1427,15 +1427,15 @@ Dialogue: 10,0:21:10.95,0:21:14.50,Main-207-,,0,0,0,,Non... sprecare il cibo.
 Dialogue: 10,0:21:17.92,0:21:20.30,Main-207-,,0,0,0,,In mare, insultare un cuoco
 Dialogue: 10,0:21:20.71,0:21:25.30,Main-207-,,0,0,0,,equivale al suicidio.\NRicordalo.
 Dialogue: 10,0:21:36.65,0:21:37.81,Main-207-,,0,0,0,,Non riesco più a trattenerla...
-Dialogue: 10,0:21:37.81,0:21:42.53,Main-207-,,0,0,0,,Servire i clienti! questo è "amore"!\Ne "amore" significa "ristorante"!
+Dialogue: 10,0:21:37.81,0:21:42.53,Main-207-,,0,0,0,,Servire i clienti! Questo è "amore"!\NE "amore" significa "ristorante"!
 Dialogue: 10,0:21:42.53,0:21:45.74,Main-207-,,0,0,0,,Il cliente è sacro!{@TLQC - "The customer is God!" may be a bit too much?}
 Dialogue: 10,0:21:46.15,0:21:51.70,Main-207-,,0,0,0,,Motto! Motto! È il mio motto da servizio!\NIl servizio è fatto di piacevoli saluti!
-Dialogue: 0,0:21:51.74,0:21:58.08,Captions_v2-207-,,0,0,447,,{\blur0.3\bord1.7\fad(400,400)\pos(720,705)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(5940,5985,\1a&HFF&)}Patty Cuoco\Ndel Ristorante sul mare
-Dialogue: 1,0:21:51.74,0:21:58.08,Captions_v2-207-,,0,0,447,,{\blur0.3\bord0\fad(400,400)\pos(720,705)\c&HE6E6E6&\4a&HFF&}Patty Cuoco\Ndel Ristorante sul mare
+Dialogue: 0,0:21:51.74,0:21:58.08,Captions_v2-207-,,0,0,447,,{\blur0.3\bord1.7\fad(400,400)\pos(720,705)\c&H000000&\1a&HFF&\t(355,400,\1a&H00&)\t(5940,5985,\1a&HFF&)}Patty, Cuoco\Ndel Ristorante sul mare
+Dialogue: 1,0:21:51.74,0:21:58.08,Captions_v2-207-,,0,0,447,,{\blur0.3\bord0\fad(400,400)\pos(720,705)\c&HE6E6E6&\4a&HFF&}Patty, Cuoco\Ndel Ristorante sul mare
 Dialogue: 10,0:21:52.16,0:21:54.62,Main-207-,,0,0,2,,Benvenuto, maledetto furfante.
 Dialogue: 10,0:21:54.62,0:21:56.08,Main-207-,,0,0,2,,Per favore, non tornare più.
 Dialogue: 10,0:21:56.08,0:21:58.08,Main-207-,,0,0,2,,Mi dispiace tanto.
-Dialogue: 10,0:21:58.08,0:21:59.67,Main-207-,,0,0,2,,Diecimila belly in arrivo!
+Dialogue: 10,0:21:58.08,0:21:59.67,Main-207-,,0,0,2,,Diecimila berry in arrivo!
 Dialogue: 10,0:21:59.67,0:22:01.55,Main-207-,,0,0,2,,Sei patetico!
 Dialogue: 10,0:22:03.71,0:22:06.22,Main-207-,,0,0,0,,Ahh! Ora si che mi sono liberato,
 Dialogue: 10,0:22:06.22,0:22:08.59,Main-207-,,0,0,0,,e oggi mi sta andando alla grande!
@@ -1450,7 +1450,7 @@ Dialogue: 10,0:22:33.41,0:22:37.37,Main-207-,,0,0,0,,Un pessimo cuoco non ha il 
 Dialogue: 10,0:22:37.37,0:22:39.54,Main-207-,,0,0,0,,I ristoranti non possono esistere senza i clienti!
 Dialogue: 10,0:22:39.54,0:22:43.55,Main-207-,,0,0,0,,Che cosa credevi di fare?!
 Dialogue: 10,0:22:43.55,0:22:45.05,Main-207-,,0,0,0,,Chissenefrega dei clienti!
-Dialogue: 10,0:22:45.67,0:22:50.84,Main-207-,,0,0,0,,Ha sprecato il cibo\Ne insultato i cuochi
+Dialogue: 10,0:22:45.67,0:22:50.84,Main-207-,,0,0,0,,Ha sprecato il cibo\Ne insultato i cuochi.
 Dialogue: 10,0:22:54.72,0:22:57.23,Main-207-,,0,0,0,,Così gli ho insegnato una lezione.
 Dialogue: 10,0:22:59.69,0:23:01.90,Thoughts-207-,,0,0,0,,Che razza di ristorante!
 Dialogue: 10,0:23:01.90,0:23:06.36,Thoughts-207-,,0,0,0,,Nessun ristorante dovrebbe trattare i clienti in questo modo.
@@ -1462,7 +1462,7 @@ Dialogue: 10,0:23:21.21,0:23:22.54,Main-207-,,0,0,0,,Fermati, Sous Chef!
 Dialogue: 10,0:23:22.54,0:23:24.67,Main-207-,,0,0,0,,Soltanto guardare
 Dialogue: 10,0:23:23.25,0:23:24.42,Secondary-207-,,0,0,0,,{\an8}Che stai facendo?!
 Dialogue: 10,0:23:24.42,0:23:26.46,Secondary-207-,,0,0,0,,{\an8}Se continui così saremo in grossi guai!
-Dialogue: 10,0:23:24.67,0:23:28.13,Main-207-,,0,0,0,,un arrogante sbruffone come mi fa ribollire il sangue!
+Dialogue: 10,0:23:24.67,0:23:28.13,Main-207-,,0,0,0,,un arrogante sbruffone come te mi fa ribollire il sangue!
 Dialogue: 10,0:23:26.46,0:23:28.13,Secondary-207-,,0,0,0,,{\an8}Fermati, Sanji!
 Dialogue: 10,0:23:28.13,0:23:30.22,Main-207-,,0,0,0,,Basta, stai esagerando, Sanji!
 Dialogue: 10,0:23:31.68,0:23:34.85,Main-207-,,0,0,0,,Così credi di essere un pezzo grosso?! Eh?!
@@ -1485,10 +1485,10 @@ Dialogue: 10,0:24:21.35,0:24:23.23,Main-207-,,0,0,0,,Moccioso!
 Dialogue: 10,0:24:24.77,0:24:27.69,Main-207-,,0,0,0,,Levati di torno anche tu!
 Dialogue: 10,0:24:33.32,0:24:39.24,Thoughts-207-,,0,0,0,,Cos'ha che non va questo ristorante?\NDal modo in cui si comportano sembra...
 Dialogue: 10,0:24:39.24,0:24:42.96,Thoughts-207-,,0,0,0,,È come se... come se.... questa fosse una nave pirata!
-Dialogue: 10,0:24:42.96,0:24:45.42,Main-207-,,0,0,0,,Ascoltatemi Il cliente è sacro!
+Dialogue: 10,0:24:42.96,0:24:45.42,Main-207-,,0,0,0,,Ascoltatemi! Il cliente è sacro!
 Dialogue: 10,0:24:46.13,0:24:50.01,Main-207-,,0,0,0,,Solo quelli che mangiano i tuoi schifosi piatti.
 Dialogue: 10,0:24:50.01,0:24:51.26,Main-207-,,0,0,0,,Patty, Sanji!
-Dialogue: 10,0:24:51.26,0:24:53.76,Main-207-,,0,0,0,,Se volete combattere, fatelo in cucina!
+Dialogue: 10,0:24:51.26,0:24:53.76,Main-207-,,0,0,0,,Se volete litigare, fatelo in cucina!
 Dialogue: 10,0:24:54.93,0:24:57.72,Thoughts-207-,,0,0,0,,Questi idioti sono davvero cuochi?
 Dialogue: 10,0:24:57.72,0:25:01.27,Main-207-,,0,0,0,,T-Tenente! Tenente Fullbody!
 Dialogue: 10,0:25:03.44,0:25:05.27,Main-207-,,0,0,0,,A-Abbiamo problemi!
@@ -1504,10 +1504,10 @@ Dialogue: 10,0:25:34.38,0:25:35.55,Main-207-,,0,0,0,,Sono molto...
 Dialogue: 10,0:25:48.48,0:25:50.98,Main-207-,,0,0,0,,Abbiamo un nuovo cliente.
 Dialogue: 10,0:25:50.98,0:25:55.15,Main-207-,,0,0,0,,È meglio che non dia di matto nel mio ristorante.
 Dialogue: 10,0:25:55.61,0:25:57.07,Main-207-,,0,0,0,,Un pirata, eh?
-Dialogue: 10,0:26:10.34,0:26:13.71,Main-207-,,0,0,0,,Va tutto bene. Portatemi del cibo
+Dialogue: 10,0:26:10.34,0:26:13.71,Main-207-,,0,0,0,,Portatemi del cibo.\NVa bene tutto.
 Dialogue: 10,0:26:15.97,0:26:18.09,Main-207-,,0,0,0,,È un ristorante, giusto?
 Dialogue: 10,0:26:18.09,0:26:20.60,Main-207-,,0,0,0,,Benvenuto, maledetto farabutto.
-Dialogue: 10,0:26:21.76,0:26:26.10,Main-207-,,0,0,0,,Lo dirò di nuovo, quindi ascoltatemi bene.\NPortatemi del cibo
+Dialogue: 10,0:26:21.76,0:26:26.10,Main-207-,,0,0,0,,Lo dirò di nuovo, quindi ascoltatemi bene.\NPortatemi del cibo.
 Dialogue: 10,0:26:26.10,0:26:28.23,Main-207-,,0,0,0,,Quel cuoco sarà ucciso...
 Dialogue: 10,0:26:28.23,0:26:33.19,Main-207-,,0,0,0,,Ehm, Signore, mi scusi tanto,\Nma ha i soldi per il cibo?
 Dialogue: 10,0:26:37.11,0:26:38.45,Main-207-,,0,0,0,,Un proiettile va bene?
@@ -1515,7 +1515,7 @@ Dialogue: 10,0:26:38.45,0:26:40.28,Main-207-,,0,0,0,,Quindi non ha soldi, vero?
 Dialogue: 10,0:26:41.16,0:26:42.08,Main-207-,,0,0,0,,Cosa?!
 Dialogue: 10,0:26:42.08,0:26:44.54,Main-207-,,0,0,0,,Patty, idiota!\NHa rotto la sedia.
 Dialogue: 10,0:26:44.54,0:26:46.12,Main-207-,,0,0,0,,Wow, è forte!
-Dialogue: 10,0:26:47.91,0:26:51.54,Main-207-,,0,0,0,,Se non hai soldi per il cibo, non sei un cliente
+Dialogue: 10,0:26:47.91,0:26:51.54,Main-207-,,0,0,0,,Se non hai soldi per il cibo, non sei un cliente.
 Dialogue: 10,0:26:51.54,0:26:53.29,Main-207-,,0,0,0,,Ottimo lavoro, cuoco!
 Dialogue: 10,0:26:53.29,0:26:56.26,Main-207-,,0,0,0,,Suonagliele, Patty!
 Dialogue: 10,0:26:57.34,0:27:01.51,Main-207-,,0,0,0,,Oh... Il tuo stomaco sta brontolando, pirata.
@@ -1525,7 +1525,7 @@ Dialogue: 10,0:27:07.02,0:27:09.48,Main-207-,,0,0,0,,Se non sei un cliente, allo
 Dialogue: 10,0:27:15.40,0:27:17.69,Main-207-,,0,0,0,,N-Ne ho avuto abbastanza!
 Dialogue: 10,0:27:17.69,0:27:20.32,Main-207-,,0,0,0,,Non voglio avere più niente a che fare con questo ristorante!
 Dialogue: 10,0:27:20.32,0:27:23.12,Main-207-,,0,0,0,,Non tornerò mai più!
-Dialogue: 10,0:27:28.41,0:27:33.50,Main-207-,,0,0,0,,Ora, cari clienti, vi prego di continuare il vostro pasto
+Dialogue: 10,0:27:28.41,0:27:33.50,Main-207-,,0,0,0,,Ora, cari clienti, vi prego di continuare il vostro pasto.
 Dialogue: 10,0:27:37.71,0:27:39.51,Main-207-,,0,0,0,,Per favore non tornare più.
 Dialogue: 10,0:27:44.14,0:27:48.64,Main-207-,,0,0,0,,Maledizione! In condizioni normali, quel bastardo non mi avrebbe toccato.
 Dialogue: 10,0:27:59.69,0:28:00.40,Main-207-,,0,0,0,,Mangia.
@@ -1539,7 +1539,7 @@ Dialogue: 10,0:28:31.89,0:28:34.40,Main-207-,,0,0,0,,potrai arrivare a vedere do
 Dialogue: 10,0:28:47.95,0:28:49.24,Main-207-,,0,0,0,,Sono cosi imbarazzato.
 Dialogue: 10,0:28:51.20,0:28:55.46,Main-207-,,0,0,0,,Scusa... Grazie...\NPensavo che sarei morto.
 Dialogue: 10,0:28:55.46,0:28:57.54,Main-207-,,0,0,0,,Pensavo fosse la fine.
-Dialogue: 10,0:29:02.38,0:29:04.80,Main-207-,,0,0,0,,Squisito... è davvero squisito
+Dialogue: 10,0:29:02.38,0:29:04.80,Main-207-,,0,0,0,,Squisito... è davvero squisito.
 Dialogue: 10,0:29:04.80,0:29:08.47,Main-207-,,0,0,0,,Non ho mai mangiato cibo così buono.
 Dialogue: 10,0:29:13.27,0:29:14.48,Main-207-,,0,0,0,,È maledettamente buono, eh?
 Dialogue: 10,0:29:16.48,0:29:18.77,Main-207-,,0,0,0,,Ho trovato un grande cuoco!
